@@ -1,0 +1,14 @@
+{
+    "name": "js-playing-around",
+    "version": "1.0.0",
+    "description": "Repo with scripts creating for debugging and playing around with Javascript",
+    "repository": "https://github.com/diogosantana2011/JS_test",
+    "author": "Diogo Santana",
+    "license": "MIT",
+    "main": "/JS",
+    "dependencies": {
+    },
+    "scripts": {
+    }
+  }
+  
