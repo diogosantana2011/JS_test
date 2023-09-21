@@ -1,3 +1,5 @@
+import fetch from 'node-fetch';
+
 const checkForText = (url, text) => {
     const page = fetch(url);
     const body = page.text;

@@ -6,9 +6,9 @@
     "author": "Diogo Santana",
     "license": "MIT",
     "main": "/JS",
+    "type": "module",
     "dependencies": {
+        "node-fetch": "3.3.2"
     },
-    "scripts": {
-    }
-  }
-  
+    "scripts": {}
+}
