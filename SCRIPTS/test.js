@@ -9,4 +9,4 @@ const checkForText = (url, text) => {
     }
 }
 
-checkForText('https://www.komoot.com/team', 'Quality');
+checkForText('https://www.google.com/', 'Google');
