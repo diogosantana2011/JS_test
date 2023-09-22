@@ -421,5 +421,5 @@ const createUser = (userGroups, numUsers) => {
 };
 
 createUser('ADMIN', 2)
-formatUser('WAREHOUSE', 2)
-formatUser('OPERATOR', 2)
+createUser('WAREHOUSE', 2)
+createUser('OPERATOR', 2)
