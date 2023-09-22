@@ -64,7 +64,7 @@ const createUser = (userGroups, numUsers) => {
                 ],
                 "createdBy": "Automation script",
                 "updatedBy": "Automation script",
-                "company": "PT QA - Games Innovation Labs",
+                "company": "Playtech QA Auto",
                 "status": "active",
                 "timestampCreated": 685522383000,
                 "timestampModified": 685522383000,
@@ -120,7 +120,7 @@ const createUser = (userGroups, numUsers) => {
             });
         };
 
-        fs.writeFile('json-output/adminUsers.json', JSON.stringify(adminUsers, null, 4), (err) => {
+        fs.writeFile('json-output/adminUsers.js', JSON.stringify(adminUsers, null, 4), (err) => {
             if(err) throw err;
             console.log('Admin file successfully written')
         });
@@ -141,7 +141,7 @@ const createUser = (userGroups, numUsers) => {
                 ],
                 "createdBy": "Automation Script",
                 "updatedBy": "Automation Script",
-                "company": "Playtech QA",
+                "company": "Playtech QA Auto",
                 "status": "active",
                 "timestampCreated": {
                     "$numberLong": "685522383000"
@@ -351,7 +351,7 @@ const createUser = (userGroups, numUsers) => {
                 ],
                 "createdBy": "Automation Script",
                 "updatedBy": "Automation Script",
-                "company": "Playtech Auto QA",
+                "company": "Playtech QA Auto",
                 "status": "active",
                 "timestampCreated": {
                     "$numberLong": "1687163913806"
