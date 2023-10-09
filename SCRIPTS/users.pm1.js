@@ -9,20 +9,17 @@ const createDBUserObj = (numUsers) => {
         let skinId = `QA_skin${i}`;
         let imsInstanceName = `PM1_qa_brand.qa_skin${i}`;
         let usersToUpdate = {
-            "skinArray": [
-              {
-                "skinId": skinId,
-                "skinName": skinName,
-                "imsInstanceName": imsInstanceName,
-                "rgsArray": [
-                  {
-                    "rgsId": "win_gpas_rgs",
-                    "rgsName": "GPAS RGS"
-                  }
-                ]
-              }
-            ]
+          "skinId": skinId,
+          "skinName": skinName,
+          "imsInstanceName": imsInstanceName,
+          "rgsArray": [
+            {
+              "rgsId": "win_gpas_rgs",
+              "rgsName": "GPAS RGS"
+            }
+          ]
         };
+            
         // Object assign
         // Object.assign(usersObj, usersToUpdate)
         /**

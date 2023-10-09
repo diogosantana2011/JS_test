@@ -1,3016 +1,2212 @@
 [
     {
-        "skinArray": [
+        "skinId": "QA_skin0",
+        "skinName": "QA Skin 0",
+        "imsInstanceName": "PM1_qa_brand.qa_skin0",
+        "rgsArray": [
             {
-                "skinId": "QA_skin0",
-                "skinName": "QA Skin 0",
-                "imsInstanceName": "PM1_qa_brand.qa_skin0",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin1",
+        "skinName": "QA Skin 1",
+        "imsInstanceName": "PM1_qa_brand.qa_skin1",
+        "rgsArray": [
             {
-                "skinId": "QA_skin1",
-                "skinName": "QA Skin 1",
-                "imsInstanceName": "PM1_qa_brand.qa_skin1",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin2",
+        "skinName": "QA Skin 2",
+        "imsInstanceName": "PM1_qa_brand.qa_skin2",
+        "rgsArray": [
             {
-                "skinId": "QA_skin2",
-                "skinName": "QA Skin 2",
-                "imsInstanceName": "PM1_qa_brand.qa_skin2",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin3",
+        "skinName": "QA Skin 3",
+        "imsInstanceName": "PM1_qa_brand.qa_skin3",
+        "rgsArray": [
             {
-                "skinId": "QA_skin3",
-                "skinName": "QA Skin 3",
-                "imsInstanceName": "PM1_qa_brand.qa_skin3",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin4",
+        "skinName": "QA Skin 4",
+        "imsInstanceName": "PM1_qa_brand.qa_skin4",
+        "rgsArray": [
             {
-                "skinId": "QA_skin4",
-                "skinName": "QA Skin 4",
-                "imsInstanceName": "PM1_qa_brand.qa_skin4",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin5",
+        "skinName": "QA Skin 5",
+        "imsInstanceName": "PM1_qa_brand.qa_skin5",
+        "rgsArray": [
             {
-                "skinId": "QA_skin5",
-                "skinName": "QA Skin 5",
-                "imsInstanceName": "PM1_qa_brand.qa_skin5",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin6",
+        "skinName": "QA Skin 6",
+        "imsInstanceName": "PM1_qa_brand.qa_skin6",
+        "rgsArray": [
             {
-                "skinId": "QA_skin6",
-                "skinName": "QA Skin 6",
-                "imsInstanceName": "PM1_qa_brand.qa_skin6",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin7",
+        "skinName": "QA Skin 7",
+        "imsInstanceName": "PM1_qa_brand.qa_skin7",
+        "rgsArray": [
             {
-                "skinId": "QA_skin7",
-                "skinName": "QA Skin 7",
-                "imsInstanceName": "PM1_qa_brand.qa_skin7",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin8",
+        "skinName": "QA Skin 8",
+        "imsInstanceName": "PM1_qa_brand.qa_skin8",
+        "rgsArray": [
             {
-                "skinId": "QA_skin8",
-                "skinName": "QA Skin 8",
-                "imsInstanceName": "PM1_qa_brand.qa_skin8",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin9",
+        "skinName": "QA Skin 9",
+        "imsInstanceName": "PM1_qa_brand.qa_skin9",
+        "rgsArray": [
             {
-                "skinId": "QA_skin9",
-                "skinName": "QA Skin 9",
-                "imsInstanceName": "PM1_qa_brand.qa_skin9",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin10",
+        "skinName": "QA Skin 10",
+        "imsInstanceName": "PM1_qa_brand.qa_skin10",
+        "rgsArray": [
             {
-                "skinId": "QA_skin10",
-                "skinName": "QA Skin 10",
-                "imsInstanceName": "PM1_qa_brand.qa_skin10",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin11",
+        "skinName": "QA Skin 11",
+        "imsInstanceName": "PM1_qa_brand.qa_skin11",
+        "rgsArray": [
             {
-                "skinId": "QA_skin11",
-                "skinName": "QA Skin 11",
-                "imsInstanceName": "PM1_qa_brand.qa_skin11",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin12",
+        "skinName": "QA Skin 12",
+        "imsInstanceName": "PM1_qa_brand.qa_skin12",
+        "rgsArray": [
             {
-                "skinId": "QA_skin12",
-                "skinName": "QA Skin 12",
-                "imsInstanceName": "PM1_qa_brand.qa_skin12",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin13",
+        "skinName": "QA Skin 13",
+        "imsInstanceName": "PM1_qa_brand.qa_skin13",
+        "rgsArray": [
             {
-                "skinId": "QA_skin13",
-                "skinName": "QA Skin 13",
-                "imsInstanceName": "PM1_qa_brand.qa_skin13",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin14",
+        "skinName": "QA Skin 14",
+        "imsInstanceName": "PM1_qa_brand.qa_skin14",
+        "rgsArray": [
             {
-                "skinId": "QA_skin14",
-                "skinName": "QA Skin 14",
-                "imsInstanceName": "PM1_qa_brand.qa_skin14",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin15",
+        "skinName": "QA Skin 15",
+        "imsInstanceName": "PM1_qa_brand.qa_skin15",
+        "rgsArray": [
             {
-                "skinId": "QA_skin15",
-                "skinName": "QA Skin 15",
-                "imsInstanceName": "PM1_qa_brand.qa_skin15",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin16",
+        "skinName": "QA Skin 16",
+        "imsInstanceName": "PM1_qa_brand.qa_skin16",
+        "rgsArray": [
             {
-                "skinId": "QA_skin16",
-                "skinName": "QA Skin 16",
-                "imsInstanceName": "PM1_qa_brand.qa_skin16",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin17",
+        "skinName": "QA Skin 17",
+        "imsInstanceName": "PM1_qa_brand.qa_skin17",
+        "rgsArray": [
             {
-                "skinId": "QA_skin17",
-                "skinName": "QA Skin 17",
-                "imsInstanceName": "PM1_qa_brand.qa_skin17",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin18",
+        "skinName": "QA Skin 18",
+        "imsInstanceName": "PM1_qa_brand.qa_skin18",
+        "rgsArray": [
             {
-                "skinId": "QA_skin18",
-                "skinName": "QA Skin 18",
-                "imsInstanceName": "PM1_qa_brand.qa_skin18",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin19",
+        "skinName": "QA Skin 19",
+        "imsInstanceName": "PM1_qa_brand.qa_skin19",
+        "rgsArray": [
             {
-                "skinId": "QA_skin19",
-                "skinName": "QA Skin 19",
-                "imsInstanceName": "PM1_qa_brand.qa_skin19",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin20",
+        "skinName": "QA Skin 20",
+        "imsInstanceName": "PM1_qa_brand.qa_skin20",
+        "rgsArray": [
             {
-                "skinId": "QA_skin20",
-                "skinName": "QA Skin 20",
-                "imsInstanceName": "PM1_qa_brand.qa_skin20",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin21",
+        "skinName": "QA Skin 21",
+        "imsInstanceName": "PM1_qa_brand.qa_skin21",
+        "rgsArray": [
             {
-                "skinId": "QA_skin21",
-                "skinName": "QA Skin 21",
-                "imsInstanceName": "PM1_qa_brand.qa_skin21",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin22",
+        "skinName": "QA Skin 22",
+        "imsInstanceName": "PM1_qa_brand.qa_skin22",
+        "rgsArray": [
             {
-                "skinId": "QA_skin22",
-                "skinName": "QA Skin 22",
-                "imsInstanceName": "PM1_qa_brand.qa_skin22",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin23",
+        "skinName": "QA Skin 23",
+        "imsInstanceName": "PM1_qa_brand.qa_skin23",
+        "rgsArray": [
             {
-                "skinId": "QA_skin23",
-                "skinName": "QA Skin 23",
-                "imsInstanceName": "PM1_qa_brand.qa_skin23",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin24",
+        "skinName": "QA Skin 24",
+        "imsInstanceName": "PM1_qa_brand.qa_skin24",
+        "rgsArray": [
             {
-                "skinId": "QA_skin24",
-                "skinName": "QA Skin 24",
-                "imsInstanceName": "PM1_qa_brand.qa_skin24",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin25",
+        "skinName": "QA Skin 25",
+        "imsInstanceName": "PM1_qa_brand.qa_skin25",
+        "rgsArray": [
             {
-                "skinId": "QA_skin25",
-                "skinName": "QA Skin 25",
-                "imsInstanceName": "PM1_qa_brand.qa_skin25",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin26",
+        "skinName": "QA Skin 26",
+        "imsInstanceName": "PM1_qa_brand.qa_skin26",
+        "rgsArray": [
             {
-                "skinId": "QA_skin26",
-                "skinName": "QA Skin 26",
-                "imsInstanceName": "PM1_qa_brand.qa_skin26",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin27",
+        "skinName": "QA Skin 27",
+        "imsInstanceName": "PM1_qa_brand.qa_skin27",
+        "rgsArray": [
             {
-                "skinId": "QA_skin27",
-                "skinName": "QA Skin 27",
-                "imsInstanceName": "PM1_qa_brand.qa_skin27",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin28",
+        "skinName": "QA Skin 28",
+        "imsInstanceName": "PM1_qa_brand.qa_skin28",
+        "rgsArray": [
             {
-                "skinId": "QA_skin28",
-                "skinName": "QA Skin 28",
-                "imsInstanceName": "PM1_qa_brand.qa_skin28",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin29",
+        "skinName": "QA Skin 29",
+        "imsInstanceName": "PM1_qa_brand.qa_skin29",
+        "rgsArray": [
             {
-                "skinId": "QA_skin29",
-                "skinName": "QA Skin 29",
-                "imsInstanceName": "PM1_qa_brand.qa_skin29",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin30",
+        "skinName": "QA Skin 30",
+        "imsInstanceName": "PM1_qa_brand.qa_skin30",
+        "rgsArray": [
             {
-                "skinId": "QA_skin30",
-                "skinName": "QA Skin 30",
-                "imsInstanceName": "PM1_qa_brand.qa_skin30",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin31",
+        "skinName": "QA Skin 31",
+        "imsInstanceName": "PM1_qa_brand.qa_skin31",
+        "rgsArray": [
             {
-                "skinId": "QA_skin31",
-                "skinName": "QA Skin 31",
-                "imsInstanceName": "PM1_qa_brand.qa_skin31",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin32",
+        "skinName": "QA Skin 32",
+        "imsInstanceName": "PM1_qa_brand.qa_skin32",
+        "rgsArray": [
             {
-                "skinId": "QA_skin32",
-                "skinName": "QA Skin 32",
-                "imsInstanceName": "PM1_qa_brand.qa_skin32",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin33",
+        "skinName": "QA Skin 33",
+        "imsInstanceName": "PM1_qa_brand.qa_skin33",
+        "rgsArray": [
             {
-                "skinId": "QA_skin33",
-                "skinName": "QA Skin 33",
-                "imsInstanceName": "PM1_qa_brand.qa_skin33",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin34",
+        "skinName": "QA Skin 34",
+        "imsInstanceName": "PM1_qa_brand.qa_skin34",
+        "rgsArray": [
             {
-                "skinId": "QA_skin34",
-                "skinName": "QA Skin 34",
-                "imsInstanceName": "PM1_qa_brand.qa_skin34",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin35",
+        "skinName": "QA Skin 35",
+        "imsInstanceName": "PM1_qa_brand.qa_skin35",
+        "rgsArray": [
             {
-                "skinId": "QA_skin35",
-                "skinName": "QA Skin 35",
-                "imsInstanceName": "PM1_qa_brand.qa_skin35",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin36",
+        "skinName": "QA Skin 36",
+        "imsInstanceName": "PM1_qa_brand.qa_skin36",
+        "rgsArray": [
             {
-                "skinId": "QA_skin36",
-                "skinName": "QA Skin 36",
-                "imsInstanceName": "PM1_qa_brand.qa_skin36",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin37",
+        "skinName": "QA Skin 37",
+        "imsInstanceName": "PM1_qa_brand.qa_skin37",
+        "rgsArray": [
             {
-                "skinId": "QA_skin37",
-                "skinName": "QA Skin 37",
-                "imsInstanceName": "PM1_qa_brand.qa_skin37",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin38",
+        "skinName": "QA Skin 38",
+        "imsInstanceName": "PM1_qa_brand.qa_skin38",
+        "rgsArray": [
             {
-                "skinId": "QA_skin38",
-                "skinName": "QA Skin 38",
-                "imsInstanceName": "PM1_qa_brand.qa_skin38",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin39",
+        "skinName": "QA Skin 39",
+        "imsInstanceName": "PM1_qa_brand.qa_skin39",
+        "rgsArray": [
             {
-                "skinId": "QA_skin39",
-                "skinName": "QA Skin 39",
-                "imsInstanceName": "PM1_qa_brand.qa_skin39",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin40",
+        "skinName": "QA Skin 40",
+        "imsInstanceName": "PM1_qa_brand.qa_skin40",
+        "rgsArray": [
             {
-                "skinId": "QA_skin40",
-                "skinName": "QA Skin 40",
-                "imsInstanceName": "PM1_qa_brand.qa_skin40",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin41",
+        "skinName": "QA Skin 41",
+        "imsInstanceName": "PM1_qa_brand.qa_skin41",
+        "rgsArray": [
             {
-                "skinId": "QA_skin41",
-                "skinName": "QA Skin 41",
-                "imsInstanceName": "PM1_qa_brand.qa_skin41",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin42",
+        "skinName": "QA Skin 42",
+        "imsInstanceName": "PM1_qa_brand.qa_skin42",
+        "rgsArray": [
             {
-                "skinId": "QA_skin42",
-                "skinName": "QA Skin 42",
-                "imsInstanceName": "PM1_qa_brand.qa_skin42",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin43",
+        "skinName": "QA Skin 43",
+        "imsInstanceName": "PM1_qa_brand.qa_skin43",
+        "rgsArray": [
             {
-                "skinId": "QA_skin43",
-                "skinName": "QA Skin 43",
-                "imsInstanceName": "PM1_qa_brand.qa_skin43",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin44",
+        "skinName": "QA Skin 44",
+        "imsInstanceName": "PM1_qa_brand.qa_skin44",
+        "rgsArray": [
             {
-                "skinId": "QA_skin44",
-                "skinName": "QA Skin 44",
-                "imsInstanceName": "PM1_qa_brand.qa_skin44",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin45",
+        "skinName": "QA Skin 45",
+        "imsInstanceName": "PM1_qa_brand.qa_skin45",
+        "rgsArray": [
             {
-                "skinId": "QA_skin45",
-                "skinName": "QA Skin 45",
-                "imsInstanceName": "PM1_qa_brand.qa_skin45",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin46",
+        "skinName": "QA Skin 46",
+        "imsInstanceName": "PM1_qa_brand.qa_skin46",
+        "rgsArray": [
             {
-                "skinId": "QA_skin46",
-                "skinName": "QA Skin 46",
-                "imsInstanceName": "PM1_qa_brand.qa_skin46",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin47",
+        "skinName": "QA Skin 47",
+        "imsInstanceName": "PM1_qa_brand.qa_skin47",
+        "rgsArray": [
             {
-                "skinId": "QA_skin47",
-                "skinName": "QA Skin 47",
-                "imsInstanceName": "PM1_qa_brand.qa_skin47",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin48",
+        "skinName": "QA Skin 48",
+        "imsInstanceName": "PM1_qa_brand.qa_skin48",
+        "rgsArray": [
             {
-                "skinId": "QA_skin48",
-                "skinName": "QA Skin 48",
-                "imsInstanceName": "PM1_qa_brand.qa_skin48",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin49",
+        "skinName": "QA Skin 49",
+        "imsInstanceName": "PM1_qa_brand.qa_skin49",
+        "rgsArray": [
             {
-                "skinId": "QA_skin49",
-                "skinName": "QA Skin 49",
-                "imsInstanceName": "PM1_qa_brand.qa_skin49",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin50",
+        "skinName": "QA Skin 50",
+        "imsInstanceName": "PM1_qa_brand.qa_skin50",
+        "rgsArray": [
             {
-                "skinId": "QA_skin50",
-                "skinName": "QA Skin 50",
-                "imsInstanceName": "PM1_qa_brand.qa_skin50",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin51",
+        "skinName": "QA Skin 51",
+        "imsInstanceName": "PM1_qa_brand.qa_skin51",
+        "rgsArray": [
             {
-                "skinId": "QA_skin51",
-                "skinName": "QA Skin 51",
-                "imsInstanceName": "PM1_qa_brand.qa_skin51",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin52",
+        "skinName": "QA Skin 52",
+        "imsInstanceName": "PM1_qa_brand.qa_skin52",
+        "rgsArray": [
             {
-                "skinId": "QA_skin52",
-                "skinName": "QA Skin 52",
-                "imsInstanceName": "PM1_qa_brand.qa_skin52",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin53",
+        "skinName": "QA Skin 53",
+        "imsInstanceName": "PM1_qa_brand.qa_skin53",
+        "rgsArray": [
             {
-                "skinId": "QA_skin53",
-                "skinName": "QA Skin 53",
-                "imsInstanceName": "PM1_qa_brand.qa_skin53",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin54",
+        "skinName": "QA Skin 54",
+        "imsInstanceName": "PM1_qa_brand.qa_skin54",
+        "rgsArray": [
             {
-                "skinId": "QA_skin54",
-                "skinName": "QA Skin 54",
-                "imsInstanceName": "PM1_qa_brand.qa_skin54",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin55",
+        "skinName": "QA Skin 55",
+        "imsInstanceName": "PM1_qa_brand.qa_skin55",
+        "rgsArray": [
             {
-                "skinId": "QA_skin55",
-                "skinName": "QA Skin 55",
-                "imsInstanceName": "PM1_qa_brand.qa_skin55",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin56",
+        "skinName": "QA Skin 56",
+        "imsInstanceName": "PM1_qa_brand.qa_skin56",
+        "rgsArray": [
             {
-                "skinId": "QA_skin56",
-                "skinName": "QA Skin 56",
-                "imsInstanceName": "PM1_qa_brand.qa_skin56",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin57",
+        "skinName": "QA Skin 57",
+        "imsInstanceName": "PM1_qa_brand.qa_skin57",
+        "rgsArray": [
             {
-                "skinId": "QA_skin57",
-                "skinName": "QA Skin 57",
-                "imsInstanceName": "PM1_qa_brand.qa_skin57",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin58",
+        "skinName": "QA Skin 58",
+        "imsInstanceName": "PM1_qa_brand.qa_skin58",
+        "rgsArray": [
             {
-                "skinId": "QA_skin58",
-                "skinName": "QA Skin 58",
-                "imsInstanceName": "PM1_qa_brand.qa_skin58",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin59",
+        "skinName": "QA Skin 59",
+        "imsInstanceName": "PM1_qa_brand.qa_skin59",
+        "rgsArray": [
             {
-                "skinId": "QA_skin59",
-                "skinName": "QA Skin 59",
-                "imsInstanceName": "PM1_qa_brand.qa_skin59",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin60",
+        "skinName": "QA Skin 60",
+        "imsInstanceName": "PM1_qa_brand.qa_skin60",
+        "rgsArray": [
             {
-                "skinId": "QA_skin60",
-                "skinName": "QA Skin 60",
-                "imsInstanceName": "PM1_qa_brand.qa_skin60",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin61",
+        "skinName": "QA Skin 61",
+        "imsInstanceName": "PM1_qa_brand.qa_skin61",
+        "rgsArray": [
             {
-                "skinId": "QA_skin61",
-                "skinName": "QA Skin 61",
-                "imsInstanceName": "PM1_qa_brand.qa_skin61",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin62",
+        "skinName": "QA Skin 62",
+        "imsInstanceName": "PM1_qa_brand.qa_skin62",
+        "rgsArray": [
             {
-                "skinId": "QA_skin62",
-                "skinName": "QA Skin 62",
-                "imsInstanceName": "PM1_qa_brand.qa_skin62",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin63",
+        "skinName": "QA Skin 63",
+        "imsInstanceName": "PM1_qa_brand.qa_skin63",
+        "rgsArray": [
             {
-                "skinId": "QA_skin63",
-                "skinName": "QA Skin 63",
-                "imsInstanceName": "PM1_qa_brand.qa_skin63",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin64",
+        "skinName": "QA Skin 64",
+        "imsInstanceName": "PM1_qa_brand.qa_skin64",
+        "rgsArray": [
             {
-                "skinId": "QA_skin64",
-                "skinName": "QA Skin 64",
-                "imsInstanceName": "PM1_qa_brand.qa_skin64",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin65",
+        "skinName": "QA Skin 65",
+        "imsInstanceName": "PM1_qa_brand.qa_skin65",
+        "rgsArray": [
             {
-                "skinId": "QA_skin65",
-                "skinName": "QA Skin 65",
-                "imsInstanceName": "PM1_qa_brand.qa_skin65",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin66",
+        "skinName": "QA Skin 66",
+        "imsInstanceName": "PM1_qa_brand.qa_skin66",
+        "rgsArray": [
             {
-                "skinId": "QA_skin66",
-                "skinName": "QA Skin 66",
-                "imsInstanceName": "PM1_qa_brand.qa_skin66",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin67",
+        "skinName": "QA Skin 67",
+        "imsInstanceName": "PM1_qa_brand.qa_skin67",
+        "rgsArray": [
             {
-                "skinId": "QA_skin67",
-                "skinName": "QA Skin 67",
-                "imsInstanceName": "PM1_qa_brand.qa_skin67",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin68",
+        "skinName": "QA Skin 68",
+        "imsInstanceName": "PM1_qa_brand.qa_skin68",
+        "rgsArray": [
             {
-                "skinId": "QA_skin68",
-                "skinName": "QA Skin 68",
-                "imsInstanceName": "PM1_qa_brand.qa_skin68",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin69",
+        "skinName": "QA Skin 69",
+        "imsInstanceName": "PM1_qa_brand.qa_skin69",
+        "rgsArray": [
             {
-                "skinId": "QA_skin69",
-                "skinName": "QA Skin 69",
-                "imsInstanceName": "PM1_qa_brand.qa_skin69",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin70",
+        "skinName": "QA Skin 70",
+        "imsInstanceName": "PM1_qa_brand.qa_skin70",
+        "rgsArray": [
             {
-                "skinId": "QA_skin70",
-                "skinName": "QA Skin 70",
-                "imsInstanceName": "PM1_qa_brand.qa_skin70",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin71",
+        "skinName": "QA Skin 71",
+        "imsInstanceName": "PM1_qa_brand.qa_skin71",
+        "rgsArray": [
             {
-                "skinId": "QA_skin71",
-                "skinName": "QA Skin 71",
-                "imsInstanceName": "PM1_qa_brand.qa_skin71",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin72",
+        "skinName": "QA Skin 72",
+        "imsInstanceName": "PM1_qa_brand.qa_skin72",
+        "rgsArray": [
             {
-                "skinId": "QA_skin72",
-                "skinName": "QA Skin 72",
-                "imsInstanceName": "PM1_qa_brand.qa_skin72",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin73",
+        "skinName": "QA Skin 73",
+        "imsInstanceName": "PM1_qa_brand.qa_skin73",
+        "rgsArray": [
             {
-                "skinId": "QA_skin73",
-                "skinName": "QA Skin 73",
-                "imsInstanceName": "PM1_qa_brand.qa_skin73",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin74",
+        "skinName": "QA Skin 74",
+        "imsInstanceName": "PM1_qa_brand.qa_skin74",
+        "rgsArray": [
             {
-                "skinId": "QA_skin74",
-                "skinName": "QA Skin 74",
-                "imsInstanceName": "PM1_qa_brand.qa_skin74",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin75",
+        "skinName": "QA Skin 75",
+        "imsInstanceName": "PM1_qa_brand.qa_skin75",
+        "rgsArray": [
             {
-                "skinId": "QA_skin75",
-                "skinName": "QA Skin 75",
-                "imsInstanceName": "PM1_qa_brand.qa_skin75",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin76",
+        "skinName": "QA Skin 76",
+        "imsInstanceName": "PM1_qa_brand.qa_skin76",
+        "rgsArray": [
             {
-                "skinId": "QA_skin76",
-                "skinName": "QA Skin 76",
-                "imsInstanceName": "PM1_qa_brand.qa_skin76",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin77",
+        "skinName": "QA Skin 77",
+        "imsInstanceName": "PM1_qa_brand.qa_skin77",
+        "rgsArray": [
             {
-                "skinId": "QA_skin77",
-                "skinName": "QA Skin 77",
-                "imsInstanceName": "PM1_qa_brand.qa_skin77",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin78",
+        "skinName": "QA Skin 78",
+        "imsInstanceName": "PM1_qa_brand.qa_skin78",
+        "rgsArray": [
             {
-                "skinId": "QA_skin78",
-                "skinName": "QA Skin 78",
-                "imsInstanceName": "PM1_qa_brand.qa_skin78",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin79",
+        "skinName": "QA Skin 79",
+        "imsInstanceName": "PM1_qa_brand.qa_skin79",
+        "rgsArray": [
             {
-                "skinId": "QA_skin79",
-                "skinName": "QA Skin 79",
-                "imsInstanceName": "PM1_qa_brand.qa_skin79",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin80",
+        "skinName": "QA Skin 80",
+        "imsInstanceName": "PM1_qa_brand.qa_skin80",
+        "rgsArray": [
             {
-                "skinId": "QA_skin80",
-                "skinName": "QA Skin 80",
-                "imsInstanceName": "PM1_qa_brand.qa_skin80",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin81",
+        "skinName": "QA Skin 81",
+        "imsInstanceName": "PM1_qa_brand.qa_skin81",
+        "rgsArray": [
             {
-                "skinId": "QA_skin81",
-                "skinName": "QA Skin 81",
-                "imsInstanceName": "PM1_qa_brand.qa_skin81",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin82",
+        "skinName": "QA Skin 82",
+        "imsInstanceName": "PM1_qa_brand.qa_skin82",
+        "rgsArray": [
             {
-                "skinId": "QA_skin82",
-                "skinName": "QA Skin 82",
-                "imsInstanceName": "PM1_qa_brand.qa_skin82",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin83",
+        "skinName": "QA Skin 83",
+        "imsInstanceName": "PM1_qa_brand.qa_skin83",
+        "rgsArray": [
             {
-                "skinId": "QA_skin83",
-                "skinName": "QA Skin 83",
-                "imsInstanceName": "PM1_qa_brand.qa_skin83",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin84",
+        "skinName": "QA Skin 84",
+        "imsInstanceName": "PM1_qa_brand.qa_skin84",
+        "rgsArray": [
             {
-                "skinId": "QA_skin84",
-                "skinName": "QA Skin 84",
-                "imsInstanceName": "PM1_qa_brand.qa_skin84",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin85",
+        "skinName": "QA Skin 85",
+        "imsInstanceName": "PM1_qa_brand.qa_skin85",
+        "rgsArray": [
             {
-                "skinId": "QA_skin85",
-                "skinName": "QA Skin 85",
-                "imsInstanceName": "PM1_qa_brand.qa_skin85",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin86",
+        "skinName": "QA Skin 86",
+        "imsInstanceName": "PM1_qa_brand.qa_skin86",
+        "rgsArray": [
             {
-                "skinId": "QA_skin86",
-                "skinName": "QA Skin 86",
-                "imsInstanceName": "PM1_qa_brand.qa_skin86",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin87",
+        "skinName": "QA Skin 87",
+        "imsInstanceName": "PM1_qa_brand.qa_skin87",
+        "rgsArray": [
             {
-                "skinId": "QA_skin87",
-                "skinName": "QA Skin 87",
-                "imsInstanceName": "PM1_qa_brand.qa_skin87",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin88",
+        "skinName": "QA Skin 88",
+        "imsInstanceName": "PM1_qa_brand.qa_skin88",
+        "rgsArray": [
             {
-                "skinId": "QA_skin88",
-                "skinName": "QA Skin 88",
-                "imsInstanceName": "PM1_qa_brand.qa_skin88",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin89",
+        "skinName": "QA Skin 89",
+        "imsInstanceName": "PM1_qa_brand.qa_skin89",
+        "rgsArray": [
             {
-                "skinId": "QA_skin89",
-                "skinName": "QA Skin 89",
-                "imsInstanceName": "PM1_qa_brand.qa_skin89",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin90",
+        "skinName": "QA Skin 90",
+        "imsInstanceName": "PM1_qa_brand.qa_skin90",
+        "rgsArray": [
             {
-                "skinId": "QA_skin90",
-                "skinName": "QA Skin 90",
-                "imsInstanceName": "PM1_qa_brand.qa_skin90",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin91",
+        "skinName": "QA Skin 91",
+        "imsInstanceName": "PM1_qa_brand.qa_skin91",
+        "rgsArray": [
             {
-                "skinId": "QA_skin91",
-                "skinName": "QA Skin 91",
-                "imsInstanceName": "PM1_qa_brand.qa_skin91",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin92",
+        "skinName": "QA Skin 92",
+        "imsInstanceName": "PM1_qa_brand.qa_skin92",
+        "rgsArray": [
             {
-                "skinId": "QA_skin92",
-                "skinName": "QA Skin 92",
-                "imsInstanceName": "PM1_qa_brand.qa_skin92",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin93",
+        "skinName": "QA Skin 93",
+        "imsInstanceName": "PM1_qa_brand.qa_skin93",
+        "rgsArray": [
             {
-                "skinId": "QA_skin93",
-                "skinName": "QA Skin 93",
-                "imsInstanceName": "PM1_qa_brand.qa_skin93",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin94",
+        "skinName": "QA Skin 94",
+        "imsInstanceName": "PM1_qa_brand.qa_skin94",
+        "rgsArray": [
             {
-                "skinId": "QA_skin94",
-                "skinName": "QA Skin 94",
-                "imsInstanceName": "PM1_qa_brand.qa_skin94",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin95",
+        "skinName": "QA Skin 95",
+        "imsInstanceName": "PM1_qa_brand.qa_skin95",
+        "rgsArray": [
             {
-                "skinId": "QA_skin95",
-                "skinName": "QA Skin 95",
-                "imsInstanceName": "PM1_qa_brand.qa_skin95",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin96",
+        "skinName": "QA Skin 96",
+        "imsInstanceName": "PM1_qa_brand.qa_skin96",
+        "rgsArray": [
             {
-                "skinId": "QA_skin96",
-                "skinName": "QA Skin 96",
-                "imsInstanceName": "PM1_qa_brand.qa_skin96",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin97",
+        "skinName": "QA Skin 97",
+        "imsInstanceName": "PM1_qa_brand.qa_skin97",
+        "rgsArray": [
             {
-                "skinId": "QA_skin97",
-                "skinName": "QA Skin 97",
-                "imsInstanceName": "PM1_qa_brand.qa_skin97",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin98",
+        "skinName": "QA Skin 98",
+        "imsInstanceName": "PM1_qa_brand.qa_skin98",
+        "rgsArray": [
             {
-                "skinId": "QA_skin98",
-                "skinName": "QA Skin 98",
-                "imsInstanceName": "PM1_qa_brand.qa_skin98",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin99",
+        "skinName": "QA Skin 99",
+        "imsInstanceName": "PM1_qa_brand.qa_skin99",
+        "rgsArray": [
             {
-                "skinId": "QA_skin99",
-                "skinName": "QA Skin 99",
-                "imsInstanceName": "PM1_qa_brand.qa_skin99",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin100",
+        "skinName": "QA Skin 100",
+        "imsInstanceName": "PM1_qa_brand.qa_skin100",
+        "rgsArray": [
             {
-                "skinId": "QA_skin100",
-                "skinName": "QA Skin 100",
-                "imsInstanceName": "PM1_qa_brand.qa_skin100",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin101",
+        "skinName": "QA Skin 101",
+        "imsInstanceName": "PM1_qa_brand.qa_skin101",
+        "rgsArray": [
             {
-                "skinId": "QA_skin101",
-                "skinName": "QA Skin 101",
-                "imsInstanceName": "PM1_qa_brand.qa_skin101",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin102",
+        "skinName": "QA Skin 102",
+        "imsInstanceName": "PM1_qa_brand.qa_skin102",
+        "rgsArray": [
             {
-                "skinId": "QA_skin102",
-                "skinName": "QA Skin 102",
-                "imsInstanceName": "PM1_qa_brand.qa_skin102",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin103",
+        "skinName": "QA Skin 103",
+        "imsInstanceName": "PM1_qa_brand.qa_skin103",
+        "rgsArray": [
             {
-                "skinId": "QA_skin103",
-                "skinName": "QA Skin 103",
-                "imsInstanceName": "PM1_qa_brand.qa_skin103",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin104",
+        "skinName": "QA Skin 104",
+        "imsInstanceName": "PM1_qa_brand.qa_skin104",
+        "rgsArray": [
             {
-                "skinId": "QA_skin104",
-                "skinName": "QA Skin 104",
-                "imsInstanceName": "PM1_qa_brand.qa_skin104",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin105",
+        "skinName": "QA Skin 105",
+        "imsInstanceName": "PM1_qa_brand.qa_skin105",
+        "rgsArray": [
             {
-                "skinId": "QA_skin105",
-                "skinName": "QA Skin 105",
-                "imsInstanceName": "PM1_qa_brand.qa_skin105",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin106",
+        "skinName": "QA Skin 106",
+        "imsInstanceName": "PM1_qa_brand.qa_skin106",
+        "rgsArray": [
             {
-                "skinId": "QA_skin106",
-                "skinName": "QA Skin 106",
-                "imsInstanceName": "PM1_qa_brand.qa_skin106",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin107",
+        "skinName": "QA Skin 107",
+        "imsInstanceName": "PM1_qa_brand.qa_skin107",
+        "rgsArray": [
             {
-                "skinId": "QA_skin107",
-                "skinName": "QA Skin 107",
-                "imsInstanceName": "PM1_qa_brand.qa_skin107",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin108",
+        "skinName": "QA Skin 108",
+        "imsInstanceName": "PM1_qa_brand.qa_skin108",
+        "rgsArray": [
             {
-                "skinId": "QA_skin108",
-                "skinName": "QA Skin 108",
-                "imsInstanceName": "PM1_qa_brand.qa_skin108",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin109",
+        "skinName": "QA Skin 109",
+        "imsInstanceName": "PM1_qa_brand.qa_skin109",
+        "rgsArray": [
             {
-                "skinId": "QA_skin109",
-                "skinName": "QA Skin 109",
-                "imsInstanceName": "PM1_qa_brand.qa_skin109",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin110",
+        "skinName": "QA Skin 110",
+        "imsInstanceName": "PM1_qa_brand.qa_skin110",
+        "rgsArray": [
             {
-                "skinId": "QA_skin110",
-                "skinName": "QA Skin 110",
-                "imsInstanceName": "PM1_qa_brand.qa_skin110",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin111",
+        "skinName": "QA Skin 111",
+        "imsInstanceName": "PM1_qa_brand.qa_skin111",
+        "rgsArray": [
             {
-                "skinId": "QA_skin111",
-                "skinName": "QA Skin 111",
-                "imsInstanceName": "PM1_qa_brand.qa_skin111",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin112",
+        "skinName": "QA Skin 112",
+        "imsInstanceName": "PM1_qa_brand.qa_skin112",
+        "rgsArray": [
             {
-                "skinId": "QA_skin112",
-                "skinName": "QA Skin 112",
-                "imsInstanceName": "PM1_qa_brand.qa_skin112",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin113",
+        "skinName": "QA Skin 113",
+        "imsInstanceName": "PM1_qa_brand.qa_skin113",
+        "rgsArray": [
             {
-                "skinId": "QA_skin113",
-                "skinName": "QA Skin 113",
-                "imsInstanceName": "PM1_qa_brand.qa_skin113",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin114",
+        "skinName": "QA Skin 114",
+        "imsInstanceName": "PM1_qa_brand.qa_skin114",
+        "rgsArray": [
             {
-                "skinId": "QA_skin114",
-                "skinName": "QA Skin 114",
-                "imsInstanceName": "PM1_qa_brand.qa_skin114",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin115",
+        "skinName": "QA Skin 115",
+        "imsInstanceName": "PM1_qa_brand.qa_skin115",
+        "rgsArray": [
             {
-                "skinId": "QA_skin115",
-                "skinName": "QA Skin 115",
-                "imsInstanceName": "PM1_qa_brand.qa_skin115",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin116",
+        "skinName": "QA Skin 116",
+        "imsInstanceName": "PM1_qa_brand.qa_skin116",
+        "rgsArray": [
             {
-                "skinId": "QA_skin116",
-                "skinName": "QA Skin 116",
-                "imsInstanceName": "PM1_qa_brand.qa_skin116",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin117",
+        "skinName": "QA Skin 117",
+        "imsInstanceName": "PM1_qa_brand.qa_skin117",
+        "rgsArray": [
             {
-                "skinId": "QA_skin117",
-                "skinName": "QA Skin 117",
-                "imsInstanceName": "PM1_qa_brand.qa_skin117",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin118",
+        "skinName": "QA Skin 118",
+        "imsInstanceName": "PM1_qa_brand.qa_skin118",
+        "rgsArray": [
             {
-                "skinId": "QA_skin118",
-                "skinName": "QA Skin 118",
-                "imsInstanceName": "PM1_qa_brand.qa_skin118",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin119",
+        "skinName": "QA Skin 119",
+        "imsInstanceName": "PM1_qa_brand.qa_skin119",
+        "rgsArray": [
             {
-                "skinId": "QA_skin119",
-                "skinName": "QA Skin 119",
-                "imsInstanceName": "PM1_qa_brand.qa_skin119",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin120",
+        "skinName": "QA Skin 120",
+        "imsInstanceName": "PM1_qa_brand.qa_skin120",
+        "rgsArray": [
             {
-                "skinId": "QA_skin120",
-                "skinName": "QA Skin 120",
-                "imsInstanceName": "PM1_qa_brand.qa_skin120",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin121",
+        "skinName": "QA Skin 121",
+        "imsInstanceName": "PM1_qa_brand.qa_skin121",
+        "rgsArray": [
             {
-                "skinId": "QA_skin121",
-                "skinName": "QA Skin 121",
-                "imsInstanceName": "PM1_qa_brand.qa_skin121",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin122",
+        "skinName": "QA Skin 122",
+        "imsInstanceName": "PM1_qa_brand.qa_skin122",
+        "rgsArray": [
             {
-                "skinId": "QA_skin122",
-                "skinName": "QA Skin 122",
-                "imsInstanceName": "PM1_qa_brand.qa_skin122",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin123",
+        "skinName": "QA Skin 123",
+        "imsInstanceName": "PM1_qa_brand.qa_skin123",
+        "rgsArray": [
             {
-                "skinId": "QA_skin123",
-                "skinName": "QA Skin 123",
-                "imsInstanceName": "PM1_qa_brand.qa_skin123",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin124",
+        "skinName": "QA Skin 124",
+        "imsInstanceName": "PM1_qa_brand.qa_skin124",
+        "rgsArray": [
             {
-                "skinId": "QA_skin124",
-                "skinName": "QA Skin 124",
-                "imsInstanceName": "PM1_qa_brand.qa_skin124",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin125",
+        "skinName": "QA Skin 125",
+        "imsInstanceName": "PM1_qa_brand.qa_skin125",
+        "rgsArray": [
             {
-                "skinId": "QA_skin125",
-                "skinName": "QA Skin 125",
-                "imsInstanceName": "PM1_qa_brand.qa_skin125",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin126",
+        "skinName": "QA Skin 126",
+        "imsInstanceName": "PM1_qa_brand.qa_skin126",
+        "rgsArray": [
             {
-                "skinId": "QA_skin126",
-                "skinName": "QA Skin 126",
-                "imsInstanceName": "PM1_qa_brand.qa_skin126",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin127",
+        "skinName": "QA Skin 127",
+        "imsInstanceName": "PM1_qa_brand.qa_skin127",
+        "rgsArray": [
             {
-                "skinId": "QA_skin127",
-                "skinName": "QA Skin 127",
-                "imsInstanceName": "PM1_qa_brand.qa_skin127",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin128",
+        "skinName": "QA Skin 128",
+        "imsInstanceName": "PM1_qa_brand.qa_skin128",
+        "rgsArray": [
             {
-                "skinId": "QA_skin128",
-                "skinName": "QA Skin 128",
-                "imsInstanceName": "PM1_qa_brand.qa_skin128",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin129",
+        "skinName": "QA Skin 129",
+        "imsInstanceName": "PM1_qa_brand.qa_skin129",
+        "rgsArray": [
             {
-                "skinId": "QA_skin129",
-                "skinName": "QA Skin 129",
-                "imsInstanceName": "PM1_qa_brand.qa_skin129",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin130",
+        "skinName": "QA Skin 130",
+        "imsInstanceName": "PM1_qa_brand.qa_skin130",
+        "rgsArray": [
             {
-                "skinId": "QA_skin130",
-                "skinName": "QA Skin 130",
-                "imsInstanceName": "PM1_qa_brand.qa_skin130",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin131",
+        "skinName": "QA Skin 131",
+        "imsInstanceName": "PM1_qa_brand.qa_skin131",
+        "rgsArray": [
             {
-                "skinId": "QA_skin131",
-                "skinName": "QA Skin 131",
-                "imsInstanceName": "PM1_qa_brand.qa_skin131",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin132",
+        "skinName": "QA Skin 132",
+        "imsInstanceName": "PM1_qa_brand.qa_skin132",
+        "rgsArray": [
             {
-                "skinId": "QA_skin132",
-                "skinName": "QA Skin 132",
-                "imsInstanceName": "PM1_qa_brand.qa_skin132",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin133",
+        "skinName": "QA Skin 133",
+        "imsInstanceName": "PM1_qa_brand.qa_skin133",
+        "rgsArray": [
             {
-                "skinId": "QA_skin133",
-                "skinName": "QA Skin 133",
-                "imsInstanceName": "PM1_qa_brand.qa_skin133",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin134",
+        "skinName": "QA Skin 134",
+        "imsInstanceName": "PM1_qa_brand.qa_skin134",
+        "rgsArray": [
             {
-                "skinId": "QA_skin134",
-                "skinName": "QA Skin 134",
-                "imsInstanceName": "PM1_qa_brand.qa_skin134",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin135",
+        "skinName": "QA Skin 135",
+        "imsInstanceName": "PM1_qa_brand.qa_skin135",
+        "rgsArray": [
             {
-                "skinId": "QA_skin135",
-                "skinName": "QA Skin 135",
-                "imsInstanceName": "PM1_qa_brand.qa_skin135",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin136",
+        "skinName": "QA Skin 136",
+        "imsInstanceName": "PM1_qa_brand.qa_skin136",
+        "rgsArray": [
             {
-                "skinId": "QA_skin136",
-                "skinName": "QA Skin 136",
-                "imsInstanceName": "PM1_qa_brand.qa_skin136",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin137",
+        "skinName": "QA Skin 137",
+        "imsInstanceName": "PM1_qa_brand.qa_skin137",
+        "rgsArray": [
             {
-                "skinId": "QA_skin137",
-                "skinName": "QA Skin 137",
-                "imsInstanceName": "PM1_qa_brand.qa_skin137",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin138",
+        "skinName": "QA Skin 138",
+        "imsInstanceName": "PM1_qa_brand.qa_skin138",
+        "rgsArray": [
             {
-                "skinId": "QA_skin138",
-                "skinName": "QA Skin 138",
-                "imsInstanceName": "PM1_qa_brand.qa_skin138",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin139",
+        "skinName": "QA Skin 139",
+        "imsInstanceName": "PM1_qa_brand.qa_skin139",
+        "rgsArray": [
             {
-                "skinId": "QA_skin139",
-                "skinName": "QA Skin 139",
-                "imsInstanceName": "PM1_qa_brand.qa_skin139",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin140",
+        "skinName": "QA Skin 140",
+        "imsInstanceName": "PM1_qa_brand.qa_skin140",
+        "rgsArray": [
             {
-                "skinId": "QA_skin140",
-                "skinName": "QA Skin 140",
-                "imsInstanceName": "PM1_qa_brand.qa_skin140",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin141",
+        "skinName": "QA Skin 141",
+        "imsInstanceName": "PM1_qa_brand.qa_skin141",
+        "rgsArray": [
             {
-                "skinId": "QA_skin141",
-                "skinName": "QA Skin 141",
-                "imsInstanceName": "PM1_qa_brand.qa_skin141",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin142",
+        "skinName": "QA Skin 142",
+        "imsInstanceName": "PM1_qa_brand.qa_skin142",
+        "rgsArray": [
             {
-                "skinId": "QA_skin142",
-                "skinName": "QA Skin 142",
-                "imsInstanceName": "PM1_qa_brand.qa_skin142",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin143",
+        "skinName": "QA Skin 143",
+        "imsInstanceName": "PM1_qa_brand.qa_skin143",
+        "rgsArray": [
             {
-                "skinId": "QA_skin143",
-                "skinName": "QA Skin 143",
-                "imsInstanceName": "PM1_qa_brand.qa_skin143",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin144",
+        "skinName": "QA Skin 144",
+        "imsInstanceName": "PM1_qa_brand.qa_skin144",
+        "rgsArray": [
             {
-                "skinId": "QA_skin144",
-                "skinName": "QA Skin 144",
-                "imsInstanceName": "PM1_qa_brand.qa_skin144",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin145",
+        "skinName": "QA Skin 145",
+        "imsInstanceName": "PM1_qa_brand.qa_skin145",
+        "rgsArray": [
             {
-                "skinId": "QA_skin145",
-                "skinName": "QA Skin 145",
-                "imsInstanceName": "PM1_qa_brand.qa_skin145",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin146",
+        "skinName": "QA Skin 146",
+        "imsInstanceName": "PM1_qa_brand.qa_skin146",
+        "rgsArray": [
             {
-                "skinId": "QA_skin146",
-                "skinName": "QA Skin 146",
-                "imsInstanceName": "PM1_qa_brand.qa_skin146",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin147",
+        "skinName": "QA Skin 147",
+        "imsInstanceName": "PM1_qa_brand.qa_skin147",
+        "rgsArray": [
             {
-                "skinId": "QA_skin147",
-                "skinName": "QA Skin 147",
-                "imsInstanceName": "PM1_qa_brand.qa_skin147",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin148",
+        "skinName": "QA Skin 148",
+        "imsInstanceName": "PM1_qa_brand.qa_skin148",
+        "rgsArray": [
             {
-                "skinId": "QA_skin148",
-                "skinName": "QA Skin 148",
-                "imsInstanceName": "PM1_qa_brand.qa_skin148",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin149",
+        "skinName": "QA Skin 149",
+        "imsInstanceName": "PM1_qa_brand.qa_skin149",
+        "rgsArray": [
             {
-                "skinId": "QA_skin149",
-                "skinName": "QA Skin 149",
-                "imsInstanceName": "PM1_qa_brand.qa_skin149",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin150",
+        "skinName": "QA Skin 150",
+        "imsInstanceName": "PM1_qa_brand.qa_skin150",
+        "rgsArray": [
             {
-                "skinId": "QA_skin150",
-                "skinName": "QA Skin 150",
-                "imsInstanceName": "PM1_qa_brand.qa_skin150",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin151",
+        "skinName": "QA Skin 151",
+        "imsInstanceName": "PM1_qa_brand.qa_skin151",
+        "rgsArray": [
             {
-                "skinId": "QA_skin151",
-                "skinName": "QA Skin 151",
-                "imsInstanceName": "PM1_qa_brand.qa_skin151",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin152",
+        "skinName": "QA Skin 152",
+        "imsInstanceName": "PM1_qa_brand.qa_skin152",
+        "rgsArray": [
             {
-                "skinId": "QA_skin152",
-                "skinName": "QA Skin 152",
-                "imsInstanceName": "PM1_qa_brand.qa_skin152",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin153",
+        "skinName": "QA Skin 153",
+        "imsInstanceName": "PM1_qa_brand.qa_skin153",
+        "rgsArray": [
             {
-                "skinId": "QA_skin153",
-                "skinName": "QA Skin 153",
-                "imsInstanceName": "PM1_qa_brand.qa_skin153",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin154",
+        "skinName": "QA Skin 154",
+        "imsInstanceName": "PM1_qa_brand.qa_skin154",
+        "rgsArray": [
             {
-                "skinId": "QA_skin154",
-                "skinName": "QA Skin 154",
-                "imsInstanceName": "PM1_qa_brand.qa_skin154",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin155",
+        "skinName": "QA Skin 155",
+        "imsInstanceName": "PM1_qa_brand.qa_skin155",
+        "rgsArray": [
             {
-                "skinId": "QA_skin155",
-                "skinName": "QA Skin 155",
-                "imsInstanceName": "PM1_qa_brand.qa_skin155",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin156",
+        "skinName": "QA Skin 156",
+        "imsInstanceName": "PM1_qa_brand.qa_skin156",
+        "rgsArray": [
             {
-                "skinId": "QA_skin156",
-                "skinName": "QA Skin 156",
-                "imsInstanceName": "PM1_qa_brand.qa_skin156",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin157",
+        "skinName": "QA Skin 157",
+        "imsInstanceName": "PM1_qa_brand.qa_skin157",
+        "rgsArray": [
             {
-                "skinId": "QA_skin157",
-                "skinName": "QA Skin 157",
-                "imsInstanceName": "PM1_qa_brand.qa_skin157",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin158",
+        "skinName": "QA Skin 158",
+        "imsInstanceName": "PM1_qa_brand.qa_skin158",
+        "rgsArray": [
             {
-                "skinId": "QA_skin158",
-                "skinName": "QA Skin 158",
-                "imsInstanceName": "PM1_qa_brand.qa_skin158",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin159",
+        "skinName": "QA Skin 159",
+        "imsInstanceName": "PM1_qa_brand.qa_skin159",
+        "rgsArray": [
             {
-                "skinId": "QA_skin159",
-                "skinName": "QA Skin 159",
-                "imsInstanceName": "PM1_qa_brand.qa_skin159",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin160",
+        "skinName": "QA Skin 160",
+        "imsInstanceName": "PM1_qa_brand.qa_skin160",
+        "rgsArray": [
             {
-                "skinId": "QA_skin160",
-                "skinName": "QA Skin 160",
-                "imsInstanceName": "PM1_qa_brand.qa_skin160",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin161",
+        "skinName": "QA Skin 161",
+        "imsInstanceName": "PM1_qa_brand.qa_skin161",
+        "rgsArray": [
             {
-                "skinId": "QA_skin161",
-                "skinName": "QA Skin 161",
-                "imsInstanceName": "PM1_qa_brand.qa_skin161",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin162",
+        "skinName": "QA Skin 162",
+        "imsInstanceName": "PM1_qa_brand.qa_skin162",
+        "rgsArray": [
             {
-                "skinId": "QA_skin162",
-                "skinName": "QA Skin 162",
-                "imsInstanceName": "PM1_qa_brand.qa_skin162",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin163",
+        "skinName": "QA Skin 163",
+        "imsInstanceName": "PM1_qa_brand.qa_skin163",
+        "rgsArray": [
             {
-                "skinId": "QA_skin163",
-                "skinName": "QA Skin 163",
-                "imsInstanceName": "PM1_qa_brand.qa_skin163",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin164",
+        "skinName": "QA Skin 164",
+        "imsInstanceName": "PM1_qa_brand.qa_skin164",
+        "rgsArray": [
             {
-                "skinId": "QA_skin164",
-                "skinName": "QA Skin 164",
-                "imsInstanceName": "PM1_qa_brand.qa_skin164",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin165",
+        "skinName": "QA Skin 165",
+        "imsInstanceName": "PM1_qa_brand.qa_skin165",
+        "rgsArray": [
             {
-                "skinId": "QA_skin165",
-                "skinName": "QA Skin 165",
-                "imsInstanceName": "PM1_qa_brand.qa_skin165",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin166",
+        "skinName": "QA Skin 166",
+        "imsInstanceName": "PM1_qa_brand.qa_skin166",
+        "rgsArray": [
             {
-                "skinId": "QA_skin166",
-                "skinName": "QA Skin 166",
-                "imsInstanceName": "PM1_qa_brand.qa_skin166",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin167",
+        "skinName": "QA Skin 167",
+        "imsInstanceName": "PM1_qa_brand.qa_skin167",
+        "rgsArray": [
             {
-                "skinId": "QA_skin167",
-                "skinName": "QA Skin 167",
-                "imsInstanceName": "PM1_qa_brand.qa_skin167",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin168",
+        "skinName": "QA Skin 168",
+        "imsInstanceName": "PM1_qa_brand.qa_skin168",
+        "rgsArray": [
             {
-                "skinId": "QA_skin168",
-                "skinName": "QA Skin 168",
-                "imsInstanceName": "PM1_qa_brand.qa_skin168",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin169",
+        "skinName": "QA Skin 169",
+        "imsInstanceName": "PM1_qa_brand.qa_skin169",
+        "rgsArray": [
             {
-                "skinId": "QA_skin169",
-                "skinName": "QA Skin 169",
-                "imsInstanceName": "PM1_qa_brand.qa_skin169",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin170",
+        "skinName": "QA Skin 170",
+        "imsInstanceName": "PM1_qa_brand.qa_skin170",
+        "rgsArray": [
             {
-                "skinId": "QA_skin170",
-                "skinName": "QA Skin 170",
-                "imsInstanceName": "PM1_qa_brand.qa_skin170",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin171",
+        "skinName": "QA Skin 171",
+        "imsInstanceName": "PM1_qa_brand.qa_skin171",
+        "rgsArray": [
             {
-                "skinId": "QA_skin171",
-                "skinName": "QA Skin 171",
-                "imsInstanceName": "PM1_qa_brand.qa_skin171",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin172",
+        "skinName": "QA Skin 172",
+        "imsInstanceName": "PM1_qa_brand.qa_skin172",
+        "rgsArray": [
             {
-                "skinId": "QA_skin172",
-                "skinName": "QA Skin 172",
-                "imsInstanceName": "PM1_qa_brand.qa_skin172",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin173",
+        "skinName": "QA Skin 173",
+        "imsInstanceName": "PM1_qa_brand.qa_skin173",
+        "rgsArray": [
             {
-                "skinId": "QA_skin173",
-                "skinName": "QA Skin 173",
-                "imsInstanceName": "PM1_qa_brand.qa_skin173",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin174",
+        "skinName": "QA Skin 174",
+        "imsInstanceName": "PM1_qa_brand.qa_skin174",
+        "rgsArray": [
             {
-                "skinId": "QA_skin174",
-                "skinName": "QA Skin 174",
-                "imsInstanceName": "PM1_qa_brand.qa_skin174",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin175",
+        "skinName": "QA Skin 175",
+        "imsInstanceName": "PM1_qa_brand.qa_skin175",
+        "rgsArray": [
             {
-                "skinId": "QA_skin175",
-                "skinName": "QA Skin 175",
-                "imsInstanceName": "PM1_qa_brand.qa_skin175",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin176",
+        "skinName": "QA Skin 176",
+        "imsInstanceName": "PM1_qa_brand.qa_skin176",
+        "rgsArray": [
             {
-                "skinId": "QA_skin176",
-                "skinName": "QA Skin 176",
-                "imsInstanceName": "PM1_qa_brand.qa_skin176",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin177",
+        "skinName": "QA Skin 177",
+        "imsInstanceName": "PM1_qa_brand.qa_skin177",
+        "rgsArray": [
             {
-                "skinId": "QA_skin177",
-                "skinName": "QA Skin 177",
-                "imsInstanceName": "PM1_qa_brand.qa_skin177",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin178",
+        "skinName": "QA Skin 178",
+        "imsInstanceName": "PM1_qa_brand.qa_skin178",
+        "rgsArray": [
             {
-                "skinId": "QA_skin178",
-                "skinName": "QA Skin 178",
-                "imsInstanceName": "PM1_qa_brand.qa_skin178",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin179",
+        "skinName": "QA Skin 179",
+        "imsInstanceName": "PM1_qa_brand.qa_skin179",
+        "rgsArray": [
             {
-                "skinId": "QA_skin179",
-                "skinName": "QA Skin 179",
-                "imsInstanceName": "PM1_qa_brand.qa_skin179",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin180",
+        "skinName": "QA Skin 180",
+        "imsInstanceName": "PM1_qa_brand.qa_skin180",
+        "rgsArray": [
             {
-                "skinId": "QA_skin180",
-                "skinName": "QA Skin 180",
-                "imsInstanceName": "PM1_qa_brand.qa_skin180",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin181",
+        "skinName": "QA Skin 181",
+        "imsInstanceName": "PM1_qa_brand.qa_skin181",
+        "rgsArray": [
             {
-                "skinId": "QA_skin181",
-                "skinName": "QA Skin 181",
-                "imsInstanceName": "PM1_qa_brand.qa_skin181",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin182",
+        "skinName": "QA Skin 182",
+        "imsInstanceName": "PM1_qa_brand.qa_skin182",
+        "rgsArray": [
             {
-                "skinId": "QA_skin182",
-                "skinName": "QA Skin 182",
-                "imsInstanceName": "PM1_qa_brand.qa_skin182",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin183",
+        "skinName": "QA Skin 183",
+        "imsInstanceName": "PM1_qa_brand.qa_skin183",
+        "rgsArray": [
             {
-                "skinId": "QA_skin183",
-                "skinName": "QA Skin 183",
-                "imsInstanceName": "PM1_qa_brand.qa_skin183",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin184",
+        "skinName": "QA Skin 184",
+        "imsInstanceName": "PM1_qa_brand.qa_skin184",
+        "rgsArray": [
             {
-                "skinId": "QA_skin184",
-                "skinName": "QA Skin 184",
-                "imsInstanceName": "PM1_qa_brand.qa_skin184",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin185",
+        "skinName": "QA Skin 185",
+        "imsInstanceName": "PM1_qa_brand.qa_skin185",
+        "rgsArray": [
             {
-                "skinId": "QA_skin185",
-                "skinName": "QA Skin 185",
-                "imsInstanceName": "PM1_qa_brand.qa_skin185",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin186",
+        "skinName": "QA Skin 186",
+        "imsInstanceName": "PM1_qa_brand.qa_skin186",
+        "rgsArray": [
             {
-                "skinId": "QA_skin186",
-                "skinName": "QA Skin 186",
-                "imsInstanceName": "PM1_qa_brand.qa_skin186",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin187",
+        "skinName": "QA Skin 187",
+        "imsInstanceName": "PM1_qa_brand.qa_skin187",
+        "rgsArray": [
             {
-                "skinId": "QA_skin187",
-                "skinName": "QA Skin 187",
-                "imsInstanceName": "PM1_qa_brand.qa_skin187",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin188",
+        "skinName": "QA Skin 188",
+        "imsInstanceName": "PM1_qa_brand.qa_skin188",
+        "rgsArray": [
             {
-                "skinId": "QA_skin188",
-                "skinName": "QA Skin 188",
-                "imsInstanceName": "PM1_qa_brand.qa_skin188",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin189",
+        "skinName": "QA Skin 189",
+        "imsInstanceName": "PM1_qa_brand.qa_skin189",
+        "rgsArray": [
             {
-                "skinId": "QA_skin189",
-                "skinName": "QA Skin 189",
-                "imsInstanceName": "PM1_qa_brand.qa_skin189",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin190",
+        "skinName": "QA Skin 190",
+        "imsInstanceName": "PM1_qa_brand.qa_skin190",
+        "rgsArray": [
             {
-                "skinId": "QA_skin190",
-                "skinName": "QA Skin 190",
-                "imsInstanceName": "PM1_qa_brand.qa_skin190",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin191",
+        "skinName": "QA Skin 191",
+        "imsInstanceName": "PM1_qa_brand.qa_skin191",
+        "rgsArray": [
             {
-                "skinId": "QA_skin191",
-                "skinName": "QA Skin 191",
-                "imsInstanceName": "PM1_qa_brand.qa_skin191",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin192",
+        "skinName": "QA Skin 192",
+        "imsInstanceName": "PM1_qa_brand.qa_skin192",
+        "rgsArray": [
             {
-                "skinId": "QA_skin192",
-                "skinName": "QA Skin 192",
-                "imsInstanceName": "PM1_qa_brand.qa_skin192",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin193",
+        "skinName": "QA Skin 193",
+        "imsInstanceName": "PM1_qa_brand.qa_skin193",
+        "rgsArray": [
             {
-                "skinId": "QA_skin193",
-                "skinName": "QA Skin 193",
-                "imsInstanceName": "PM1_qa_brand.qa_skin193",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin194",
+        "skinName": "QA Skin 194",
+        "imsInstanceName": "PM1_qa_brand.qa_skin194",
+        "rgsArray": [
             {
-                "skinId": "QA_skin194",
-                "skinName": "QA Skin 194",
-                "imsInstanceName": "PM1_qa_brand.qa_skin194",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin195",
+        "skinName": "QA Skin 195",
+        "imsInstanceName": "PM1_qa_brand.qa_skin195",
+        "rgsArray": [
             {
-                "skinId": "QA_skin195",
-                "skinName": "QA Skin 195",
-                "imsInstanceName": "PM1_qa_brand.qa_skin195",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin196",
+        "skinName": "QA Skin 196",
+        "imsInstanceName": "PM1_qa_brand.qa_skin196",
+        "rgsArray": [
             {
-                "skinId": "QA_skin196",
-                "skinName": "QA Skin 196",
-                "imsInstanceName": "PM1_qa_brand.qa_skin196",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin197",
+        "skinName": "QA Skin 197",
+        "imsInstanceName": "PM1_qa_brand.qa_skin197",
+        "rgsArray": [
             {
-                "skinId": "QA_skin197",
-                "skinName": "QA Skin 197",
-                "imsInstanceName": "PM1_qa_brand.qa_skin197",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin198",
+        "skinName": "QA Skin 198",
+        "imsInstanceName": "PM1_qa_brand.qa_skin198",
+        "rgsArray": [
             {
-                "skinId": "QA_skin198",
-                "skinName": "QA Skin 198",
-                "imsInstanceName": "PM1_qa_brand.qa_skin198",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin199",
+        "skinName": "QA Skin 199",
+        "imsInstanceName": "PM1_qa_brand.qa_skin199",
+        "rgsArray": [
             {
-                "skinId": "QA_skin199",
-                "skinName": "QA Skin 199",
-                "imsInstanceName": "PM1_qa_brand.qa_skin199",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     },
     {
-        "skinArray": [
+        "skinId": "QA_skin200",
+        "skinName": "QA Skin 200",
+        "imsInstanceName": "PM1_qa_brand.qa_skin200",
+        "rgsArray": [
             {
-                "skinId": "QA_skin200",
-                "skinName": "QA Skin 200",
-                "imsInstanceName": "PM1_qa_brand.qa_skin200",
-                "rgsArray": [
-                    {
-                        "rgsId": "win_gpas_rgs",
-                        "rgsName": "GPAS RGS"
-                    }
-                ]
+                "rgsId": "win_gpas_rgs",
+                "rgsName": "GPAS RGS"
             }
         ]
     }
