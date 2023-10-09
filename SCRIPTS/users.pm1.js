@@ -16,7 +16,7 @@ const createDBUserObj = (numUsers) => {
                 "imsInstanceName": imsInstanceName,
                 "rgsArray": [
                   {
-                    "rgsId": "gpas",
+                    "rgsId": "win_gpas_rgs",
                     "rgsName": "GPAS RGS"
                   }
                 ]
