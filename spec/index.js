@@ -14,21 +14,25 @@ const launchOutput = (num) => {
 
     if (num% 2 === 0) {
         return output = "Launch!";
-    };
-
-    if (num% 3 === 0) {
+    }  if (num% 3 === 0) {
         return output = "Code!";
-    };
-
-    if (num% 5 === 0) {
+    } else if (num% 5 === 0) {
         return output = "Rocks!";
     };
 
+    /**
+     * below conditions fail, 
+     * as above returns will be resolved first
+     */
     // if (num% 2 === 0 && num% 3 === 0) {
     //     return output = 'LaunchCode!';
     // };
 
     // if (num% 3 === 0 && num% 5 === 0) {
+    //     return output = 'Code Rocks!';
+    // };
+
+    // if (num% 3 === 0 && num% 5 === 0 && num% 2 === 0) {
     //     return output = 'Code Rocks!';
     // };
 

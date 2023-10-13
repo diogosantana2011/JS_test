@@ -28,7 +28,7 @@ describe('Checks launchOutput fn', () => {
     });
 
     it('Checking that number divisible by 3 returns "Code!"', () => {
-        expect(launchOutput(21)).toEqual('Code!');
+        expect(launchOutput(3)).toEqual('Code!');
     });
 
     it('Checking that number divisible by 5 returns "Rocks!"', () => {
@@ -36,10 +36,14 @@ describe('Checks launchOutput fn', () => {
     });
 
     xit('Checking that number divisible by 2 and 3 returns "LaunchCode!"', () => {
-        expect(launchOutput(6)).toEqual('LaunchCode!');
+        expect(launchOutput(288)).toEqual('LaunchCode!');
     });
 
     xit('Checking that number divisible by 3 and 5 returns "Code Rocks!"', () => {
-        expect(launchOutput(15)).toEqual('Code Rocks!');
-    });    
+        expect(launchOutput(75)).toEqual('Code Rocks!');
+    });
+
+    xit('Checking that number divisible by 2, 3 and 5 returns "Code Rocks!"', () => {
+        expect(launchOutput(120)).toEqual('LaunchCode Rocks!');
+    });
 });
