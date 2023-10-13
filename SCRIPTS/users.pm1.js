@@ -36,4 +36,4 @@ const createDBUserObj = (numUsers) => {
     });
 };
 
-createDBUserObj(200)
+createDBUserObj(300)
