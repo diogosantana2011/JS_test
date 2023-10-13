@@ -24,13 +24,13 @@ const launchOutput = (num) => {
         return output = "Rocks!";
     };
 
-    if (num% 2 === 0 && num% 3 === 0) {
-        return output = 'LaunchCode!';
-    };
+    // if (num% 2 === 0 && num% 3 === 0) {
+    //     return output = 'LaunchCode!';
+    // };
 
-    if (num% 3 === 0 && num% 5 === 0) {
-        return output = 'Code Rocks!';
-    };
+    // if (num% 3 === 0 && num% 5 === 0) {
+    //     return output = 'Code Rocks!';
+    // };
 
     if (!output) {
         return output = 'Rutabagas! That doesn\'t work!'
