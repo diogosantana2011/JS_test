@@ -1,4 +1,4 @@
-import { dbInsert, queryDb } from "../../SCRIPTS/mongo.js";
+import { dbInsert, queryDb, dbRemove } from "../../SCRIPTS/mongo.js";
 import { ObjectId } from "mongodb";
 
 const db1 = {
@@ -41,6 +41,15 @@ const db3Insert = {
     description: 'querying playground collection insert',
 };
 
+const dbDelete = {
+    obj: {
+        description: "querying playground collection insert"
+    },
+    database: 'playground',
+    collection: 'collection1',
+    description: 'querying playground collection dbRemove',
+};
+
 describe('Mongo - queryDb', () => {
     it(`Checks queryDb fn returns correct data, based on query from ${db1.description}`, () => { 
         return queryDb(db1.database, db1.collection, db1.obj).then((data) => {
@@ -74,16 +83,14 @@ describe('Mongo - dbInsert', () => {
         .then((data) => {
             console.log(data)
             expect(data.scriptInsert).toBe(true);
-            expect(data.arrayWithObjects).toEqual(jasmine.arrayContaining(
-                [
-                    {
-                      "anotherKey": "anotherValue"
-                    },
-                    {
-                      "anotherKey1": "anotherValue1"
-                    }
-                ]
-            ));
+            expect(data.arrayWithObjects).toEqual(jasmine.arrayContaining([
+                {
+                    "anotherKey": "anotherValue"
+                },
+                {
+                    "anotherKey1": "anotherValue1"
+                }
+            ]));
             expect(data.randomArray).toEqual(jasmine.arrayContaining(
                 [
                     "value1",
@@ -91,6 +98,17 @@ describe('Mongo - dbInsert', () => {
                     "value3"
                 ]
             ));
+        });
+    });
+});
+
+describe('Mongo - dbRemove', () => {
+    it(`Checks dbRemove is successfull for ${dbDelete.description}`, async () => {
+        await dbRemove(dbDelete.database, dbDelete.collection, dbDelete.obj).then((data) => {
+            if (!data) return;
+            console.log(`Data returned: ${JSON.stringify(data)}`)
+            expect(data.acknowledged).toBe(true);
+            expect(data.deletedCount).toEqual(1);
         });
     });
 });
