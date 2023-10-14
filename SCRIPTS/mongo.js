@@ -4,13 +4,10 @@
  * load("adminUsers.js")
  */
 // import {users} from '../json-output/adminUsers.js'
-import { MongoClient, ObjectId } from "mongodb";
+import { MongoClient, MongoNotConnectedError } from "mongodb";
 
 const url = 'mongodb://localhost:27017';
 const client = new MongoClient(url, { monitorCommands: true });
-
-// client.db('marketplace').collection('users');
-// await client.find(myObj).toArray();
 
 // async function run() {
 //     // Use connect method to connect to the server
@@ -30,18 +27,42 @@ const client = new MongoClient(url, { monitorCommands: true });
 // .finally(() => client.close());
 
 // Find
+/**
+ * 
+ * @returns {Object} = object from db using findOne
+ * @param db = db name as 'str'
+ * @parm col = collection name as 'str'
+ */
 
-async function findUser() {
+async function queryDb(db, col, obj = {}) {
     try {
-        const database = client.db('local')
-        const startup_log = database.collection('startup_log')
-        const myObj = { _id: new ObjectId("64177535831175782ffc7c22")};
-        const query = await startup_log.findOne(myObj)
-        return query
-    } finally {
-        // Ensures that the client will close when you finish/error
-        await client.close();
+        const database = client.db(db);
+        const collection = database.collection(col);
+        const myObj = obj;
+        const query = await collection.findOne(myObj);
+        return query;
+    } catch (err) {      
+        throw err
     };
 };
 
-export {findUser}
+/**
+ * 
+ * @returns {Object} = object with insertedId, acknowledged
+ * @param db = db name as 'str'
+ * @parm col = collection name as 'str'
+ */
+
+async function dbInsert(db, col, obj = {}) {
+    try {
+        const database = client.db(db);
+        const collection = database.collection(col);
+        const myObj = obj;
+        const query = await collection.insertOne(myObj);
+        return query;
+    } catch (err) {      
+        throw err
+    };
+};
+
+export {queryDb, dbInsert}
