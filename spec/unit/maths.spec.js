@@ -12,7 +12,7 @@ describe("Basic Math Utils - Fibonacci", () => {
     });
 });
 
-fdescribe("Basic Maths Utils - isPrime", () => {
+describe("Basic Maths Utils - isPrime", () => {
     it('Checks if 7 is a prime number (true)', () => {
         let output = isPrime(7);
         expect(output).toEqual(true)
