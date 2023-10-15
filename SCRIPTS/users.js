@@ -1,5 +1,11 @@
 import { error } from 'console';
 import fs from 'fs';
+import { dbInsertMany } from './mongo.js'
+
+const userInsertData = {
+    database : 'playground',
+    collection : 'users',
+};
 
 const readFile = (file) => {
     fs.readFile(file, (error, data) => {
@@ -13,7 +19,7 @@ const readFile = (file) => {
     });
 }
 
-const createUser = (userGroups, numUsers) => {
+const createUser = async (userGroups, numUsers) => {
     let adminUsers = [];
     let warehouseUsers = [];
     let operatorUsers = [];
@@ -118,9 +124,12 @@ const createUser = (userGroups, numUsers) => {
                 },
                 "lastLogin": 685522383000
             });
-        };
 
-        fs.writeFile('json-output/adminUsers.js', JSON.stringify(adminUsers, null, 4), (err) => {
+        };
+        // test below
+        // await dbInsertMany(userInsertData.database, userInsertData.collection, adminUsers);
+
+        fs.writeFile('json-output/adminUsers.json', JSON.stringify(adminUsers, null, 4), (err) => {
             if(err) throw err;
             console.log('Admin file successfully written')
         });
@@ -314,6 +323,8 @@ const createUser = (userGroups, numUsers) => {
                 "lastLogin": 1695302267191,
                 "signedTermsAndConditions": true
             });
+            // Test below
+            // await dbInsertMany(userInsertData.database, userInsertData.collection, warehouseUsers);
 
             fs.writeFile('json-output/warehouseUsers.json', JSON.stringify(warehouseUsers, null, 4), (err) => {
                 if(err) throw err;
@@ -411,15 +422,17 @@ const createUser = (userGroups, numUsers) => {
                 "signedTermsAndConditions": true,
                 "acceptedBrandedTermsNotice": true
             });
+            // Test below
+            // await dbInsertMany(userInsertData.database, userInsertData.collection, operatorUsers);
 
             fs.writeFile('json-output/operatorUsers.json', JSON.stringify(operatorUsers, null, 4), (err) => {
                 if(err) throw err;
                 console.log('Admin file successfully written')
             });
         };
-    } 
+    };
 };
 
-createUser('ADMIN', 2)
+createUser('ADMIN', 5)
 // createUser('WAREHOUSE', 2)
 // createUser('OPERATOR', 2)

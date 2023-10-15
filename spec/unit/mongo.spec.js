@@ -1,5 +1,5 @@
-import { dbInsert, queryDb, dbRemove, dbUpdate } from "../../SCRIPTS/mongo.js";
-import { db1, db2, db3Insert, dbDelete, dbUpdateQueryObj } from '../helpers/mongo.helpers.js'
+import { dbInsert, queryDb, dbRemove, dbUpdate, dbRemoveMany, dbCount } from "../../SCRIPTS/mongo.js";
+import { db1, db2, db3Insert, dbRemoveObj, dbRemoveManyObj, dbUpdateQueryObj } from '../helpers/mongo.helpers.js'
 import { ObjectId } from "mongodb";
 
 describe('Mongo - queryDb', () => {
@@ -62,13 +62,18 @@ describe('Mongo - dbInsert', () => {
 });
 
 describe('Mongo - dbRemove', () => {
-    it(`Checks dbRemove is successfull for ${dbDelete.description}`, async () => {
-        await dbRemove(dbDelete.database, dbDelete.collection, dbDelete.obj).then((data) => {
-            if (!data) return;
-            // console.log(`Data returned: ${JSON.stringify(data)}`)
-            expect(data.acknowledged).toBe(true);
-            expect(data.deletedCount).toEqual(1);
-        });
+    it(`Checks dbRemove is successfull for ${dbRemoveObj.description}`, async () => {
+        await dbInsert(dbRemoveObj.database, dbRemoveObj.collection, dbRemoveObj.obj)
+        .then((result) => {
+            // console.log(result)
+            // console.log(result.insertedId)
+            return dbRemove(dbRemoveObj.database, dbRemoveObj.collection, { _id: new ObjectId(result.insertedId)}).then((data) => {
+                if (!data) return;
+                // console.log(`Data returned: ${JSON.stringify(data)}`)
+                expect(data.acknowledged).toBe(true);
+                expect(data.deletedCount).toEqual(1);
+            });
+        })
     });
 
     it('Checks queryDb returns false when invalid input', () => {
@@ -128,6 +133,56 @@ describe('Mongo - dbUpdate', () => {
                     matchedCount: 1
               })
             );
+        });
+    });
+});
+
+// WIP
+// describe('Mongo - dbUpdateMany', () => {
+// });
+
+describe('Mongo - dbRemoveMany', () => {
+    afterAll( async () => {
+        await queryDb(dbUpdateQueryObj.database, dbUpdateQueryObj.collection, dbUpdateQueryObj.original)
+        .then((result) => {
+            if (!result) {
+                dbInsert(dbUpdateQueryObj.database, dbUpdateQueryObj.collection, dbUpdateQueryObj.original)
+            }
+        });
+    });
+
+    it(`Checks dbRemoveMany is successfull for ${dbRemoveManyObj.description}`, async () => {
+        // Make insert
+        await dbInsert(dbRemoveManyObj.database, dbRemoveManyObj.collection, dbRemoveManyObj.insertedObjToDelete)
+        .then((data) => {
+            if (!data) return;
+            // console.log(`Data returned id: ${JSON.stringify(data)}`)
+            expect(data.acknowledged).toEqual(true);
+        });
+
+        // Ensure inserted success
+        await queryDb(dbRemoveManyObj.database, dbRemoveManyObj.collection, {"scriptName": "dbRemoveMany"})
+        .then((result) => {
+            expect(result.scriptName).toEqual('dbRemoveMany')
+            expect(result.actionedBy.users).toEqual(['diogoSan'])
+        });
+
+        // Count collection docs
+        await dbCount(dbRemoveManyObj.database, dbRemoveManyObj.collection)
+        .then((result) => {
+            // Remove all docs
+            return dbRemoveMany(dbRemoveObj.database, dbRemoveObj.collection, {})
+            .then((data) => {
+                if (!data) return;
+                // console.log(`Data returned: ${JSON.stringify(data)}`)
+                expect(data.acknowledged).toBe(true);
+                expect(data.deletedCount).toEqual(result);
+            });
+        });
+
+        await dbCount(dbRemoveManyObj.database, dbRemoveManyObj.collection)
+        .then((request) => {
+            expect(request).toEqual(0)
         });
     });
 });

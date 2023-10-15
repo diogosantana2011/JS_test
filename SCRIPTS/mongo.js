@@ -25,8 +25,24 @@ const client = new MongoClient(url, { monitorCommands: true });
 // .then(console.log)
 // .catch(console.error)
 // .finally(() => client.close());
+/**
+ * 
+ * @returns {Number} returns number of countDocuments()
+ * @param db db name as 'str'
+ * @param col collection name as 'str'
+ */
 
-// Find
+async function dbCount(db, col) {
+    try {
+        const database = client.db(db);
+        const collection = database.collection(col);
+        const documentCount = collection.countDocuments();
+        return documentCount;
+    } catch (err) {      
+        throw err
+    };
+};
+
 /**
  * 
  * @returns {Object} = object from db using findOne
@@ -69,6 +85,26 @@ async function dbInsert(db = '', col = '', obj = {}) {
 
 /**
  * 
+ * @returns {Object} object with insertedId, acknowledged
+ * @param db db name as 'str'
+ * @param col collection name as 'str'
+ * @param obj {key: value} object to insert
+ */
+
+async function dbInsertMany(db = '', col = '', obj = {}) {
+    try {
+        const database = client.db(db);
+        const collection = database.collection(col);
+        const myObj = obj;
+        const query = await collection.insertMany(myObj);
+        return query;
+    } catch (err) {      
+        throw err
+    };
+};
+
+/**
+ * 
  * @returns {Object} = object with deletedCount, acknowledged
  * @param db db name as 'str'
  * @param col collection name as 'str'
@@ -81,6 +117,26 @@ async function dbRemove(db = '', col = '', obj = {}) {
         const collection = database.collection(col);
         const myObj = obj;
         const query = await collection.deleteOne(myObj);
+        return query;
+    } catch (err) {      
+        throw err
+    };
+};
+
+/**
+ * 
+ * @returns {Object} = object with deletedCount, acknowledged
+ * @param db db name as 'str'
+ * @param col collection name as 'str'
+ * @param obj object with matching params to delete {key: value}
+ */
+
+async function dbRemoveMany(db = '', col = '', obj = {}) {
+    try {
+        const database = client.db(db);
+        const collection = database.collection(col);
+        const myObj = obj;
+        const query = await collection.deleteMany(myObj);
         return query;
     } catch (err) {      
         throw err
@@ -108,4 +164,4 @@ async function dbUpdate(db = '', col = '', obj = {}, update = {}) {
     };
 };
 
-export {queryDb, dbInsert, dbRemove, dbUpdate}
+export {queryDb, dbInsert, dbRemove, dbUpdate, dbRemoveMany, dbInsertMany, dbCount}

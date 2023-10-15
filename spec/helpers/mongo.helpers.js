@@ -40,21 +40,49 @@ const db3Insert = {
     description: 'querying playground collection insert',
 };
 
-const dbDelete = {
+const dbRemoveObj = {
     obj: {
-        description: "querying playground collection insert"
+        description: "actioning playground collection remove",
+        _id: new ObjectId(),
+        date: new Date(),
+        updatedByScript: true,
+        actionedBy: {
+            users: [
+                "diogoSan"
+            ]
+        }
     },
     database: 'playground',
     collection: 'collection1',
     description: 'querying playground collection dbRemove',
 };
 
+const dbRemoveManyObj = {
+    objDeleteQuery: {},
+    insertedObjToDelete: {
+        "scriptInsert": true,
+        "scriptName": "dbRemoveMany",
+        "actionedBy": {
+            "users": [
+                'diogoSan'
+            ],
+            "device": [
+                "osx"
+            ]
+        },
+        "manualInsert": false
+    },
+    database: 'playground',
+    collection: 'collection1',
+    description: 'querying playground collection dbRemoveMany',
+};
+
 const dbUpdateQueryObj = {
     database: 'playground',
     collection: 'collection1',
     original: {
-        _id: new ObjectId('652a92104a9b540e46ceb767'),
-        "manualInsert": true,
+        _id: new ObjectId('652ba76ea21bfbcc0e6336fa'),
+        "manualInsert": true
     },
     update: {
         "pid": 1000,
@@ -71,6 +99,7 @@ export {
     db1,
     db2,
     db3Insert,
-    dbDelete,
+    dbRemoveObj,
+    dbRemoveManyObj,
     dbUpdateQueryObj
 }
