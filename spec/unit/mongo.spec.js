@@ -1,5 +1,5 @@
 import { dbInsert, queryDb, dbRemove, dbUpdate, dbRemoveMany, dbCount } from "../../SCRIPTS/mongo.js";
-import { db1, db2, db3Insert, dbRemoveObj, dbRemoveManyObj, dbUpdateQueryObj } from '../helpers/mongo.helpers.js'
+import { db1, db2, db3Insert, dbRemoveObj, dbRemoveManyObj, dbUpdateQueryObj } from '../support/mongo.helpers.js'
 import { ObjectId } from "mongodb";
 
 describe('Mongo - queryDb', () => {
