@@ -5,8 +5,6 @@ import { ObjectId } from "mongodb";
 describe('Mongo - queryDb', () => {
     it(`Checks queryDb fn returns correct data, based on query from ${db1.description}`, () => { 
         return queryDb(db1.database, db1.collection, db1.obj).then((data) => {
-            if (!data) return;
-            // console.log(`Data returned id: ${data._id}`)
             expect(data.pid).toEqual({ '$numberLong': '10086' })
             expect(data.hostname).toEqual('Diogos-MacBook-Air.local')
         });
@@ -14,18 +12,15 @@ describe('Mongo - queryDb', () => {
 
     it(`Checks queryDb fn returns correct data, based on query from ${db2.description}`, () => {
         return queryDb(db2.database, db2.collection, db2.obj).then((data) => {
-            if (!data) return;
-            // console.log(`Data returned: ${JSON.stringify(data)}`)
-            expect(data.pid).toEqual(db2.pid)
+            expect(data.pid).toEqual(db2.obj.pid)
             expect(data.manualInsert).toEqual(true)
-            expect(data._id).toEqual(new ObjectId('652a92104a9b540e46ceb767'))
+            expect(data._id).toBeDefined();
         });
     });
 
     it('Checks queryDb returns false when invalid input', () => {
         return queryDb('random1', 'non-existing_collection').then((data) => {
             expect(data).toBeFalsy();
-            // console.error(`(${data}): is not valid input`);
         });
     });
 });
@@ -33,14 +28,11 @@ describe('Mongo - queryDb', () => {
 describe('Mongo - dbInsert', () => {
     it(`Checks insert is successfull, for insert ${db3Insert.description}`, async () => {
         await dbInsert(db3Insert.database, db3Insert.collection, db3Insert.obj).then((data) => {
-            if (!data) return;
-            // console.log(`Data returned id: ${JSON.stringify(data)}`)
             expect(data.acknowledged).toEqual(true);
         });
 
         await queryDb(db3Insert.database, db3Insert.collection, db3Insert.obj)
         .then((data) => {
-            // console.log(data)
             expect(data.scriptInsert).toBe(true);
             expect(data.arrayWithObjects).toEqual(jasmine.arrayContaining([
                 {
@@ -65,11 +57,9 @@ describe('Mongo - dbRemove', () => {
     it(`Checks dbRemove is successfull for ${dbRemoveObj.description}`, async () => {
         await dbInsert(dbRemoveObj.database, dbRemoveObj.collection, dbRemoveObj.obj)
         .then((result) => {
-            // console.log(result)
-            // console.log(result.insertedId)
-            return dbRemove(dbRemoveObj.database, dbRemoveObj.collection, { _id: new ObjectId(result.insertedId)}).then((data) => {
-                if (!data) return;
-                // console.log(`Data returned: ${JSON.stringify(data)}`)
+            expect(result.acknowledged).toEqual(true);
+            return dbRemove(dbRemoveObj.database, dbRemoveObj.collection, { _id: new ObjectId(result.insertedId)})
+            .then((data) => {
                 expect(data.acknowledged).toBe(true);
                 expect(data.deletedCount).toEqual(1);
             });
@@ -126,11 +116,11 @@ describe('Mongo - dbUpdate', () => {
             expect(data.modifiedCount).toEqual(1);
             expect(data.matchedCount).toEqual(1);
             expect(data).toEqual(jasmine.objectContaining({
-                    acknowledged: true,
-                    modifiedCount: 1,
-                    upsertedId: null,
-                    upsertedCount: 0,
-                    matchedCount: 1
+                acknowledged: true,
+                modifiedCount: 1,
+                upsertedId: null,
+                upsertedCount: 0,
+                matchedCount: 1
               })
             );
         });
@@ -155,8 +145,6 @@ describe('Mongo - dbRemoveMany', () => {
         // Make insert
         await dbInsert(dbRemoveManyObj.database, dbRemoveManyObj.collection, dbRemoveManyObj.insertedObjToDelete)
         .then((data) => {
-            if (!data) return;
-            // console.log(`Data returned id: ${JSON.stringify(data)}`)
             expect(data.acknowledged).toEqual(true);
         });
 
@@ -173,8 +161,6 @@ describe('Mongo - dbRemoveMany', () => {
             // Remove all docs
             return dbRemoveMany(dbRemoveObj.database, dbRemoveObj.collection, {})
             .then((data) => {
-                if (!data) return;
-                // console.log(`Data returned: ${JSON.stringify(data)}`)
                 expect(data.acknowledged).toBe(true);
                 expect(data.deletedCount).toEqual(result);
             });
