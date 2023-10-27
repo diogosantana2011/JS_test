@@ -33,5 +33,5 @@ describe("Basic Maths Utils - isPrime", () => {
         let output2 = isPrime(58);
         expect(output1).toEqual(false)
         expect(output2).toEqual(false)
-    })
+    });
 });
