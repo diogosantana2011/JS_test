@@ -1,9 +1,5 @@
 const sum = (a, b) => {
-    try {
-        return a + b;
-    } catch (err) {
-        throw new Error(err)
-    }
+    return a + b
 };
 
 module.exports = sum

@@ -18,7 +18,9 @@
         "verbose": true,
         "transform": {
             "\\.[jt]sx?$": "babel-jest"
-        }
+        },
+        "collectCoverage": true,
+        "coverageDirectory": "jest/reports"
     },
     "scripts": {
         "jasmine_test": "jasmine",
