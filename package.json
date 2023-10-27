@@ -11,9 +11,17 @@
         "mongodb": "6.1.0",
         "node-fetch": "3.3.2",
         "jasmine": "5.1.0",
-        "jasmine-spec-reporter": "7.0.0"
+        "jasmine-spec-reporter": "7.0.0",
+        "jest": "29.7"
+    },
+    "jest": {
+        "verbose": true,
+        "transform": {
+            "\\.[jt]sx?$": "babel-jest"
+        }
     },
     "scripts": {
-        "test": "jasmine"
+        "jasmine_test": "jasmine",
+        "jest_test": "jest --verbose ./jest/specs"
     }
 }
