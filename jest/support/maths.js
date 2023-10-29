@@ -14,4 +14,8 @@ const isPrime = (num) => {
     return num !== 1 && num !== 0;
 };
 
-module.exports = {fibonacci, isPrime}
+const sum = (a, b) => {
+    return a + b
+};
+
+module.exports = {fibonacci, isPrime, sum}
