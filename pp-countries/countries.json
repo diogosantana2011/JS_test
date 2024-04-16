@@ -1,0 +1,1985 @@
+{
+    "countries": [
+        {
+            "id": 114,
+            "code": "AF",
+            "name": "Afghanistan",
+            "translatedName": "Afghanistan",
+            "status": "inactive",
+            "phonePrefix": "93"
+        },
+        {
+            "id": 80,
+            "code": "AL",
+            "name": "Albania",
+            "translatedName": "Albania",
+            "status": "inactive",
+            "phonePrefix": "355"
+        },
+        {
+            "id": 117,
+            "code": "DZ",
+            "name": "Algeria",
+            "translatedName": "Algeria",
+            "status": "active",
+            "phonePrefix": "213"
+        },
+        {
+            "id": 120,
+            "code": "AS",
+            "name": "American Samoa",
+            "translatedName": "American Samoa",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 123,
+            "code": "AD",
+            "name": "Andorra",
+            "translatedName": "Andorra",
+            "status": "active",
+            "phonePrefix": "376"
+        },
+        {
+            "id": 126,
+            "code": "AO",
+            "name": "Angola",
+            "translatedName": "Angola",
+            "status": "active",
+            "phonePrefix": "244"
+        },
+        {
+            "id": 129,
+            "code": "AI",
+            "name": "Anguilla",
+            "translatedName": "Anguilla",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 132,
+            "code": "AQ",
+            "name": "Antarctica",
+            "translatedName": "Antarctica",
+            "status": "inactive",
+            "phonePrefix": "672"
+        },
+        {
+            "id": 45,
+            "code": "AG",
+            "name": "Antigua and Barbuda",
+            "translatedName": "Antigua and Barbuda",
+            "status": "active",
+            "phonePrefix": "1268"
+        },
+        {
+            "id": 20,
+            "code": "AR",
+            "name": "Argentina",
+            "translatedName": "Argentina",
+            "status": "active",
+            "phonePrefix": "54"
+        },
+        {
+            "id": 135,
+            "code": "AM",
+            "name": "Armenia",
+            "translatedName": "Armenia",
+            "status": "active",
+            "phonePrefix": "374"
+        },
+        {
+            "id": 138,
+            "code": "AW",
+            "name": "Aruba",
+            "translatedName": "Aruba",
+            "status": "active",
+            "phonePrefix": "297"
+        },
+        {
+            "id": 18,
+            "code": "AU",
+            "name": "Australia",
+            "translatedName": "Australia",
+            "status": "active",
+            "phonePrefix": "61"
+        },
+        {
+            "id": 24,
+            "code": "AT",
+            "name": "Austria",
+            "translatedName": "Austria",
+            "status": "active",
+            "phonePrefix": "1242"
+        },
+        {
+            "id": 141,
+            "code": "AZ",
+            "name": "Azerbaijan",
+            "translatedName": "Azerbaijan",
+            "status": "active",
+            "phonePrefix": "994"
+        },
+        {
+            "id": 46,
+            "code": "BS",
+            "name": "Bahamas, The",
+            "translatedName": "Bahamas, The",
+            "status": "active",
+            "phonePrefix": "1242"
+        },
+        {
+            "id": 144,
+            "code": "BH",
+            "name": "Bahrain",
+            "translatedName": "Bahrain",
+            "status": "active",
+            "phonePrefix": "973"
+        },
+        {
+            "id": 147,
+            "code": "BD",
+            "name": "Bangladesh",
+            "translatedName": "Bangladesh",
+            "status": "active",
+            "phonePrefix": "880"
+        },
+        {
+            "id": 47,
+            "code": "BB",
+            "name": "Barbados",
+            "translatedName": "Barbados",
+            "status": "inactive",
+            "phonePrefix": "1246"
+        },
+        {
+            "id": 111,
+            "code": "BY",
+            "name": "Belarus",
+            "translatedName": "Belarus",
+            "status": "inactive",
+            "phonePrefix": "375"
+        },
+        {
+            "id": 22,
+            "code": "BE",
+            "name": "Belgium",
+            "translatedName": "Belgium",
+            "status": "inactive",
+            "phonePrefix": "32"
+        },
+        {
+            "id": 48,
+            "code": "BZ",
+            "name": "Belize",
+            "translatedName": "Belize",
+            "status": "active",
+            "phonePrefix": "501"
+        },
+        {
+            "id": 153,
+            "code": "BJ",
+            "name": "Benin",
+            "translatedName": "Benin",
+            "status": "active",
+            "phonePrefix": "229"
+        },
+        {
+            "id": 49,
+            "code": "BM",
+            "name": "Bermuda",
+            "translatedName": "Bermuda",
+            "status": "active",
+            "phonePrefix": "1441"
+        },
+        {
+            "id": 156,
+            "code": "BT",
+            "name": "Bhutan",
+            "translatedName": "Bhutan",
+            "status": "active",
+            "phonePrefix": "975"
+        },
+        {
+            "id": 81,
+            "code": "BO",
+            "name": "Bolivia",
+            "translatedName": "Bolivia",
+            "status": "active",
+            "phonePrefix": "591"
+        },
+        {
+            "id": 159,
+            "code": "BA",
+            "name": "Bosnia and Herzegovina",
+            "translatedName": "Bosnia and Herzegovina",
+            "status": "active",
+            "phonePrefix": "387"
+        },
+        {
+            "id": 162,
+            "code": "BW",
+            "name": "Botswana",
+            "translatedName": "Botswana",
+            "status": "inactive",
+            "phonePrefix": "267"
+        },
+        {
+            "id": 13,
+            "code": "BR",
+            "name": "Brazil",
+            "translatedName": "Brazil",
+            "status": "active",
+            "phonePrefix": "55"
+        },
+        {
+            "id": 165,
+            "code": "IO",
+            "name": "British Indian Ocean Territory",
+            "translatedName": "British Indian Ocean Territory",
+            "status": "inactive",
+            "phonePrefix": "246"
+        },
+        {
+            "id": 58,
+            "code": "VG",
+            "name": "British Virgin Islands",
+            "translatedName": "British Virgin Islands",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 168,
+            "code": "BN",
+            "name": "Brunei",
+            "translatedName": "Brunei",
+            "status": "active",
+            "phonePrefix": "673"
+        },
+        {
+            "id": 85,
+            "code": "BG",
+            "name": "Bulgaria",
+            "translatedName": "Bulgaria",
+            "status": "inactive",
+            "phonePrefix": "359"
+        },
+        {
+            "id": 171,
+            "code": "BF",
+            "name": "Burkina Faso",
+            "translatedName": "Burkina Faso",
+            "status": "active",
+            "phonePrefix": "226"
+        },
+        {
+            "id": 174,
+            "code": "BI",
+            "name": "Burundi",
+            "translatedName": "Burundi",
+            "status": "active",
+            "phonePrefix": "257"
+        },
+        {
+            "id": 79,
+            "code": "KH",
+            "name": "Cambodia",
+            "translatedName": "Cambodia",
+            "status": "inactive",
+            "phonePrefix": "855"
+        },
+        {
+            "id": 177,
+            "code": "CM",
+            "name": "Cameroon",
+            "translatedName": "Cameroon",
+            "status": "active",
+            "phonePrefix": "237"
+        },
+        {
+            "id": 11,
+            "code": "CA",
+            "name": "Canada",
+            "translatedName": "Canada",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 90,
+            "code": "CV",
+            "name": "Cape Verde",
+            "translatedName": "Cape Verde",
+            "status": "active",
+            "phonePrefix": "238"
+        },
+        {
+            "id": 180,
+            "code": "CF",
+            "name": "Central African Republic",
+            "translatedName": "Central African Republic",
+            "status": "inactive",
+            "phonePrefix": "236"
+        },
+        {
+            "id": 183,
+            "code": "TD",
+            "name": "Chad",
+            "translatedName": "Chad",
+            "status": "inactive",
+            "phonePrefix": "235"
+        },
+        {
+            "id": 94,
+            "code": "CL",
+            "name": "Chile",
+            "translatedName": "Chile",
+            "status": "active",
+            "phonePrefix": "56"
+        },
+        {
+            "id": 10,
+            "code": "CN",
+            "name": "China",
+            "translatedName": "China",
+            "status": "active",
+            "phonePrefix": "86"
+        },
+        {
+            "id": 186,
+            "code": "CX",
+            "name": "Christmas Island",
+            "translatedName": "Christmas Island",
+            "status": "inactive",
+            "phonePrefix": "61"
+        },
+        {
+            "id": 189,
+            "code": "CC",
+            "name": "Cocos Islands",
+            "translatedName": "Cocos Islands",
+            "status": "inactive",
+            "phonePrefix": "61"
+        },
+        {
+            "id": 60,
+            "code": "CO",
+            "name": "Columbia",
+            "translatedName": "Columbia",
+            "status": "active",
+            "phonePrefix": "57"
+        },
+        {
+            "id": 192,
+            "code": "KM",
+            "name": "Comoros",
+            "translatedName": "Comoros",
+            "status": "active",
+            "phonePrefix": "269"
+        },
+        {
+            "id": 420,
+            "code": "CG",
+            "name": "Congo, Republic of the",
+            "translatedName": "Congo, Republic of the",
+            "status": "active",
+            "phonePrefix": "242"
+        },
+        {
+            "id": 195,
+            "code": "CK",
+            "name": "Cook Islands",
+            "translatedName": "Cook Islands",
+            "status": "active",
+            "phonePrefix": "682"
+        },
+        {
+            "id": 50,
+            "code": "CR",
+            "name": "Costa Rica",
+            "translatedName": "Costa Rica",
+            "status": "active",
+            "phonePrefix": "506"
+        },
+        {
+            "id": 63,
+            "code": "HR",
+            "name": "Croatia",
+            "translatedName": "Croatia",
+            "status": "active",
+            "phonePrefix": "385"
+        },
+        {
+            "id": 51,
+            "code": "CU",
+            "name": "Cuba",
+            "translatedName": "Cuba",
+            "status": "active",
+            "phonePrefix": "53"
+        },
+        {
+            "id": 52,
+            "code": "CUR",
+            "name": "Curacao",
+            "translatedName": "Curacao",
+            "status": "active",
+            "phonePrefix": "599"
+        },
+        {
+            "id": 89,
+            "code": "CY",
+            "name": "Cyprus",
+            "translatedName": "Cyprus",
+            "status": "active",
+            "phonePrefix": "357"
+        },
+        {
+            "id": 39,
+            "code": "CZ",
+            "name": "Czech Republic",
+            "translatedName": "Czech Republic",
+            "status": "active",
+            "phonePrefix": "420"
+        },
+        {
+            "id": 198,
+            "code": "CD",
+            "name": "Democratic Republic of the Congo",
+            "translatedName": "Democratic Republic of the Congo",
+            "status": "inactive",
+            "phonePrefix": "243"
+        },
+        {
+            "id": 41,
+            "code": "DK",
+            "name": "Denmark",
+            "translatedName": "Denmark",
+            "status": "active",
+            "phonePrefix": "45"
+        },
+        {
+            "id": 201,
+            "code": "DJ",
+            "name": "Djibouti",
+            "translatedName": "Djibouti",
+            "status": "active",
+            "phonePrefix": "253"
+        },
+        {
+            "id": 204,
+            "code": "DM",
+            "name": "Dominica",
+            "translatedName": "Dominica",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 53,
+            "code": "DO",
+            "name": "Dominican Republic",
+            "translatedName": "Dominican Republic",
+            "status": "active",
+            "phonePrefix": "1849"
+        },
+        {
+            "id": 207,
+            "code": "TL",
+            "name": "East Timor",
+            "translatedName": "East Timor",
+            "status": "active",
+            "phonePrefix": "670"
+        },
+        {
+            "id": 210,
+            "code": "EC",
+            "name": "Ecuador",
+            "translatedName": "Ecuador",
+            "status": "active",
+            "phonePrefix": "593"
+        },
+        {
+            "id": 36,
+            "code": "EG",
+            "name": "Egypt",
+            "translatedName": "Egypt",
+            "status": "active",
+            "phonePrefix": "45"
+        },
+        {
+            "id": 213,
+            "code": "SV",
+            "name": "El Salvador",
+            "translatedName": "El Salvador",
+            "status": "active",
+            "phonePrefix": "503"
+        },
+        {
+            "id": 4,
+            "code": "GB",
+            "name": "England",
+            "translatedName": "England",
+            "status": "inactive",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 216,
+            "code": "GQ",
+            "name": "Equatorial Guinea",
+            "translatedName": "Equatorial Guinea",
+            "status": "active",
+            "phonePrefix": "240"
+        },
+        {
+            "id": 219,
+            "code": "ER",
+            "name": "Eritrea",
+            "translatedName": "Eritrea",
+            "status": "active",
+            "phonePrefix": "291"
+        },
+        {
+            "id": 62,
+            "code": "ET",
+            "name": "Estonia",
+            "translatedName": "Estonia",
+            "status": "inactive",
+            "phonePrefix": "251"
+        },
+        {
+            "id": 70,
+            "code": "ET",
+            "name": "Ethiopia",
+            "translatedName": "Ethiopia",
+            "status": "active",
+            "phonePrefix": "251"
+        },
+        {
+            "id": 222,
+            "code": "FK",
+            "name": "Falkland Islands",
+            "translatedName": "Falkland Islands",
+            "status": "inactive",
+            "phonePrefix": "500"
+        },
+        {
+            "id": 225,
+            "code": "FO",
+            "name": "Faroe Islands",
+            "translatedName": "Faroe Islands",
+            "status": "active",
+            "phonePrefix": "298"
+        },
+        {
+            "id": 228,
+            "code": "FJ",
+            "name": "Fiji",
+            "translatedName": "Fiji",
+            "status": "active",
+            "phonePrefix": "679"
+        },
+        {
+            "id": 30,
+            "code": "FI",
+            "name": "Finland",
+            "translatedName": "Finland",
+            "status": "active",
+            "phonePrefix": "358"
+        },
+        {
+            "id": 8,
+            "code": "FR",
+            "name": "France",
+            "translatedName": "France",
+            "status": "inactive",
+            "phonePrefix": "33"
+        },
+        {
+            "id": 231,
+            "code": "PF",
+            "name": "French Polynesia",
+            "translatedName": "French Polynesia",
+            "status": "active",
+            "phonePrefix": "689"
+        },
+        {
+            "id": 234,
+            "code": "GA",
+            "name": "Gabon",
+            "translatedName": "Gabon",
+            "status": "active",
+            "phonePrefix": "241"
+        },
+        {
+            "id": 237,
+            "code": "GM",
+            "name": "Gambia, The",
+            "translatedName": "Gambia, The",
+            "status": "active",
+            "phonePrefix": "220"
+        },
+        {
+            "id": 546,
+            "code": "GP",
+            "name": "Gaudeloupe",
+            "translatedName": "Gaudeloupe",
+            "status": "inactive",
+            "phonePrefix": "590"
+        },
+        {
+            "id": 240,
+            "code": "GE",
+            "name": "Georgia",
+            "translatedName": "Georgia",
+            "status": "active",
+            "phonePrefix": "995"
+        },
+        {
+            "id": 3,
+            "code": "DE",
+            "name": "Germany",
+            "translatedName": "Germany",
+            "status": "inactive",
+            "phonePrefix": "49"
+        },
+        {
+            "id": 243,
+            "code": "GH",
+            "name": "Ghana",
+            "translatedName": "Ghana",
+            "status": "inactive",
+            "phonePrefix": "233"
+        },
+        {
+            "id": 73,
+            "code": "GI",
+            "name": "Gibraltar",
+            "translatedName": "Gibraltar",
+            "status": "active"
+        },
+        {
+            "id": 100,
+            "code": "KY",
+            "name": "Grand Cayman",
+            "translatedName": "Grand Cayman",
+            "status": "active",
+            "phonePrefix": "345"
+        },
+        {
+            "id": 31,
+            "code": "GR",
+            "name": "Greece",
+            "translatedName": "Greece",
+            "status": "inactive",
+            "phonePrefix": "30"
+        },
+        {
+            "id": 246,
+            "code": "GL",
+            "name": "Greenland",
+            "translatedName": "Greenland",
+            "status": "active",
+            "phonePrefix": "299"
+        },
+        {
+            "id": 249,
+            "code": "GD",
+            "name": "Grenada",
+            "translatedName": "Grenada",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 252,
+            "code": "GU",
+            "name": "Guam",
+            "translatedName": "Guam",
+            "status": "inactive",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 255,
+            "code": "GT",
+            "name": "Guatemala",
+            "translatedName": "Guatemala",
+            "status": "active",
+            "phonePrefix": "502"
+        },
+        {
+            "id": 76,
+            "code": "GG",
+            "name": "Guernsey",
+            "translatedName": "Guernsey",
+            "status": "active",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 258,
+            "code": "GN",
+            "name": "Guinea",
+            "translatedName": "Guinea",
+            "status": "active",
+            "phonePrefix": "224"
+        },
+        {
+            "id": 261,
+            "code": "GW",
+            "name": "Guinea-Bissau",
+            "translatedName": "Guinea-Bissau",
+            "status": "active",
+            "phonePrefix": "245"
+        },
+        {
+            "id": 264,
+            "code": "GY",
+            "name": "Guyana",
+            "translatedName": "Guyana",
+            "status": "active",
+            "phonePrefix": "592"
+        },
+        {
+            "id": 267,
+            "code": "HT",
+            "name": "Haiti",
+            "translatedName": "Haiti",
+            "status": "active",
+            "phonePrefix": "509"
+        },
+        {
+            "id": 543,
+            "code": "VA",
+            "name": "Holy See",
+            "translatedName": "Holy See",
+            "status": "active",
+            "phonePrefix": "379"
+        },
+        {
+            "id": 270,
+            "code": "HN",
+            "name": "Honduras",
+            "translatedName": "Honduras",
+            "status": "active",
+            "phonePrefix": "504"
+        },
+        {
+            "id": 42,
+            "code": "HK",
+            "name": "Hong Kong",
+            "translatedName": "Hong Kong",
+            "status": "active",
+            "phonePrefix": "852"
+        },
+        {
+            "id": 40,
+            "code": "HU",
+            "name": "Hungary",
+            "translatedName": "Hungary",
+            "status": "active",
+            "phonePrefix": "36"
+        },
+        {
+            "id": 83,
+            "code": "IS",
+            "name": "Iceland",
+            "translatedName": "Iceland",
+            "status": "active",
+            "phonePrefix": "354"
+        },
+        {
+            "id": 15,
+            "code": "IN",
+            "name": "India",
+            "translatedName": "India",
+            "status": "active",
+            "phonePrefix": "91"
+        },
+        {
+            "id": 75,
+            "code": "ID",
+            "name": "Indonesia",
+            "translatedName": "Indonesia",
+            "status": "active",
+            "phonePrefix": "62"
+        },
+        {
+            "id": 273,
+            "code": "IR",
+            "name": "Iran",
+            "translatedName": "Iran",
+            "status": "inactive",
+            "phonePrefix": "98"
+        },
+        {
+            "id": 276,
+            "code": "IQ",
+            "name": "Iraq",
+            "translatedName": "Iraq",
+            "status": "inactive",
+            "phonePrefix": "964"
+        },
+        {
+            "id": 35,
+            "code": "IE",
+            "name": "Ireland",
+            "translatedName": "Ireland",
+            "status": "active",
+            "phonePrefix": "353"
+        },
+        {
+            "id": 86,
+            "code": "IM",
+            "name": "Isle of Man",
+            "translatedName": "Isle of Man",
+            "status": "active",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 34,
+            "code": "IL",
+            "name": "Israel",
+            "translatedName": "Israel",
+            "status": "active",
+            "phonePrefix": "972"
+        },
+        {
+            "id": 9,
+            "code": "IT",
+            "name": "Italy",
+            "translatedName": "Italy",
+            "status": "inactive",
+            "phonePrefix": "39"
+        },
+        {
+            "id": 279,
+            "code": "CI",
+            "name": "Ivory Coast",
+            "translatedName": "Ivory Coast",
+            "status": "inactive",
+            "phonePrefix": "225"
+        },
+        {
+            "id": 54,
+            "code": "JM",
+            "name": "Jamaica",
+            "translatedName": "Jamaica",
+            "status": "inactive",
+            "phonePrefix": "1876"
+        },
+        {
+            "id": 2,
+            "code": "JP",
+            "name": "Japan",
+            "translatedName": "Japan",
+            "status": "active",
+            "phonePrefix": "81"
+        },
+        {
+            "id": 77,
+            "code": "JE",
+            "name": "Jersey",
+            "translatedName": "Jersey",
+            "status": "active",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 282,
+            "code": "JO",
+            "name": "Jordan",
+            "translatedName": "Jordan",
+            "status": "active",
+            "phonePrefix": "962"
+        },
+        {
+            "id": 285,
+            "code": "KZ",
+            "name": "Kazakhstan",
+            "translatedName": "Kazakhstan",
+            "status": "active",
+            "phonePrefix": "7"
+        },
+        {
+            "id": 105,
+            "code": "KE",
+            "name": "Kenya",
+            "translatedName": "Kenya",
+            "status": "active",
+            "phonePrefix": "254"
+        },
+        {
+            "id": 288,
+            "code": "KI",
+            "name": "Kiribati",
+            "translatedName": "Kiribati",
+            "status": "active",
+            "phonePrefix": "686"
+        },
+        {
+            "id": 387,
+            "code": "KP",
+            "name": "Korea, North",
+            "translatedName": "Korea, North",
+            "status": "inactive",
+            "phonePrefix": "850"
+        },
+        {
+            "id": 16,
+            "code": "KR",
+            "name": "Korea, South",
+            "translatedName": "Korea, South",
+            "status": "active"
+        },
+        {
+            "id": 291,
+            "code": "XK",
+            "name": "Kosovo",
+            "translatedName": "Kosovo",
+            "status": "active",
+            "phonePrefix": "383"
+        },
+        {
+            "id": 294,
+            "code": "KW",
+            "name": "Kuwait",
+            "translatedName": "Kuwait",
+            "status": "active",
+            "phonePrefix": "965"
+        },
+        {
+            "id": 297,
+            "code": "KG",
+            "name": "Kyrgyzstan",
+            "translatedName": "Kyrgyzstan",
+            "status": "active",
+            "phonePrefix": "996"
+        },
+        {
+            "id": 93,
+            "code": "LA",
+            "name": "Laos",
+            "translatedName": "Laos",
+            "status": "active",
+            "phonePrefix": "856"
+        },
+        {
+            "id": 102,
+            "code": "LV",
+            "name": "Latvia",
+            "translatedName": "Latvia",
+            "status": "active",
+            "phonePrefix": "371"
+        },
+        {
+            "id": 300,
+            "code": "LB",
+            "name": "Lebanon",
+            "translatedName": "Lebanon",
+            "status": "active",
+            "phonePrefix": "961"
+        },
+        {
+            "id": 303,
+            "code": "LS",
+            "name": "Lesotho",
+            "translatedName": "Lesotho",
+            "status": "active",
+            "phonePrefix": "266"
+        },
+        {
+            "id": 306,
+            "code": "LR",
+            "name": "Liberia",
+            "translatedName": "Liberia",
+            "status": "active",
+            "phonePrefix": "231"
+        },
+        {
+            "id": 309,
+            "code": "LY",
+            "name": "Libya",
+            "translatedName": "Libya",
+            "status": "active",
+            "phonePrefix": "218"
+        },
+        {
+            "id": 312,
+            "code": "LI",
+            "name": "Liechtenstein",
+            "translatedName": "Liechtenstein",
+            "status": "active",
+            "phonePrefix": "423"
+        },
+        {
+            "id": 92,
+            "code": "LT",
+            "name": "Lithuania",
+            "translatedName": "Lithuania",
+            "status": "active",
+            "phonePrefix": "370"
+        },
+        {
+            "id": 315,
+            "code": "LU",
+            "name": "Luxembourg",
+            "translatedName": "Luxembourg",
+            "status": "active",
+            "phonePrefix": "352"
+        },
+        {
+            "id": 318,
+            "code": "MO",
+            "name": "Macau",
+            "translatedName": "Macau",
+            "status": "active",
+            "phonePrefix": "853"
+        },
+        {
+            "id": 88,
+            "code": "MK",
+            "name": "Macedonia, The Former Yugoslav Republic of",
+            "translatedName": "Macedonia, The Former Yugoslav Republic of",
+            "status": "active",
+            "phonePrefix": "389"
+        },
+        {
+            "id": 321,
+            "code": "MG",
+            "name": "Madagascar",
+            "translatedName": "Madagascar",
+            "status": "active",
+            "phonePrefix": "261"
+        },
+        {
+            "id": 324,
+            "code": "MW",
+            "name": "Malawi",
+            "translatedName": "Malawi",
+            "status": "active",
+            "phonePrefix": "265"
+        },
+        {
+            "id": 37,
+            "code": "MY",
+            "name": "Malaysia",
+            "translatedName": "Malaysia",
+            "status": "active",
+            "phonePrefix": "60"
+        },
+        {
+            "id": 327,
+            "code": "MV",
+            "name": "Maldives",
+            "translatedName": "Maldives",
+            "status": "active",
+            "phonePrefix": "960"
+        },
+        {
+            "id": 330,
+            "code": "ML",
+            "name": "Mali",
+            "translatedName": "Mali",
+            "status": "active",
+            "phonePrefix": "223"
+        },
+        {
+            "id": 67,
+            "code": "MT",
+            "name": "Malta",
+            "translatedName": "Malta",
+            "status": "active",
+            "phonePrefix": "356"
+        },
+        {
+            "id": 333,
+            "code": "MH",
+            "name": "Marshall Islands",
+            "translatedName": "Marshall Islands",
+            "status": "active",
+            "phonePrefix": "692"
+        },
+        {
+            "id": 336,
+            "code": "MR",
+            "name": "Mauritania",
+            "translatedName": "Mauritania",
+            "status": "inactive",
+            "phonePrefix": "222"
+        },
+        {
+            "id": 65,
+            "code": "MU",
+            "name": "Mauritius",
+            "translatedName": "Mauritius",
+            "status": "active",
+            "phonePrefix": "230"
+        },
+        {
+            "id": 339,
+            "code": "YT",
+            "name": "Mayotte",
+            "translatedName": "Mayotte",
+            "status": "inactive",
+            "phonePrefix": "262"
+        },
+        {
+            "id": 14,
+            "code": "MX",
+            "name": "Mexico",
+            "translatedName": "Mexico",
+            "status": "active",
+            "phonePrefix": "52"
+        },
+        {
+            "id": 342,
+            "code": "FM",
+            "name": "Micronesia, Federated States of",
+            "translatedName": "Micronesia, Federated States of",
+            "status": "active",
+            "phonePrefix": "691"
+        },
+        {
+            "id": 345,
+            "code": "MD",
+            "name": "Moldova",
+            "translatedName": "Moldova",
+            "status": "active",
+            "phonePrefix": "373"
+        },
+        {
+            "id": 64,
+            "code": "MC",
+            "name": "Monaco",
+            "translatedName": "Monaco",
+            "status": "active",
+            "phonePrefix": "377"
+        },
+        {
+            "id": 348,
+            "code": "MN",
+            "name": "Mongolia",
+            "translatedName": "Mongolia",
+            "status": "active",
+            "phonePrefix": "976"
+        },
+        {
+            "id": 108,
+            "code": "ME",
+            "name": "Montenegro",
+            "translatedName": "Montenegro",
+            "status": "active",
+            "phonePrefix": "382"
+        },
+        {
+            "id": 351,
+            "code": "MS",
+            "name": "Montserrat",
+            "translatedName": "Montserrat",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 354,
+            "code": "MA",
+            "name": "Morocco",
+            "translatedName": "Morocco",
+            "status": "active",
+            "phonePrefix": "212"
+        },
+        {
+            "id": 357,
+            "code": "MZ",
+            "name": "Mozambique",
+            "translatedName": "Mozambique",
+            "status": "active",
+            "phonePrefix": "258"
+        },
+        {
+            "id": 360,
+            "code": "MM",
+            "name": "Myanmar",
+            "translatedName": "Myanmar",
+            "status": "inactive",
+            "phonePrefix": "95"
+        },
+        {
+            "id": 363,
+            "code": "NA",
+            "name": "Namibia",
+            "translatedName": "Namibia",
+            "status": "active",
+            "phonePrefix": "264"
+        },
+        {
+            "id": 366,
+            "code": "NR",
+            "name": "Nauru",
+            "translatedName": "Nauru",
+            "status": "active",
+            "phonePrefix": "674"
+        },
+        {
+            "id": 369,
+            "code": "NP",
+            "name": "Nepal",
+            "translatedName": "Nepal",
+            "status": "active",
+            "phonePrefix": "977"
+        },
+        {
+            "id": 17,
+            "code": "NL",
+            "name": "Netherlands",
+            "translatedName": "Netherlands",
+            "status": "inactive",
+            "phonePrefix": "31"
+        },
+        {
+            "id": 372,
+            "code": "AN",
+            "name": "Netherlands Antilles",
+            "translatedName": "Netherlands Antilles",
+            "status": "active",
+            "phonePrefix": "599"
+        },
+        {
+            "id": 375,
+            "code": "NC",
+            "name": "New Caledonia",
+            "translatedName": "New Caledonia",
+            "status": "active",
+            "phonePrefix": "687"
+        },
+        {
+            "id": 38,
+            "code": "NZ",
+            "name": "New Zealand",
+            "translatedName": "New Zealand",
+            "status": "active",
+            "phonePrefix": "64"
+        },
+        {
+            "id": 378,
+            "code": "NI",
+            "name": "Nicaragua",
+            "translatedName": "Nicaragua",
+            "status": "inactive",
+            "phonePrefix": "505"
+        },
+        {
+            "id": 381,
+            "code": "NE",
+            "name": "Niger",
+            "translatedName": "Niger",
+            "status": "active",
+            "phonePrefix": "227"
+        },
+        {
+            "id": 91,
+            "code": "NG",
+            "name": "Nigeria",
+            "translatedName": "Nigeria",
+            "status": "inactive",
+            "phonePrefix": "234"
+        },
+        {
+            "id": 384,
+            "code": "NU",
+            "name": "Niue",
+            "translatedName": "Niue",
+            "status": "active",
+            "phonePrefix": "683"
+        },
+        {
+            "id": 7,
+            "code": "UK",
+            "name": "Northern Ireland",
+            "translatedName": "Northern Ireland",
+            "status": "inactive",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 390,
+            "code": "MP",
+            "name": "Northern Mariana Islands",
+            "translatedName": "Northern Mariana Islands",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 27,
+            "code": "NO",
+            "name": "Norway",
+            "translatedName": "Norway",
+            "status": "active",
+            "phonePrefix": "47"
+        },
+        {
+            "id": 393,
+            "code": "OM",
+            "name": "Oman",
+            "translatedName": "Oman",
+            "status": "active",
+            "phonePrefix": "968"
+        },
+        {
+            "id": 44,
+            "code": "Other",
+            "name": "Other",
+            "translatedName": "Other",
+            "status": "inactive"
+        },
+        {
+            "id": 396,
+            "code": "PK",
+            "name": "Pakistan",
+            "translatedName": "Pakistan",
+            "status": "inactive",
+            "phonePrefix": "92"
+        },
+        {
+            "id": 399,
+            "code": "PW",
+            "name": "Palau",
+            "translatedName": "Palau",
+            "status": "active",
+            "phonePrefix": "680"
+        },
+        {
+            "id": 402,
+            "code": "PS",
+            "name": "Palestine",
+            "translatedName": "Palestine",
+            "status": "active",
+            "phonePrefix": "970"
+        },
+        {
+            "id": 68,
+            "code": "PA",
+            "name": "Panama",
+            "translatedName": "Panama",
+            "status": "inactive",
+            "phonePrefix": "507"
+        },
+        {
+            "id": 405,
+            "code": "PG",
+            "name": "Papua New Guinea",
+            "translatedName": "Papua New Guinea",
+            "status": "active",
+            "phonePrefix": "675"
+        },
+        {
+            "id": 408,
+            "code": "PY",
+            "name": "Paraguay",
+            "translatedName": "Paraguay",
+            "status": "active",
+            "phonePrefix": "595"
+        },
+        {
+            "id": 411,
+            "code": "PE",
+            "name": "Peru",
+            "translatedName": "Peru",
+            "status": "active",
+            "phonePrefix": "51"
+        },
+        {
+            "id": 72,
+            "code": "PH",
+            "name": "Philippines",
+            "translatedName": "Philippines",
+            "status": "active",
+            "phonePrefix": "63"
+        },
+        {
+            "id": 414,
+            "code": "PN",
+            "name": "Pitcairn",
+            "translatedName": "Pitcairn",
+            "status": "inactive",
+            "phonePrefix": "64"
+        },
+        {
+            "id": 26,
+            "code": "PL",
+            "name": "Poland",
+            "translatedName": "Poland",
+            "status": "active",
+            "phonePrefix": "48"
+        },
+        {
+            "id": 33,
+            "code": "PT",
+            "name": "Portugal",
+            "translatedName": "Portugal",
+            "status": "active",
+            "phonePrefix": "351"
+        },
+        {
+            "id": 55,
+            "code": "PR",
+            "name": "Puerto Rico",
+            "translatedName": "Puerto Rico",
+            "status": "active",
+            "phonePrefix": "1939"
+        },
+        {
+            "id": 417,
+            "code": "QA",
+            "name": "Qatar",
+            "translatedName": "Qatar",
+            "status": "active",
+            "phonePrefix": "974"
+        },
+        {
+            "id": 423,
+            "code": "RE",
+            "name": "Reunion",
+            "translatedName": "Reunion",
+            "status": "active",
+            "phonePrefix": "262"
+        },
+        {
+            "id": 74,
+            "code": "RO",
+            "name": "Romania",
+            "translatedName": "Romania",
+            "status": "inactive",
+            "phonePrefix": "40"
+        },
+        {
+            "id": 25,
+            "code": "RU",
+            "name": "Russia",
+            "translatedName": "Russia",
+            "status": "inactive",
+            "phonePrefix": "7"
+        },
+        {
+            "id": 426,
+            "code": "RW",
+            "name": "Rwanda",
+            "translatedName": "Rwanda",
+            "status": "active",
+            "phonePrefix": "250"
+        },
+        {
+            "id": 429,
+            "code": "BL",
+            "name": "Saint Barthelemy",
+            "translatedName": "Saint Barthelemy",
+            "status": "inactive",
+            "phonePrefix": "590"
+        },
+        {
+            "id": 432,
+            "code": "SH",
+            "name": "Saint Helena",
+            "translatedName": "Saint Helena",
+            "status": "inactive",
+            "phonePrefix": "290"
+        },
+        {
+            "id": 56,
+            "code": "KN",
+            "name": "Saint Kitts and Nevis",
+            "translatedName": "Saint Kitts and Nevis",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 435,
+            "code": "LC",
+            "name": "Saint Lucia",
+            "translatedName": "Saint Lucia",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 438,
+            "code": "MF",
+            "name": "Saint Martin",
+            "translatedName": "Saint Martin",
+            "status": "active",
+            "phonePrefix": "590"
+        },
+        {
+            "id": 444,
+            "code": "PM",
+            "name": "Saint Pierre and Miquelon",
+            "translatedName": "Saint Pierre and Miquelon",
+            "status": "active",
+            "phonePrefix": "508"
+        },
+        {
+            "id": 447,
+            "code": "VC",
+            "name": "Saint Vincent and the Grenadines",
+            "translatedName": "Saint Vincent and the Grenadines",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 450,
+            "code": "WS",
+            "name": "Samoa",
+            "translatedName": "Samoa",
+            "status": "active",
+            "phonePrefix": "685"
+        },
+        {
+            "id": 453,
+            "code": "SM",
+            "name": "San Marino",
+            "translatedName": "San Marino",
+            "status": "active",
+            "phonePrefix": "378"
+        },
+        {
+            "id": 456,
+            "code": "ST",
+            "name": "Sao Tome and Principe",
+            "translatedName": "Sao Tome and Principe",
+            "status": "active",
+            "phonePrefix": "239"
+        },
+        {
+            "id": 28,
+            "code": "SA",
+            "name": "Saudi Arabia",
+            "translatedName": "Saudi Arabia",
+            "status": "inactive",
+            "phonePrefix": "966"
+        },
+        {
+            "id": 6,
+            "code": "UK",
+            "name": "Scotland",
+            "translatedName": "Scotland",
+            "status": "inactive",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 459,
+            "code": "SN",
+            "name": "Senegal",
+            "translatedName": "Senegal",
+            "status": "active",
+            "phonePrefix": "221"
+        },
+        {
+            "id": 66,
+            "code": "RS",
+            "name": "Serbia",
+            "translatedName": "Serbia",
+            "status": "active",
+            "phonePrefix": "381"
+        },
+        {
+            "id": 71,
+            "code": "SC",
+            "name": "Seychelles",
+            "translatedName": "Seychelles",
+            "status": "active",
+            "phonePrefix": "248"
+        },
+        {
+            "id": 462,
+            "code": "SL",
+            "name": "Sierra Leone",
+            "translatedName": "Sierra Leone",
+            "status": "active",
+            "phonePrefix": "232"
+        },
+        {
+            "id": 43,
+            "code": "SG",
+            "name": "Singapore",
+            "translatedName": "Singapore",
+            "status": "active",
+            "phonePrefix": "65"
+        },
+        {
+            "id": 82,
+            "code": "SK",
+            "name": "Slovakia",
+            "translatedName": "Slovakia",
+            "status": "active",
+            "phonePrefix": "421"
+        },
+        {
+            "id": 69,
+            "code": "SI",
+            "name": "Slovenia",
+            "translatedName": "Slovenia",
+            "status": "active",
+            "phonePrefix": "386"
+        },
+        {
+            "id": 465,
+            "code": "SB",
+            "name": "Solomon Islands",
+            "translatedName": "Solomon Islands",
+            "status": "active",
+            "phonePrefix": "677"
+        },
+        {
+            "id": 468,
+            "code": "SO",
+            "name": "Somalia",
+            "translatedName": "Somalia",
+            "status": "active",
+            "phonePrefix": "252"
+        },
+        {
+            "id": 29,
+            "code": "ZA",
+            "name": "South Africa",
+            "translatedName": "South Africa",
+            "status": "active",
+            "phonePrefix": "27"
+        },
+        {
+            "id": 471,
+            "code": "SS",
+            "name": "South Sudan",
+            "translatedName": "South Sudan",
+            "status": "active",
+            "phonePrefix": "211"
+        },
+        {
+            "id": 12,
+            "code": "ES",
+            "name": "Spain",
+            "translatedName": "Spain",
+            "status": "inactive",
+            "phonePrefix": "34"
+        },
+        {
+            "id": 78,
+            "code": "LK",
+            "name": "Sri Lanka",
+            "translatedName": "Sri Lanka",
+            "status": "active",
+            "phonePrefix": "94"
+        },
+        {
+            "id": 441,
+            "code": "SX",
+            "name": "St. Maarten",
+            "translatedName": "St. Maarten",
+            "status": "active",
+            "phonePrefix": "599"
+        },
+        {
+            "id": 474,
+            "code": "SD",
+            "name": "Sudan",
+            "translatedName": "Sudan",
+            "status": "active",
+            "phonePrefix": "249"
+        },
+        {
+            "id": 477,
+            "code": "SR",
+            "name": "Suriname",
+            "translatedName": "Suriname",
+            "status": "active",
+            "phonePrefix": "597"
+        },
+        {
+            "id": 480,
+            "code": "SJ",
+            "name": "Svalbard and Jan Mayen",
+            "translatedName": "Svalbard and Jan Mayen",
+            "status": "inactive",
+            "phonePrefix": "47"
+        },
+        {
+            "id": 483,
+            "code": "SZ",
+            "name": "Swaziland",
+            "translatedName": "Swaziland",
+            "status": "active",
+            "phonePrefix": "268"
+        },
+        {
+            "id": 23,
+            "code": "SE",
+            "name": "Sweden",
+            "translatedName": "Sweden",
+            "status": "inactive",
+            "phonePrefix": "46"
+        },
+        {
+            "id": 21,
+            "code": "CH",
+            "name": "Switzerland",
+            "translatedName": "Switzerland",
+            "status": "active",
+            "phonePrefix": "41"
+        },
+        {
+            "id": 486,
+            "code": "SY",
+            "name": "Syria",
+            "translatedName": "Syria",
+            "status": "inactive",
+            "phonePrefix": "963"
+        },
+        {
+            "id": 19,
+            "code": "TW",
+            "name": "Taiwan",
+            "translatedName": "Taiwan",
+            "status": "active",
+            "phonePrefix": "886"
+        },
+        {
+            "id": 489,
+            "code": "TJ",
+            "name": "Tajikistan",
+            "translatedName": "Tajikistan",
+            "status": "active",
+            "phonePrefix": "992"
+        },
+        {
+            "id": 492,
+            "code": "TZ",
+            "name": "Tanzania",
+            "translatedName": "Tanzania",
+            "status": "active",
+            "phonePrefix": "255"
+        },
+        {
+            "id": 32,
+            "code": "TH",
+            "name": "Thailand",
+            "translatedName": "Thailand",
+            "status": "active",
+            "phonePrefix": "66"
+        },
+        {
+            "id": 495,
+            "code": "TG",
+            "name": "Togo",
+            "translatedName": "Togo",
+            "status": "active",
+            "phonePrefix": "228"
+        },
+        {
+            "id": 498,
+            "code": "TK",
+            "name": "Tokelau",
+            "translatedName": "Tokelau",
+            "status": "inactive",
+            "phonePrefix": "690"
+        },
+        {
+            "id": 501,
+            "code": "TO",
+            "name": "Tonga",
+            "translatedName": "Tonga",
+            "status": "active",
+            "phonePrefix": "676"
+        },
+        {
+            "id": 57,
+            "code": "TT",
+            "name": "Trinidad and Tobago",
+            "translatedName": "Trinidad and Tobago",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 96,
+            "code": "TN",
+            "name": "Tunisia",
+            "translatedName": "Tunisia",
+            "status": "active",
+            "phonePrefix": "216"
+        },
+        {
+            "id": 95,
+            "code": "TR",
+            "name": "Turkey",
+            "translatedName": "Turkey",
+            "status": "active",
+            "phonePrefix": "90"
+        },
+        {
+            "id": 504,
+            "code": "TM",
+            "name": "Turkmenistan",
+            "translatedName": "Turkmenistan",
+            "status": "active",
+            "phonePrefix": "993"
+        },
+        {
+            "id": 507,
+            "code": "TC",
+            "name": "Turks and Caicos Islands",
+            "translatedName": "Turks and Caicos Islands",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 510,
+            "code": "TV",
+            "name": "Tuvalu",
+            "translatedName": "Tuvalu",
+            "status": "active",
+            "phonePrefix": "688"
+        },
+        {
+            "id": 99,
+            "code": "UG",
+            "name": "Uganda",
+            "translatedName": "Uganda",
+            "status": "inactive",
+            "phonePrefix": "256"
+        },
+        {
+            "id": 87,
+            "code": "UA",
+            "name": "Ukraine",
+            "translatedName": "Ukraine",
+            "status": "active",
+            "phonePrefix": "380"
+        },
+        {
+            "id": 84,
+            "code": "AE",
+            "name": "United Arab Emirates",
+            "translatedName": "United Arab Emirates",
+            "status": "active",
+            "phonePrefix": "971"
+        },
+        {
+            "id": 513,
+            "code": "GB",
+            "name": "United Kingdom",
+            "translatedName": "United Kingdom",
+            "status": "inactive",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 1,
+            "code": "US",
+            "name": "United States of America",
+            "translatedName": "United States of America",
+            "status": "inactive",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 59,
+            "code": "VI",
+            "name": "United States Virgin Islands",
+            "translatedName": "United States Virgin Islands",
+            "status": "active",
+            "phonePrefix": "1"
+        },
+        {
+            "id": 98,
+            "code": "UY",
+            "name": "Uruguay",
+            "translatedName": "Uruguay",
+            "status": "active",
+            "phonePrefix": "598"
+        },
+        {
+            "id": 516,
+            "code": "UZ",
+            "name": "Uzbekistan",
+            "translatedName": "Uzbekistan",
+            "status": "active",
+            "phonePrefix": "998"
+        },
+        {
+            "id": 519,
+            "code": "VU",
+            "name": "Vanuatu",
+            "translatedName": "Vanuatu",
+            "status": "active",
+            "phonePrefix": "678"
+        },
+        {
+            "id": 522,
+            "code": "VA",
+            "name": "Vatican City",
+            "translatedName": "Vatican City",
+            "status": "active",
+            "phonePrefix": "379"
+        },
+        {
+            "id": 525,
+            "code": "VE",
+            "name": "Venezuela",
+            "translatedName": "Venezuela",
+            "status": "active",
+            "phonePrefix": "58"
+        },
+        {
+            "id": 61,
+            "code": "VM",
+            "name": "Vietnam",
+            "translatedName": "Vietnam",
+            "status": "active",
+            "phonePrefix": "84"
+        },
+        {
+            "id": 5,
+            "code": "UK",
+            "name": "Wales",
+            "translatedName": "Wales",
+            "status": "inactive",
+            "phonePrefix": "44"
+        },
+        {
+            "id": 528,
+            "code": "WF",
+            "name": "Wallis and Futuna",
+            "translatedName": "Wallis and Futuna",
+            "status": "inactive",
+            "phonePrefix": "681"
+        },
+        {
+            "id": 549,
+            "code": "PS",
+            "name": "West Bank",
+            "translatedName": "West Bank",
+            "status": "inactive",
+            "phonePrefix": "970"
+        },
+        {
+            "id": 531,
+            "code": "EH",
+            "name": "Western Sahara",
+            "translatedName": "Western Sahara",
+            "status": "active",
+            "phonePrefix": "212"
+        },
+        {
+            "id": 534,
+            "code": "YE",
+            "name": "Yemen",
+            "translatedName": "Yemen",
+            "status": "inactive",
+            "phonePrefix": "967"
+        },
+        {
+            "id": 537,
+            "code": "ZM",
+            "name": "Zambia",
+            "translatedName": "Zambia",
+            "status": "inactive",
+            "phonePrefix": "260"
+        },
+        {
+            "id": 540,
+            "code": "ZW",
+            "name": "Zimbabwe",
+            "translatedName": "Zimbabwe",
+            "status": "inactive",
+            "phonePrefix": "263"
+        }
+    ]
+}

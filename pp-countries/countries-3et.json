@@ -1,0 +1,1676 @@
+[
+    {
+        "id": 117,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Algeria",
+        "country-code": "DZ",
+        "phone-prefix": "213",
+        "status": "active"
+    },
+    {
+        "id": 120,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "American Samoa",
+        "country-code": "AS",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 123,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Andorra",
+        "country-code": "AD",
+        "phone-prefix": "376",
+        "status": "active"
+    },
+    {
+        "id": 126,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Angola",
+        "country-code": "AO",
+        "phone-prefix": "244",
+        "status": "active"
+    },
+    {
+        "id": 129,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Anguilla",
+        "country-code": "AI",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 45,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Antigua and Barbuda",
+        "country-code": "AG",
+        "phone-prefix": "1268",
+        "status": "active"
+    },
+    {
+        "id": 20,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Argentina",
+        "country-code": "AR",
+        "phone-prefix": "54",
+        "status": "active"
+    },
+    {
+        "id": 135,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Armenia",
+        "country-code": "AM",
+        "phone-prefix": "374",
+        "status": "active"
+    },
+    {
+        "id": 138,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Aruba",
+        "country-code": "AW",
+        "phone-prefix": "297",
+        "status": "active"
+    },
+    {
+        "id": 18,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Australia",
+        "country-code": "AU",
+        "phone-prefix": "61",
+        "status": "active"
+    },
+    {
+        "id": 24,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Austria",
+        "country-code": "AT",
+        "phone-prefix": "1242",
+        "status": "active"
+    },
+    {
+        "id": 141,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Azerbaijan",
+        "country-code": "AZ",
+        "phone-prefix": "994",
+        "status": "active"
+    },
+    {
+        "id": 46,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Bahamas, The",
+        "country-code": "BS",
+        "phone-prefix": "1242",
+        "status": "active"
+    },
+    {
+        "id": 144,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Bahrain",
+        "country-code": "BH",
+        "phone-prefix": "973",
+        "status": "active"
+    },
+    {
+        "id": 147,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Bangladesh",
+        "country-code": "BD",
+        "phone-prefix": "880",
+        "status": "active"
+    },
+    {
+        "id": 48,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Belize",
+        "country-code": "BZ",
+        "phone-prefix": "501",
+        "status": "active"
+    },
+    {
+        "id": 153,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Benin",
+        "country-code": "BJ",
+        "phone-prefix": "229",
+        "status": "active"
+    },
+    {
+        "id": 49,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Bermuda",
+        "country-code": "BM",
+        "phone-prefix": "1441",
+        "status": "active"
+    },
+    {
+        "id": 156,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Bhutan",
+        "country-code": "BT",
+        "phone-prefix": "975",
+        "status": "active"
+    },
+    {
+        "id": 81,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Bolivia",
+        "country-code": "BO",
+        "phone-prefix": "591",
+        "status": "active"
+    },
+    {
+        "id": 159,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Bosnia and Herzegovina",
+        "country-code": "BA",
+        "phone-prefix": "387",
+        "status": "active"
+    },
+    {
+        "id": 13,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Brazil",
+        "country-code": "BR",
+        "phone-prefix": "55",
+        "status": "active"
+    },
+    {
+        "id": 58,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "British Virgin Islands",
+        "country-code": "VG",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 168,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Brunei",
+        "country-code": "BN",
+        "phone-prefix": "673",
+        "status": "active"
+    },
+    {
+        "id": 171,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Burkina Faso",
+        "country-code": "BF",
+        "phone-prefix": "226",
+        "status": "active"
+    },
+    {
+        "id": 174,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Burundi",
+        "country-code": "BI",
+        "phone-prefix": "257",
+        "status": "active"
+    },
+    {
+        "id": 177,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Cameroon",
+        "country-code": "CM",
+        "phone-prefix": "237",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Canada",
+        "country-code": "CA",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 90,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Cape Verde",
+        "country-code": "CV",
+        "phone-prefix": "238",
+        "status": "active"
+    },
+    {
+        "id": 94,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Chile",
+        "country-code": "CL",
+        "phone-prefix": "56",
+        "status": "active"
+    },
+    {
+        "id": 10,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "China",
+        "country-code": "CN",
+        "phone-prefix": "86",
+        "status": "active"
+    },
+    {
+        "id": 60,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Columbia",
+        "country-code": "CO",
+        "phone-prefix": "57",
+        "status": "active"
+    },
+    {
+        "id": 192,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Comoros",
+        "country-code": "KM",
+        "phone-prefix": "269",
+        "status": "active"
+    },
+    {
+        "id": 420,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Congo, Republic of the",
+        "country-code": "CG",
+        "phone-prefix": "242",
+        "status": "active"
+    },
+    {
+        "id": 195,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Cook Islands",
+        "country-code": "CK",
+        "phone-prefix": "682",
+        "status": "active"
+    },
+    {
+        "id": 50,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Costa Rica",
+        "country-code": "CR",
+        "phone-prefix": "506",
+        "status": "active"
+    },
+    {
+        "id": 63,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Croatia",
+        "country-code": "HR",
+        "phone-prefix": "385",
+        "status": "active"
+    },
+    {
+        "id": 51,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Cuba",
+        "country-code": "CU",
+        "phone-prefix": "53",
+        "status": "active"
+    },
+    {
+        "id": 52,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Curacao",
+        "country-code": "CUR",
+        "phone-prefix": "599",
+        "status": "active"
+    },
+    {
+        "id": 89,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Cyprus",
+        "country-code": "CY",
+        "phone-prefix": "357",
+        "status": "active"
+    },
+    {
+        "id": 39,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Czech Republic",
+        "country-code": "CZ",
+        "phone-prefix": "420",
+        "status": "active"
+    },
+    {
+        "id": 41,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Denmark",
+        "country-code": "DK",
+        "phone-prefix": "45",
+        "status": "active"
+    },
+    {
+        "id": 201,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Djibouti",
+        "country-code": "DJ",
+        "phone-prefix": "253",
+        "status": "active"
+    },
+    {
+        "id": 204,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Dominica",
+        "country-code": "DM",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 53,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Dominican Republic",
+        "country-code": "DO",
+        "phone-prefix": "1849",
+        "status": "active"
+    },
+    {
+        "id": 207,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "East Timor",
+        "country-code": "TL",
+        "phone-prefix": "670",
+        "status": "active"
+    },
+    {
+        "id": 210,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Ecuador",
+        "country-code": "EC",
+        "phone-prefix": "593",
+        "status": "active"
+    },
+    {
+        "id": 36,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Egypt",
+        "country-code": "EG",
+        "phone-prefix": "45",
+        "status": "active"
+    },
+    {
+        "id": 213,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "El Salvador",
+        "country-code": "SV",
+        "phone-prefix": "503",
+        "status": "active"
+    },
+    {
+        "id": 216,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Equatorial Guinea",
+        "country-code": "GQ",
+        "phone-prefix": "240",
+        "status": "active"
+    },
+    {
+        "id": 219,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Eritrea",
+        "country-code": "ER",
+        "phone-prefix": "291",
+        "status": "active"
+    },
+    {
+        "id": 70,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Ethiopia",
+        "country-code": "ET",
+        "phone-prefix": "251",
+        "status": "active"
+    },
+    {
+        "id": 225,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Faroe Islands",
+        "country-code": "FO",
+        "phone-prefix": "298",
+        "status": "active"
+    },
+    {
+        "id": 228,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Fiji",
+        "country-code": "FJ",
+        "phone-prefix": "679",
+        "status": "active"
+    },
+    {
+        "id": 30,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Finland",
+        "country-code": "FI",
+        "phone-prefix": "358",
+        "status": "active"
+    },
+    {
+        "id": 231,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "French Polynesia",
+        "country-code": "PF",
+        "phone-prefix": "689",
+        "status": "active"
+    },
+    {
+        "id": 234,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Gabon",
+        "country-code": "GA",
+        "phone-prefix": "241",
+        "status": "active"
+    },
+    {
+        "id": 237,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Gambia, The",
+        "country-code": "GM",
+        "phone-prefix": "220",
+        "status": "active"
+    },
+    {
+        "id": 240,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Georgia",
+        "country-code": "GE",
+        "phone-prefix": "995",
+        "status": "active"
+    },
+    {
+        "id": 73,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Gibraltar",
+        "country-code": "GI",
+        "phone-prefix": null,
+        "status": "active"
+    },
+    {
+        "id": 100,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Grand Cayman",
+        "country-code": "KY",
+        "phone-prefix": "345",
+        "status": "active"
+    },
+    {
+        "id": 246,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Greenland",
+        "country-code": "GL",
+        "phone-prefix": "299",
+        "status": "active"
+    },
+    {
+        "id": 249,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Grenada",
+        "country-code": "GD",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 255,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Guatemala",
+        "country-code": "GT",
+        "phone-prefix": "502",
+        "status": "active"
+    },
+    {
+        "id": 76,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Guernsey",
+        "country-code": "GG",
+        "phone-prefix": "44",
+        "status": "active"
+    },
+    {
+        "id": 258,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Guinea",
+        "country-code": "GN",
+        "phone-prefix": "224",
+        "status": "active"
+    },
+    {
+        "id": 261,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Guinea-Bissau",
+        "country-code": "GW",
+        "phone-prefix": "245",
+        "status": "active"
+    },
+    {
+        "id": 264,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Guyana",
+        "country-code": "GY",
+        "phone-prefix": "592",
+        "status": "active"
+    },
+    {
+        "id": 267,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Haiti",
+        "country-code": "HT",
+        "phone-prefix": "509",
+        "status": "active"
+    },
+    {
+        "id": 543,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Holy See",
+        "country-code": "VA",
+        "phone-prefix": "379",
+        "status": "active"
+    },
+    {
+        "id": 270,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Honduras",
+        "country-code": "HN",
+        "phone-prefix": "504",
+        "status": "active"
+    },
+    {
+        "id": 42,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Hong Kong",
+        "country-code": "HK",
+        "phone-prefix": "852",
+        "status": "active"
+    },
+    {
+        "id": 40,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Hungary",
+        "country-code": "HU",
+        "phone-prefix": "36",
+        "status": "active"
+    },
+    {
+        "id": 83,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Iceland",
+        "country-code": "IS",
+        "phone-prefix": "354",
+        "status": "active"
+    },
+    {
+        "id": 15,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "India",
+        "country-code": "IN",
+        "phone-prefix": "91",
+        "status": "active"
+    },
+    {
+        "id": 75,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Indonesia",
+        "country-code": "ID",
+        "phone-prefix": "62",
+        "status": "active"
+    },
+    {
+        "id": 86,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Isle of Man",
+        "country-code": "IM",
+        "phone-prefix": "44",
+        "status": "active"
+    },
+    {
+        "id": 34,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Israel",
+        "country-code": "IL",
+        "phone-prefix": "972",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Japan",
+        "country-code": "JP",
+        "phone-prefix": "81",
+        "status": "active"
+    },
+    {
+        "id": 77,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Jersey",
+        "country-code": "JE",
+        "phone-prefix": "44",
+        "status": "active"
+    },
+    {
+        "id": 282,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Jordan",
+        "country-code": "JO",
+        "phone-prefix": "962",
+        "status": "active"
+    },
+    {
+        "id": 285,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Kazakhstan",
+        "country-code": "KZ",
+        "phone-prefix": "7",
+        "status": "active"
+    },
+    {
+        "id": 105,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Kenya",
+        "country-code": "KE",
+        "phone-prefix": "254",
+        "status": "active"
+    },
+    {
+        "id": 288,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Kiribati",
+        "country-code": "KI",
+        "phone-prefix": "686",
+        "status": "active"
+    },
+    {
+        "id": 16,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Korea, South",
+        "country-code": "KR",
+        "phone-prefix": null,
+        "status": "active"
+    },
+    {
+        "id": 291,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Kosovo",
+        "country-code": "XK",
+        "phone-prefix": "383",
+        "status": "active"
+    },
+    {
+        "id": 294,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Kuwait",
+        "country-code": "KW",
+        "phone-prefix": "965",
+        "status": "active"
+    },
+    {
+        "id": 297,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Kyrgyzstan",
+        "country-code": "KG",
+        "phone-prefix": "996",
+        "status": "active"
+    },
+    {
+        "id": 93,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Laos",
+        "country-code": "LA",
+        "phone-prefix": "856",
+        "status": "active"
+    },
+    {
+        "id": 102,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Latvia",
+        "country-code": "LV",
+        "phone-prefix": "371",
+        "status": "active"
+    },
+    {
+        "id": 300,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Lebanon",
+        "country-code": "LB",
+        "phone-prefix": "961",
+        "status": "active"
+    },
+    {
+        "id": 303,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Lesotho",
+        "country-code": "LS",
+        "phone-prefix": "266",
+        "status": "active"
+    },
+    {
+        "id": 306,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Liberia",
+        "country-code": "LR",
+        "phone-prefix": "231",
+        "status": "active"
+    },
+    {
+        "id": 309,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Libya",
+        "country-code": "LY",
+        "phone-prefix": "218",
+        "status": "active"
+    },
+    {
+        "id": 312,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Liechtenstein",
+        "country-code": "LI",
+        "phone-prefix": "423",
+        "status": "active"
+    },
+    {
+        "id": 92,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Lithuania",
+        "country-code": "LT",
+        "phone-prefix": "370",
+        "status": "active"
+    },
+    {
+        "id": 315,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Luxembourg",
+        "country-code": "LU",
+        "phone-prefix": "352",
+        "status": "active"
+    },
+    {
+        "id": 318,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Macau",
+        "country-code": "MO",
+        "phone-prefix": "853",
+        "status": "active"
+    },
+    {
+        "id": 88,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Macedonia, The Former Yugoslav Republic of",
+        "country-code": "MK",
+        "phone-prefix": "389",
+        "status": "active"
+    },
+    {
+        "id": 321,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Madagascar",
+        "country-code": "MG",
+        "phone-prefix": "261",
+        "status": "active"
+    },
+    {
+        "id": 324,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Malawi",
+        "country-code": "MW",
+        "phone-prefix": "265",
+        "status": "active"
+    },
+    {
+        "id": 37,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Malaysia",
+        "country-code": "MY",
+        "phone-prefix": "60",
+        "status": "active"
+    },
+    {
+        "id": 327,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Maldives",
+        "country-code": "MV",
+        "phone-prefix": "960",
+        "status": "active"
+    },
+    {
+        "id": 330,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Mali",
+        "country-code": "ML",
+        "phone-prefix": "223",
+        "status": "active"
+    },
+    {
+        "id": 67,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Malta",
+        "country-code": "MT",
+        "phone-prefix": "356",
+        "status": "active"
+    },
+    {
+        "id": 333,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Marshall Islands",
+        "country-code": "MH",
+        "phone-prefix": "692",
+        "status": "active"
+    },
+    {
+        "id": 65,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Mauritius",
+        "country-code": "MU",
+        "phone-prefix": "230",
+        "status": "active"
+    },
+    {
+        "id": 14,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Mexico",
+        "country-code": "MX",
+        "phone-prefix": "52",
+        "status": "active"
+    },
+    {
+        "id": 342,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Micronesia, Federated States of",
+        "country-code": "FM",
+        "phone-prefix": "691",
+        "status": "active"
+    },
+    {
+        "id": 345,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Moldova",
+        "country-code": "MD",
+        "phone-prefix": "373",
+        "status": "active"
+    },
+    {
+        "id": 64,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Monaco",
+        "country-code": "MC",
+        "phone-prefix": "377",
+        "status": "active"
+    },
+    {
+        "id": 348,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Mongolia",
+        "country-code": "MN",
+        "phone-prefix": "976",
+        "status": "active"
+    },
+    {
+        "id": 108,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Montenegro",
+        "country-code": "ME",
+        "phone-prefix": "382",
+        "status": "active"
+    },
+    {
+        "id": 351,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Montserrat",
+        "country-code": "MS",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 354,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Morocco",
+        "country-code": "MA",
+        "phone-prefix": "212",
+        "status": "active"
+    },
+    {
+        "id": 357,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Mozambique",
+        "country-code": "MZ",
+        "phone-prefix": "258",
+        "status": "active"
+    },
+    {
+        "id": 363,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Namibia",
+        "country-code": "NA",
+        "phone-prefix": "264",
+        "status": "active"
+    },
+    {
+        "id": 366,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Nauru",
+        "country-code": "NR",
+        "phone-prefix": "674",
+        "status": "active"
+    },
+    {
+        "id": 369,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Nepal",
+        "country-code": "NP",
+        "phone-prefix": "977",
+        "status": "active"
+    },
+    {
+        "id": 372,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Netherlands Antilles",
+        "country-code": "AN",
+        "phone-prefix": "599",
+        "status": "active"
+    },
+    {
+        "id": 375,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "New Caledonia",
+        "country-code": "NC",
+        "phone-prefix": "687",
+        "status": "active"
+    },
+    {
+        "id": 38,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "New Zealand",
+        "country-code": "NZ",
+        "phone-prefix": "64",
+        "status": "active"
+    },
+    {
+        "id": 381,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Niger",
+        "country-code": "NE",
+        "phone-prefix": "227",
+        "status": "active"
+    },
+    {
+        "id": 384,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Niue",
+        "country-code": "NU",
+        "phone-prefix": "683",
+        "status": "active"
+    },
+    {
+        "id": 390,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Northern Mariana Islands",
+        "country-code": "MP",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 27,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Norway",
+        "country-code": "NO",
+        "phone-prefix": "47",
+        "status": "active"
+    },
+    {
+        "id": 393,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Oman",
+        "country-code": "OM",
+        "phone-prefix": "968",
+        "status": "active"
+    },
+    {
+        "id": 399,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Palau",
+        "country-code": "PW",
+        "phone-prefix": "680",
+        "status": "active"
+    },
+    {
+        "id": 402,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Palestine",
+        "country-code": "PS",
+        "phone-prefix": "970",
+        "status": "active"
+    },
+    {
+        "id": 405,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Papua New Guinea",
+        "country-code": "PG",
+        "phone-prefix": "675",
+        "status": "active"
+    },
+    {
+        "id": 408,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Paraguay",
+        "country-code": "PY",
+        "phone-prefix": "595",
+        "status": "active"
+    },
+    {
+        "id": 411,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Peru",
+        "country-code": "PE",
+        "phone-prefix": "51",
+        "status": "active"
+    },
+    {
+        "id": 72,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Philippines",
+        "country-code": "PH",
+        "phone-prefix": "63",
+        "status": "active"
+    },
+    {
+        "id": 26,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Poland",
+        "country-code": "PL",
+        "phone-prefix": "48",
+        "status": "active"
+    },
+    {
+        "id": 33,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Portugal",
+        "country-code": "PT",
+        "phone-prefix": "351",
+        "status": "active"
+    },
+    {
+        "id": 55,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Puerto Rico",
+        "country-code": "PR",
+        "phone-prefix": "1939",
+        "status": "active"
+    },
+    {
+        "id": 417,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Qatar",
+        "country-code": "QA",
+        "phone-prefix": "974",
+        "status": "active"
+    },
+    {
+        "id": 423,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Reunion",
+        "country-code": "RE",
+        "phone-prefix": "262",
+        "status": "active"
+    },
+    {
+        "id": 426,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Rwanda",
+        "country-code": "RW",
+        "phone-prefix": "250",
+        "status": "active"
+    },
+    {
+        "id": 56,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Saint Kitts and Nevis",
+        "country-code": "KN",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 435,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Saint Lucia",
+        "country-code": "LC",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 438,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Saint Martin",
+        "country-code": "MF",
+        "phone-prefix": "590",
+        "status": "active"
+    },
+    {
+        "id": 444,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Saint Pierre and Miquelon",
+        "country-code": "PM",
+        "phone-prefix": "508",
+        "status": "active"
+    },
+    {
+        "id": 447,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Saint Vincent and the Grenadines",
+        "country-code": "VC",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 450,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Samoa",
+        "country-code": "WS",
+        "phone-prefix": "685",
+        "status": "active"
+    },
+    {
+        "id": 453,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "San Marino",
+        "country-code": "SM",
+        "phone-prefix": "378",
+        "status": "active"
+    },
+    {
+        "id": 456,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Sao Tome and Principe",
+        "country-code": "ST",
+        "phone-prefix": "239",
+        "status": "active"
+    },
+    {
+        "id": 459,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Senegal",
+        "country-code": "SN",
+        "phone-prefix": "221",
+        "status": "active"
+    },
+    {
+        "id": 66,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Serbia",
+        "country-code": "RS",
+        "phone-prefix": "381",
+        "status": "active"
+    },
+    {
+        "id": 71,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Seychelles",
+        "country-code": "SC",
+        "phone-prefix": "248",
+        "status": "active"
+    },
+    {
+        "id": 462,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Sierra Leone",
+        "country-code": "SL",
+        "phone-prefix": "232",
+        "status": "active"
+    },
+    {
+        "id": 43,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Singapore",
+        "country-code": "SG",
+        "phone-prefix": "65",
+        "status": "active"
+    },
+    {
+        "id": 82,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Slovakia",
+        "country-code": "SK",
+        "phone-prefix": "421",
+        "status": "active"
+    },
+    {
+        "id": 69,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Slovenia",
+        "country-code": "SI",
+        "phone-prefix": "386",
+        "status": "active"
+    },
+    {
+        "id": 465,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Solomon Islands",
+        "country-code": "SB",
+        "phone-prefix": "677",
+        "status": "active"
+    },
+    {
+        "id": 468,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Somalia",
+        "country-code": "SO",
+        "phone-prefix": "252",
+        "status": "active"
+    },
+    {
+        "id": 29,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "South Africa",
+        "country-code": "ZA",
+        "phone-prefix": "27",
+        "status": "active"
+    },
+    {
+        "id": 471,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "South Sudan",
+        "country-code": "SS",
+        "phone-prefix": "211",
+        "status": "active"
+    },
+    {
+        "id": 78,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Sri Lanka",
+        "country-code": "LK",
+        "phone-prefix": "94",
+        "status": "active"
+    },
+    {
+        "id": 441,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "St. Maarten",
+        "country-code": "SX",
+        "phone-prefix": "599",
+        "status": "active"
+    },
+    {
+        "id": 474,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Sudan",
+        "country-code": "SD",
+        "phone-prefix": "249",
+        "status": "active"
+    },
+    {
+        "id": 477,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Suriname",
+        "country-code": "SR",
+        "phone-prefix": "597",
+        "status": "active"
+    },
+    {
+        "id": 483,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Swaziland",
+        "country-code": "SZ",
+        "phone-prefix": "268",
+        "status": "active"
+    },
+    {
+        "id": 21,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Switzerland",
+        "country-code": "CH",
+        "phone-prefix": "41",
+        "status": "active"
+    },
+    {
+        "id": 19,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Taiwan",
+        "country-code": "TW",
+        "phone-prefix": "886",
+        "status": "active"
+    },
+    {
+        "id": 489,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Tajikistan",
+        "country-code": "TJ",
+        "phone-prefix": "992",
+        "status": "active"
+    },
+    {
+        "id": 492,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Tanzania",
+        "country-code": "TZ",
+        "phone-prefix": "255",
+        "status": "active"
+    },
+    {
+        "id": 32,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Thailand",
+        "country-code": "TH",
+        "phone-prefix": "66",
+        "status": "active"
+    },
+    {
+        "id": 495,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Togo",
+        "country-code": "TG",
+        "phone-prefix": "228",
+        "status": "active"
+    },
+    {
+        "id": 501,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Tonga",
+        "country-code": "TO",
+        "phone-prefix": "676",
+        "status": "active"
+    },
+    {
+        "id": 57,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Trinidad and Tobago",
+        "country-code": "TT",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 96,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Tunisia",
+        "country-code": "TN",
+        "phone-prefix": "216",
+        "status": "active"
+    },
+    {
+        "id": 95,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Turkey",
+        "country-code": "TR",
+        "phone-prefix": "90",
+        "status": "active"
+    },
+    {
+        "id": 504,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Turkmenistan",
+        "country-code": "TM",
+        "phone-prefix": "993",
+        "status": "active"
+    },
+    {
+        "id": 507,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Turks and Caicos Islands",
+        "country-code": "TC",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 510,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Tuvalu",
+        "country-code": "TV",
+        "phone-prefix": "688",
+        "status": "active"
+    },
+    {
+        "id": 87,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Ukraine",
+        "country-code": "UA",
+        "phone-prefix": "380",
+        "status": "active"
+    },
+    {
+        "id": 84,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "United Arab Emirates",
+        "country-code": "AE",
+        "phone-prefix": "971",
+        "status": "active"
+    },
+    {
+        "id": 59,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "United States Virgin Islands",
+        "country-code": "VI",
+        "phone-prefix": "1",
+        "status": "active"
+    },
+    {
+        "id": 98,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Uruguay",
+        "country-code": "UY",
+        "phone-prefix": "598",
+        "status": "active"
+    },
+    {
+        "id": 516,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Uzbekistan",
+        "country-code": "UZ",
+        "phone-prefix": "998",
+        "status": "active"
+    },
+    {
+        "id": 519,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Vanuatu",
+        "country-code": "VU",
+        "phone-prefix": "678",
+        "status": "active"
+    },
+    {
+        "id": 522,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Vatican City",
+        "country-code": "VA",
+        "phone-prefix": "379",
+        "status": "active"
+    },
+    {
+        "id": 525,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Venezuela",
+        "country-code": "VE",
+        "phone-prefix": "58",
+        "status": "active"
+    },
+    {
+        "id": 61,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Vietnam",
+        "country-code": "VM",
+        "phone-prefix": "84",
+        "status": "active"
+    },
+    {
+        "id": 531,
+        "ins-date": null,
+        "upd-date": null,
+        "country-name": "Western Sahara",
+        "country-code": "EH",
+        "phone-prefix": "212",
+        "status": "active"
+    }
+]

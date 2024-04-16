@@ -1,29 +1,11 @@
 {
-    "name": "js-playing-around",
-    "version": "1.0.0",
-    "description": "Repo with scripts creating for debugging and playing around with Javascript",
-    "repository": "https://github.com/diogosantana2011/JS_test",
-    "author": "Diogo Santana",
-    "license": "MIT",
-    "main": "/JS",
-    "type": "module",
-    "dependencies": {
-        "mongodb": "6.1.0",
-        "node-fetch": "3.3.2",
-        "jasmine": "5.1.0",
-        "jasmine-spec-reporter": "7.0.0",
-        "jest": "29.7"
-    },
-    "jest": {
-        "verbose": true,
-        "transform": {
-            "\\.[jt]sx?$": "babel-jest"
-        },
-        "collectCoverage": true,
-        "coverageDirectory": "jest/reports"
-    },
-    "scripts": {
-        "jasmine_test": "jasmine",
-        "jest_test": "jest --verbose ./jest/specs"
-    }
+  "description": "playaround-for-QA",
+  "author": {
+    "name": "Diogo Santana",
+    "email": "diegsan20@gmail.com"
+  },
+  "dependencies": {
+    "nvm": "^0.0.4",
+    "node": "^20.12.2"
+  }
 }

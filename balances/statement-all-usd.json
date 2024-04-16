@@ -1,0 +1,48 @@
+{
+    "statements":[
+       {
+          "date":"2024-03-22T07:00:00.000Z",
+          "dayOfWeek":"Friday",
+          "translatedType":"Exchange Betting",
+          "type":"EXCHANGE_BETTING",
+          "stake":253.70000000,
+          "turnover":95.00530000,
+          "credit":8.72127000,
+          "openingBalance":76.78350000,
+          "closingBalance":8.72127000
+       },
+       {
+          "date":"2024-04-09T07:00:00.000Z",
+          "dayOfWeek":"Tuesday",
+          "translatedType":"Exchange Betting",
+          "type":"EXCHANGE_BETTING",
+          "stake":25.00000000,
+          "turnover":13.50000000,
+          "credit":12.82500000,
+          "openingBalance":8.72127000,
+          "closingBalance":21.54627000
+       },
+       {
+          "date":"2024-04-12T07:00:00.000Z",
+          "dayOfWeek":"Friday",
+          "translatedType":"Exchange Betting",
+          "type":"EXCHANGE_BETTING",
+          "stake":38.43961484,
+          "turnover":20.89073452,
+          "credit":-35.47823721,
+          "openingBalance":21.54627000,
+          "closingBalance":-13.95363894
+       }
+    ],
+    "creditTotal":-13.931967210000,
+    "creditTotalPerPage":-13.93196721,
+    "total":3,
+    "openingBalance":{
+       "balance":76.78350000,
+       "date":"2024-03-22T15:58:38.118Z"
+    },
+    "closingBalance":{
+       "balance":-13.95363894,
+       "date":"2024-04-12T10:12:11.787Z"
+    }
+ }

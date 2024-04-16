@@ -1,0 +1,80 @@
+{
+    "statementBetsByDateList": [
+        {
+            "date": "2024-03-25T07:00:00.000Z",
+            "dayOfWeek": "Monday",
+            "translatedType": "Exchange Betting",
+            "type": "EXCHANGE_BETTING",
+            "stake": 199.95000001,
+            "turnover": 140.17739999,
+            "credit": 72.821387980000
+        },
+        {
+            "date": "2024-04-08T07:00:00.000Z",
+            "dayOfWeek": "Monday",
+            "translatedType": "Betting",
+            "type": "BETTING",
+            "stake": 72.00000000,
+            "turnover": 51.53000000,
+            "credit": -47.000000000000
+        },
+        {
+            "date": "2024-04-09T07:00:00.000Z",
+            "dayOfWeek": "Tuesday",
+            "translatedType": "Betting",
+            "type": "BETTING",
+            "stake": 160.00000000,
+            "turnover": 122.72500000,
+            "credit": 0E-12
+        },
+        {
+            "date": "2024-04-09T07:00:00.000Z",
+            "dayOfWeek": "Tuesday",
+            "translatedType": "Exchange Betting",
+            "type": "EXCHANGE_BETTING",
+            "stake": 95.00000000,
+            "turnover": 81.49999999,
+            "credit": -59.075000010000
+        },
+        {
+            "date": "2024-04-10T07:00:00.000Z",
+            "dayOfWeek": "Wednesday",
+            "translatedType": "Betting",
+            "type": "BETTING",
+            "stake": 23.00000000,
+            "turnover": 20.01000000,
+            "credit": 20.010000000000
+        },
+        {
+            "date": "2024-04-10T07:00:00.000Z",
+            "dayOfWeek": "Wednesday",
+            "translatedType": "Exchange Betting",
+            "type": "EXCHANGE_BETTING",
+            "stake": 30.00000000,
+            "turnover": 30.00000000,
+            "credit": 0E-12
+        },
+        {
+            "date": "2024-04-11T07:00:00.000Z",
+            "dayOfWeek": "Thursday",
+            "translatedType": "Exchange Betting",
+            "type": "EXCHANGE_BETTING",
+            "stake": 255.50000000,
+            "turnover": 109.40000000,
+            "credit": -40.460000000000
+        },
+        {
+            "date": "2024-04-12T07:00:00.000Z",
+            "dayOfWeek": "Friday",
+            "translatedType": "Exchange Betting",
+            "type": "EXCHANGE_BETTING",
+            "stake": 50.32000001,
+            "turnover": 13.33880000,
+            "credit": 12.671860000000
+        }
+    ],
+    "stakeTotal": 885.77000002,
+    "turnoverTotal": 568.68119998,
+    "creditTotal": -41.031752030000,
+    "total": 8
+}
