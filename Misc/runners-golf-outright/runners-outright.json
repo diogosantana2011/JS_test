@@ -1,0 +1,3134 @@
+[
+    {
+        "id": 125197282,
+        "referenceId": 396153617,
+        "name": "Alexander Noren",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 1,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 8.4,
+                "decimalOdds": 8.4,
+                "displayOdds": 8.4,
+                "availableAmount": 63,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:02.927Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197270,
+        "referenceId": 396153527,
+        "name": "Jason Day",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 2,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 16,
+                "decimalOdds": 16,
+                "displayOdds": 16,
+                "availableAmount": 30,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:02.786Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197297,
+        "referenceId": 396153737,
+        "name": "Stephan Jaeger",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 3,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 19,
+                "decimalOdds": 19,
+                "displayOdds": 19,
+                "availableAmount": 26,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.120Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197459,
+        "referenceId": 396154358,
+        "name": "Matt Wallace",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 4,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 19,
+                "decimalOdds": 19,
+                "displayOdds": 19,
+                "availableAmount": 26,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.443Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197291,
+        "referenceId": 396153689,
+        "name": "Byeong-Hun An",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 5,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 21,
+                "decimalOdds": 21,
+                "displayOdds": 21,
+                "availableAmount": 23,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.033Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197360,
+        "referenceId": 396154259,
+        "name": "Taylor Pendrith",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 6,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 21,
+                "decimalOdds": 21,
+                "displayOdds": 21,
+                "availableAmount": 23,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.177Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197288,
+        "referenceId": 396153662,
+        "name": "Min-Woo Lee",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 7,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 24,
+                "decimalOdds": 24,
+                "displayOdds": 24,
+                "availableAmount": 20,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:02.997Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197312,
+        "referenceId": 396153872,
+        "name": "Adam Schenk",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 8,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 24,
+                "decimalOdds": 24,
+                "displayOdds": 24,
+                "availableAmount": 20,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.330Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197393,
+        "referenceId": 396154292,
+        "name": "Jake Knapp",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 9,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 24,
+                "decimalOdds": 24,
+                "displayOdds": 24,
+                "availableAmount": 20,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.803Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197492,
+        "referenceId": 396154391,
+        "name": "Davis Riley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 10,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 27,
+                "decimalOdds": 27,
+                "displayOdds": 27,
+                "availableAmount": 17,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.430Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197300,
+        "referenceId": 396153764,
+        "name": "Keith Mitchell",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 11,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 28,
+                "decimalOdds": 28,
+                "displayOdds": 28,
+                "availableAmount": 17,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.151Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197267,
+        "referenceId": 396153515,
+        "name": "Jordan Spieth",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 12,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 29,
+                "decimalOdds": 29,
+                "displayOdds": 29,
+                "availableAmount": 16,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:02.757Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197273,
+        "referenceId": 396153551,
+        "name": "Si-Woo Kim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 13,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 31,
+                "decimalOdds": 31,
+                "displayOdds": 31,
+                "availableAmount": 15,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:02.821Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197432,
+        "referenceId": 396154331,
+        "name": "Chesson Hadley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 14,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 34,
+                "decimalOdds": 34,
+                "displayOdds": 34,
+                "availableAmount": 13,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.730Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197549,
+        "referenceId": 396154640,
+        "name": "Taiga Semikawa",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 15,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 42,
+                "decimalOdds": 42,
+                "displayOdds": 42,
+                "availableAmount": 11,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.519Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197324,
+        "referenceId": 396153986,
+        "name": "Kyoung-Hoon Lee",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 16,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 44,
+                "decimalOdds": 44,
+                "displayOdds": 44,
+                "availableAmount": 11,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.530Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197354,
+        "referenceId": 396154253,
+        "name": "Justin Lower",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 17,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 45,
+                "decimalOdds": 45,
+                "displayOdds": 45,
+                "availableAmount": 10,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.074Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197477,
+        "referenceId": 396154376,
+        "name": "Alex Smalley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 18,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 46,
+                "decimalOdds": 46,
+                "displayOdds": 46,
+                "availableAmount": 10,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.963Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197330,
+        "referenceId": 396154055,
+        "name": "Maverick McNealy",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 19,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 49,
+                "decimalOdds": 49,
+                "displayOdds": 49,
+                "availableAmount": 9,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.649Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197366,
+        "referenceId": 396154265,
+        "name": "Chan Kim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 20,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 50,
+                "decimalOdds": 50,
+                "displayOdds": 50,
+                "availableAmount": 9,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.280Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197321,
+        "referenceId": 396153965,
+        "name": "Beau Hossler",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 21,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 52,
+                "decimalOdds": 52,
+                "displayOdds": 52,
+                "availableAmount": 9,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.476Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197378,
+        "referenceId": 396154277,
+        "name": "Nate Lashley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 22,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 52,
+                "decimalOdds": 52,
+                "displayOdds": 52,
+                "availableAmount": 9,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.498Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197315,
+        "referenceId": 396153893,
+        "name": "Aaron Rai",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 23,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 57,
+                "decimalOdds": 57,
+                "displayOdds": 57,
+                "availableAmount": 8,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.378Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197303,
+        "referenceId": 396153785,
+        "name": "Tom Hoge",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 24,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 60,
+                "decimalOdds": 60,
+                "displayOdds": 60,
+                "availableAmount": 7,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.192Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197438,
+        "referenceId": 396154337,
+        "name": "Nick Hardy",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 25,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 65,
+                "decimalOdds": 65,
+                "displayOdds": 65,
+                "availableAmount": 7,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.880Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197402,
+        "referenceId": 396154301,
+        "name": "Max Greyserman",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 26,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 70,
+                "decimalOdds": 70,
+                "displayOdds": 70,
+                "availableAmount": 6,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.013Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197495,
+        "referenceId": 396154466,
+        "name": "Nick Dunlap",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 27,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 70,
+                "decimalOdds": 70,
+                "displayOdds": 70,
+                "availableAmount": 6,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.547Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197558,
+        "referenceId": 396154667,
+        "name": "David Skinns",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 28,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 70,
+                "decimalOdds": 70,
+                "displayOdds": 70,
+                "availableAmount": 6,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.879Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197279,
+        "referenceId": 396153605,
+        "name": "Adam Scott",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 29,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 75,
+                "decimalOdds": 75,
+                "displayOdds": 75,
+                "availableAmount": 6,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:02.893Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197294,
+        "referenceId": 396153713,
+        "name": "Tom Kim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 30,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 80,
+                "decimalOdds": 80,
+                "displayOdds": 80,
+                "availableAmount": 5,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.071Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197342,
+        "referenceId": 396154169,
+        "name": "Luke List",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 31,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 80,
+                "decimalOdds": 80,
+                "displayOdds": 80,
+                "availableAmount": 5,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.864Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197396,
+        "referenceId": 396154295,
+        "name": "Alejandro Tosti",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 32,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 95,
+                "decimalOdds": 95,
+                "displayOdds": 95,
+                "availableAmount": 4,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.869Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197630,
+        "referenceId": 396154841,
+        "name": "Ben Kohles",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 33,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 100,
+                "decimalOdds": 100,
+                "displayOdds": 100,
+                "availableAmount": 4,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:13.038Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197351,
+        "referenceId": 396154250,
+        "name": "Kevin Yu",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 34,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 110,
+                "decimalOdds": 110,
+                "displayOdds": 110,
+                "availableAmount": 4,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.025Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197357,
+        "referenceId": 396154256,
+        "name": "Ryan Fox",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 35,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 110,
+                "decimalOdds": 110,
+                "displayOdds": 110,
+                "availableAmount": 4,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.123Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197375,
+        "referenceId": 396154274,
+        "name": "Daniel Berger",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 36,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 110,
+                "decimalOdds": 110,
+                "displayOdds": 110,
+                "availableAmount": 4,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.443Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197414,
+        "referenceId": 396154313,
+        "name": "Joseph Bramlett",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 37,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 110,
+                "decimalOdds": 110,
+                "displayOdds": 110,
+                "availableAmount": 4,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.290Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197345,
+        "referenceId": 396154205,
+        "name": "Doug Ghim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 38,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 120,
+                "decimalOdds": 120,
+                "displayOdds": 120,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.922Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197633,
+        "referenceId": 396154850,
+        "name": "Kelly Kraft",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 39,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 120,
+                "decimalOdds": 120,
+                "displayOdds": 120,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:13.183Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197594,
+        "referenceId": 396154757,
+        "name": "Zach Johnson",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 40,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 130,
+                "decimalOdds": 130,
+                "displayOdds": 130,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:11.366Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197612,
+        "referenceId": 396154799,
+        "name": "Kevin Dougherty",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 41,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 130,
+                "decimalOdds": 130,
+                "displayOdds": 130,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:12.188Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197390,
+        "referenceId": 396154289,
+        "name": "Matthias Schmid",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 42,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 140,
+                "decimalOdds": 140,
+                "displayOdds": 140,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.739Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197456,
+        "referenceId": 396154355,
+        "name": "Martin Laird",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 43,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 140,
+                "decimalOdds": 140,
+                "displayOdds": 140,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.362Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197480,
+        "referenceId": 396154379,
+        "name": "Ben Martin",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 44,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 140,
+                "decimalOdds": 140,
+                "displayOdds": 140,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.051Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197507,
+        "referenceId": 396154514,
+        "name": "Dylan Wu",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 45,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 140,
+                "decimalOdds": 140,
+                "displayOdds": 140,
+                "availableAmount": 3,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.945Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197372,
+        "referenceId": 396154271,
+        "name": "Andrew Novak",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 46,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 150,
+                "decimalOdds": 150,
+                "displayOdds": 150,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.388Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197498,
+        "referenceId": 396154478,
+        "name": "Cameron Champ",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 47,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 150,
+                "decimalOdds": 150,
+                "displayOdds": 150,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.649Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197516,
+        "referenceId": 396154544,
+        "name": "Joel Dahmen",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 48,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 150,
+                "decimalOdds": 150,
+                "displayOdds": 150,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.262Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197588,
+        "referenceId": 396154742,
+        "name": "David Lipsky",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 49,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 150,
+                "decimalOdds": 150,
+                "displayOdds": 150,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:11.114Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197669,
+        "referenceId": 396154931,
+        "name": "Tom Whitney",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 50,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 150,
+                "decimalOdds": 150,
+                "displayOdds": 150,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:14.982Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197504,
+        "referenceId": 396154502,
+        "name": "Chris Gotterup",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 51,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 160,
+                "decimalOdds": 160,
+                "displayOdds": 160,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.846Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197306,
+        "referenceId": 396153809,
+        "name": "Thomas Detry",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 52,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 170,
+                "decimalOdds": 170,
+                "displayOdds": 170,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.233Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197444,
+        "referenceId": 396154343,
+        "name": "Seong-Hyeon Kim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 53,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 170,
+                "decimalOdds": 170,
+                "displayOdds": 170,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.042Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197660,
+        "referenceId": 396154910,
+        "name": "Hayden Buckley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 54,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 170,
+                "decimalOdds": 170,
+                "displayOdds": 170,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:14.529Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125300197,
+        "referenceId": 396287396,
+        "name": "Brad Hopfinger",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 55,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 170,
+                "decimalOdds": 170,
+                "displayOdds": 170,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T17:18:45.146Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197537,
+        "referenceId": 396154610,
+        "name": "Nicolas Echavarria",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 56,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 180,
+                "decimalOdds": 180,
+                "displayOdds": 180,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.070Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197555,
+        "referenceId": 396154658,
+        "name": "Carson Young",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 57,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 180,
+                "decimalOdds": 180,
+                "displayOdds": 180,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.758Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197339,
+        "referenceId": 396154145,
+        "name": "Ben Griffin",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 58,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 190,
+                "decimalOdds": 190,
+                "displayOdds": 190,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.811Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197618,
+        "referenceId": 396154814,
+        "name": "Harrison Endycott",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 59,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 190,
+                "decimalOdds": 190,
+                "displayOdds": 190,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:12.457Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197513,
+        "referenceId": 396154535,
+        "name": "Jorge Campillo",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 60,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 200,
+                "decimalOdds": 200,
+                "displayOdds": 200,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.158Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197624,
+        "referenceId": 396154829,
+        "name": "Troy Merritt",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 61,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 210,
+                "decimalOdds": 210,
+                "displayOdds": 210,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:12.746Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197348,
+        "referenceId": 396154235,
+        "name": "Thorbjorn Olesen",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 62,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 240,
+                "decimalOdds": 240,
+                "displayOdds": 240,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.975Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197369,
+        "referenceId": 396154268,
+        "name": "Samuel Stevens",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 63,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.333Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197435,
+        "referenceId": 396154334,
+        "name": "Jimmy Stanger",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 64,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.803Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197489,
+        "referenceId": 396154388,
+        "name": "Ryan Moore",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 65,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.332Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197540,
+        "referenceId": 396154616,
+        "name": "Callum Tarren",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 66,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.183Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197567,
+        "referenceId": 396154688,
+        "name": "Aaron Baddeley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 67,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:10.261Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197579,
+        "referenceId": 396154718,
+        "name": "Henrik Norlander",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 68,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:10.741Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197597,
+        "referenceId": 396154763,
+        "name": "Rafael Campos",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 69,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:11.488Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197627,
+        "referenceId": 396154835,
+        "name": "Zecheng Dou",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 70,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:12.891Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197636,
+        "referenceId": 396154856,
+        "name": "Adrien Dumont De Chassart",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 71,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:13.333Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125300191,
+        "referenceId": 396287372,
+        "name": "Max McGreevy",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 72,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 250,
+                "decimalOdds": 250,
+                "displayOdds": 250,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T17:18:44.560Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197309,
+        "referenceId": 396153833,
+        "name": "Mackenzie Hughes",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 73,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.281Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197363,
+        "referenceId": 396154262,
+        "name": "Greyson Sigg",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 74,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.228Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197381,
+        "referenceId": 396154280,
+        "name": "Peter Kuest",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 75,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.556Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197405,
+        "referenceId": 396154304,
+        "name": "Garrick Higgo",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 76,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.079Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197420,
+        "referenceId": 396154319,
+        "name": "Ryan Palmer",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 77,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.433Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197423,
+        "referenceId": 396154322,
+        "name": "Robert MacIntyre",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 78,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.506Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197441,
+        "referenceId": 396154340,
+        "name": "Vincent Norrman",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 79,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.963Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197465,
+        "referenceId": 396154364,
+        "name": "Matt Kuchar",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 80,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.610Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197471,
+        "referenceId": 396154370,
+        "name": "J.J. Spaun",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 81,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.787Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197474,
+        "referenceId": 396154373,
+        "name": "Kevin Tway",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 82,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.877Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197483,
+        "referenceId": 396154382,
+        "name": "Alexander Bjork",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 83,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.141Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197522,
+        "referenceId": 396154565,
+        "name": "Justin Suh",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 84,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.465Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197528,
+        "referenceId": 396154583,
+        "name": "Ben Silverman",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 85,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.680Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197570,
+        "referenceId": 396154697,
+        "name": "Vincent Whaley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 86,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:10.380Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197600,
+        "referenceId": 396154772,
+        "name": "Austin Smotherman",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 87,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:11.610Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197657,
+        "referenceId": 396154904,
+        "name": "Austin Cook",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 88,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:14.384Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197681,
+        "referenceId": 396154958,
+        "name": "Ryan McCormick",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 89,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:15.596Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125809609,
+        "referenceId": 397180172,
+        "name": "Bill Haas",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 90,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-05-03T01:51:31.985Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125809606,
+        "referenceId": 397180169,
+        "name": "Scott Piercy",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 91,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-05-03T01:51:31.939Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125809612,
+        "referenceId": 397180175,
+        "name": "Seung-Yul Noh",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 92,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 300,
+                "decimalOdds": 300,
+                "displayOdds": 300,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-05-03T01:51:32.124Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197327,
+        "referenceId": 396154016,
+        "name": "Mark Hubbard",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 93,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.581Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197333,
+        "referenceId": 396154082,
+        "name": "Davis Thompson",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 94,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:03.703Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197387,
+        "referenceId": 396154286,
+        "name": "Michael Kim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 95,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.677Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197417,
+        "referenceId": 396154316,
+        "name": "Chad Ramey",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 96,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.363Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197426,
+        "referenceId": 396154325,
+        "name": "Ryo Hisatsune",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 97,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.578Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197447,
+        "referenceId": 396154346,
+        "name": "Sami Valimaki",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 98,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.122Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197450,
+        "referenceId": 396154349,
+        "name": "Jacob Bridgeman",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 99,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.200Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197453,
+        "referenceId": 396154352,
+        "name": "Parker Coody",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 100,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.280Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197468,
+        "referenceId": 396154367,
+        "name": "Jhonattan Vegas",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 101,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:06.697Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197501,
+        "referenceId": 396154490,
+        "name": "Carl Yuan",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 102,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:07.745Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197525,
+        "referenceId": 396154574,
+        "name": "Rico Hoey",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 103,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.573Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197531,
+        "referenceId": 396154592,
+        "name": "Lanto Griffin",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 104,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.786Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197534,
+        "referenceId": 396154601,
+        "name": "Brandon Wu",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 105,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.901Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197543,
+        "referenceId": 396154625,
+        "name": "Harry Hall",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 106,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.293Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197546,
+        "referenceId": 396154634,
+        "name": "Chez Reavie",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 107,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.405Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197552,
+        "referenceId": 396154649,
+        "name": "Matthew Nesmith",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 108,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.636Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197564,
+        "referenceId": 396154682,
+        "name": "Patton Kizzire",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 109,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:10.108Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197573,
+        "referenceId": 396154703,
+        "name": "Martin Trainer",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 110,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:10.499Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197582,
+        "referenceId": 396154727,
+        "name": "Joe Highsmith",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 111,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:10.864Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197621,
+        "referenceId": 396154820,
+        "name": "Robby Shelton",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 112,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:12.603Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197639,
+        "referenceId": 396154862,
+        "name": "Tyson Alexander",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 113,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:13.478Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197642,
+        "referenceId": 396154868,
+        "name": "Pierceson Coody",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 114,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:13.623Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197645,
+        "referenceId": 396154877,
+        "name": "Trace Crowe",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 115,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:13.799Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197654,
+        "referenceId": 396154895,
+        "name": "Bronson Burgoon",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 116,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:14.234Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197666,
+        "referenceId": 396154922,
+        "name": "Kevin Chappell",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 117,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:14.830Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197675,
+        "referenceId": 396154943,
+        "name": "Norman Xiong",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 118,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:15.283Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197684,
+        "referenceId": 396154964,
+        "name": "Jimmy Walker",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 119,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:15.745Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197690,
+        "referenceId": 396154976,
+        "name": "Sung Kang",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 120,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:16.056Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197696,
+        "referenceId": 396154991,
+        "name": "Brandt Snedeker",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 121,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:16.374Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197714,
+        "referenceId": 396155030,
+        "name": "Kris Kim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 122,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:17.385Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125300194,
+        "referenceId": 396287375,
+        "name": "Quade Cummins",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 123,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 350,
+                "decimalOdds": 350,
+                "displayOdds": 350,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T17:18:44.897Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197399,
+        "referenceId": 396154298,
+        "name": "Cheng-Tsung Pan",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 124,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:04.939Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197411,
+        "referenceId": 396154310,
+        "name": "Bud Cauley",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 125,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:05.221Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197510,
+        "referenceId": 396154526,
+        "name": "Patrick Fishburn",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 126,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.054Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197519,
+        "referenceId": 396154556,
+        "name": "Hayden Springer",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 127,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:08.363Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197561,
+        "referenceId": 396154673,
+        "name": "Mac Meissner",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 128,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:09.991Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197606,
+        "referenceId": 396154784,
+        "name": "Wilson Furr",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 129,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:11.866Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197609,
+        "referenceId": 396154793,
+        "name": "Zac Blair",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 130,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:12.001Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197615,
+        "referenceId": 396154808,
+        "name": "Stewart Cink",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 131,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:12.318Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197711,
+        "referenceId": 396155024,
+        "name": "Raul Pereda",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 132,
+        "status": "OPEN",
+        "aggregatedPrices": [
+            {
+                "odds": 400,
+                "decimalOdds": 400,
+                "displayOdds": 400,
+                "availableAmount": 2,
+                "oddsType": "DECIMAL"
+            }
+        ],
+        "lastUpdate": "2024-04-30T07:18:17.215Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197276,
+        "referenceId": 396153581,
+        "name": "Will Zalatoris",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 133,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:02.856Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197285,
+        "referenceId": 396153635,
+        "name": "Seung-Jae Im",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 134,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:02.962Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197318,
+        "referenceId": 396153923,
+        "name": "Patrick Rodgers",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 135,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:03.424Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197336,
+        "referenceId": 396154115,
+        "name": "Seamus Power",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 136,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:03.758Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197384,
+        "referenceId": 396154283,
+        "name": "Taylor Montgomery",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 137,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:04.614Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197408,
+        "referenceId": 396154307,
+        "name": "Charley Hoffman",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 138,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:05.148Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197429,
+        "referenceId": 396154328,
+        "name": "Chandler Phillips",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 139,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:05.652Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197462,
+        "referenceId": 396154361,
+        "name": "Sam Ryder",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 140,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:06.527Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197486,
+        "referenceId": 396154385,
+        "name": "Brice Garnett",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 141,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:07.237Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197576,
+        "referenceId": 396154712,
+        "name": "Wesley Bryan",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 142,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:10.620Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197585,
+        "referenceId": 396154733,
+        "name": "Erik Barnes",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 143,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:10.990Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197591,
+        "referenceId": 396154748,
+        "name": "Kevin Streelman",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 144,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:11.240Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197603,
+        "referenceId": 396154778,
+        "name": "Camilo Villegas",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 145,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:11.737Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197648,
+        "referenceId": 396154883,
+        "name": "Ryan Brehm",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 146,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:13.916Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197651,
+        "referenceId": 396154889,
+        "name": "Roger Sloan",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 147,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:14.067Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197663,
+        "referenceId": 396154916,
+        "name": "James Hahn",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 148,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:14.678Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197672,
+        "referenceId": 396154937,
+        "name": "Paul Barjon",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 149,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:15.134Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197678,
+        "referenceId": 396154949,
+        "name": "Nicholas Lindheim",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 150,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:15.442Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197687,
+        "referenceId": 396154970,
+        "name": "Josh Teater",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 151,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:15.900Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197693,
+        "referenceId": 396154985,
+        "name": "Cody Gribble",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 152,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:16.221Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197699,
+        "referenceId": 396154997,
+        "name": "Scott Gutschewski",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 153,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:16.550Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197702,
+        "referenceId": 396155003,
+        "name": "Kevin Kisner",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 154,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:16.728Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197705,
+        "referenceId": 396155009,
+        "name": "David Nyfjall",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 155,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:16.887Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197708,
+        "referenceId": 396155015,
+        "name": "Ben Taylor",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 156,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:17.049Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197717,
+        "referenceId": 396155036,
+        "name": "Blaine Hale",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 157,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:17.573Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125197720,
+        "referenceId": 396155042,
+        "name": "Jarred Jeter",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 158,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T07:18:17.747Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125300176,
+        "referenceId": 396287180,
+        "name": "Sean Ohair",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 159,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T17:18:43.783Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125300185,
+        "referenceId": 396287243,
+        "name": "Richy Werenski",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 160,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T17:18:44.053Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125300188,
+        "referenceId": 396287324,
+        "name": "KK Limbhasut",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 161,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T17:18:44.314Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    },
+    {
+        "id": 125300200,
+        "referenceId": 396287417,
+        "name": "Nick Watney",
+        "type": "PARTICIPANT",
+        "side": "NA",
+        "sequence": 162,
+        "status": "OPEN",
+        "lastUpdate": "2024-04-30T17:18:45.417Z",
+        "brokerageEnabled": false,
+        "inRunning": true
+    }
+]
