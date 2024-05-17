@@ -1,0 +1,50 @@
+[
+    {
+        "id": 244009,
+        "offerId": 243187,
+        "eventId": 456499,
+        "eventName": "Finland vs Northern Ireland",
+        "marketId": 28358377,
+        "marketName": "Handicap (-0.50)",
+        "runnerId": 81880195,
+        "runnerName": "Finland (-0.50)",
+        "runnerSide": "HOME",
+        "oddsType": "US",
+        "odds": 119,
+        "decimalOdds": 2.19,
+        "stake": 145.94637284,
+        "status": "open"
+    },
+    {
+        "id": 244015,
+        "offerId": 243187,
+        "eventId": 456499,
+        "eventName": "Finland vs Northern Ireland",
+        "marketId": 28358377,
+        "marketName": "Handicap (-0.50)",
+        "runnerId": 81880195,
+        "runnerName": "Finland (-0.50)",
+        "runnerSide": "HOME",
+        "oddsType": "US",
+        "odds": 119,
+        "decimalOdds": 2.19,
+        "stake": 22.00038686,
+        "status": "open"
+    },
+    {
+        "id": 244021,
+        "offerId": 243187,
+        "eventId": 456499,
+        "eventName": "Finland vs Northern Ireland",
+        "marketId": 28358377,
+        "marketName": "Handicap (-0.50)",
+        "runnerId": 81880195,
+        "runnerName": "Finland (-0.50)",
+        "runnerSide": "HOME",
+        "oddsType": "US",
+        "odds": 119,
+        "decimalOdds": 2.19,
+        "stake": 0.12046630,
+        "status": "open"
+    }
+]
