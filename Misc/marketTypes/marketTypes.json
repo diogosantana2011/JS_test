@@ -1,2046 +1,1385 @@
 [
     {
-        "marketPeriod": "FULL_EVENT",
-        "marketTypes": [
-            {
-                "marketType": "MONEY_LINE",
-                "marketName": "Moneyline",
-                "markets": [
-                    {
-                        "id": 113006717,
-                        "name": "Moneyline",
-                        "type": "MONEY_LINE",
-                        "marketInternalType": "MONEY_LINE",
-                        "gradingType": "HIGH_SCORE_WINS",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327222227,
-                                "referenceId": 480770606,
-                                "name": "Kiwoom Heroes",
-                                "type": "PARTICIPANT",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.22,
-                                        "decimalOdds": 2.22,
-                                        "displayOdds": 2.22,
-                                        "availableAmount": 75,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:45:03.534Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327222203,
-                                "referenceId": 480770573,
-                                "name": "NC Dinos",
-                                "type": "PARTICIPANT",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.68,
-                                        "decimalOdds": 1.68,
-                                        "displayOdds": 1.68,
-                                        "availableAmount": 135,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:45:03.280Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 16,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "HANDICAP",
-                "marketName": "HDP",
-                "markets": [
-                    {
-                        "id": 113006729,
-                        "name": "HDP (1.0)",
-                        "type": "HANDICAP",
-                        "marketInternalType": "HANDICAP",
-                        "gradingType": "POINT_SPREAD",
-                        "handicap": 1,
-                        "formattedHandicap": "1.0",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327222224,
-                                "referenceId": 480770603,
-                                "name": "Kiwoom Heroes",
-                                "type": "PARTICIPANT",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 1,
-                                "modalFormattedHandicap": "+1.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.89,
-                                        "decimalOdds": 1.89,
-                                        "displayOdds": 1.89,
-                                        "availableAmount": 103,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:45:03.505Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327222197,
-                                "referenceId": 480770567,
-                                "name": "NC Dinos",
-                                "type": "PARTICIPANT",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": -1,
-                                "formattedHandicap": "1.0",
-                                "modalFormattedHandicap": "-1.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.88,
-                                        "decimalOdds": 1.88,
-                                        "displayOdds": 1.88,
-                                        "availableAmount": 105,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:45:03.257Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-21T17:45:14.433Z",
-                        "sequence": 1,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006414,
-                        "name": "HDP (1.5)",
-                        "type": "HANDICAP",
-                        "marketInternalType": "HANDICAP",
-                        "gradingType": "POINT_SPREAD",
-                        "handicap": 1.5,
-                        "formattedHandicap": "1.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220997,
-                                "referenceId": 480769031,
-                                "name": "Kiwoom Heroes",
-                                "type": "PARTICIPANT",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 1.5,
-                                "modalFormattedHandicap": "+1.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.7,
-                                        "decimalOdds": 1.7,
-                                        "displayOdds": 1.7,
-                                        "availableAmount": 131,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.860Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221012,
-                                "referenceId": 480769046,
-                                "name": "NC Dinos",
-                                "type": "PARTICIPANT",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": -1.5,
-                                "formattedHandicap": "1.5",
-                                "modalFormattedHandicap": "-1.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.12,
-                                        "decimalOdds": 2.12,
-                                        "displayOdds": 2.12,
-                                        "availableAmount": 81,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.897Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-21T17:45:14.433Z",
-                        "sequence": 2,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "TOTAL",
-                "marketName": "Total",
-                "markets": [
-                    {
-                        "id": 113006417,
-                        "name": "Total 7.5",
-                        "type": "TOTAL",
-                        "marketInternalType": "TOTAL",
-                        "gradingType": "POINT_TOTAL",
-                        "handicap": 7.5,
-                        "formattedHandicap": "7.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327221024,
-                                "referenceId": 480769058,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "NA",
-                                "sequence": 1,
-                                "handicap": 7.5,
-                                "modalFormattedHandicap": "7.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.62,
-                                        "decimalOdds": 1.62,
-                                        "displayOdds": 1.62,
-                                        "availableAmount": 148,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.928Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221006,
-                                "referenceId": 480769034,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "NA",
-                                "sequence": 2,
-                                "handicap": 7.5,
-                                "modalFormattedHandicap": "7.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.25,
-                                        "decimalOdds": 2.25,
-                                        "displayOdds": 2.25,
-                                        "availableAmount": 73,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.877Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T08:29:16.912Z",
-                        "sequence": 13,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006387,
-                        "name": "Total 8.0",
-                        "type": "TOTAL",
-                        "marketInternalType": "TOTAL",
-                        "gradingType": "POINT_TOTAL",
-                        "handicap": 8,
-                        "formattedHandicap": "8.0",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220955,
-                                "referenceId": 480768992,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "NA",
-                                "sequence": 1,
-                                "handicap": 8,
-                                "modalFormattedHandicap": "8.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.73,
-                                        "decimalOdds": 1.73,
-                                        "displayOdds": 1.73,
-                                        "availableAmount": 126,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.632Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220940,
-                                "referenceId": 480768977,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "NA",
-                                "sequence": 2,
-                                "handicap": 8,
-                                "modalFormattedHandicap": "8.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.08,
-                                        "decimalOdds": 2.08,
-                                        "displayOdds": 2.08,
-                                        "availableAmount": 85,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.585Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 11,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006720,
-                        "name": "Total 8.5",
-                        "type": "TOTAL",
-                        "marketInternalType": "TOTAL",
-                        "gradingType": "POINT_TOTAL",
-                        "handicap": 8.5,
-                        "formattedHandicap": "8.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327222230,
-                                "referenceId": 480770609,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "NA",
-                                "sequence": 1,
-                                "handicap": 8.5,
-                                "modalFormattedHandicap": "8.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.87,
-                                        "decimalOdds": 1.87,
-                                        "displayOdds": 1.87,
-                                        "availableAmount": 105,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:45:03.558Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327222206,
-                                "referenceId": 480770576,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "NA",
-                                "sequence": 2,
-                                "handicap": 8.5,
-                                "modalFormattedHandicap": "8.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.9,
-                                        "decimalOdds": 1.9,
-                                        "displayOdds": 1.9,
-                                        "availableAmount": 102,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:45:03.305Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 9,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006432,
-                        "name": "Total 9.0",
-                        "type": "TOTAL",
-                        "marketInternalType": "TOTAL",
-                        "gradingType": "POINT_TOTAL",
-                        "handicap": 9,
-                        "formattedHandicap": "9.0",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327221048,
-                                "referenceId": 480769082,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "NA",
-                                "sequence": 1,
-                                "handicap": 9,
-                                "modalFormattedHandicap": "9.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.07,
-                                        "decimalOdds": 2.07,
-                                        "displayOdds": 2.07,
-                                        "availableAmount": 85,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.982Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221030,
-                                "referenceId": 480769064,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "NA",
-                                "sequence": 2,
-                                "handicap": 9,
-                                "modalFormattedHandicap": "9.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.73,
-                                        "decimalOdds": 1.73,
-                                        "displayOdds": 1.73,
-                                        "availableAmount": 126,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.944Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 10,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006393,
-                        "name": "Total 9.5",
-                        "type": "TOTAL",
-                        "marketInternalType": "TOTAL",
-                        "gradingType": "POINT_TOTAL",
-                        "handicap": 9.5,
-                        "formattedHandicap": "9.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220973,
-                                "referenceId": 480769007,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "NA",
-                                "sequence": 1,
-                                "handicap": 9.5,
-                                "modalFormattedHandicap": "9.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.28,
-                                        "decimalOdds": 2.28,
-                                        "displayOdds": 2.28,
-                                        "availableAmount": 71,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.728Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220964,
-                                "referenceId": 480769001,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "NA",
-                                "sequence": 2,
-                                "handicap": 9.5,
-                                "modalFormattedHandicap": "9.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.61,
-                                        "decimalOdds": 1.61,
-                                        "displayOdds": 1.61,
-                                        "availableAmount": 151,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.672Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T08:29:16.912Z",
-                        "sequence": 12,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006381,
-                        "name": "Total 10.0",
-                        "type": "TOTAL",
-                        "marketInternalType": "TOTAL",
-                        "gradingType": "POINT_TOTAL",
-                        "handicap": 10,
-                        "formattedHandicap": "10.0",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220943,
-                                "referenceId": 480768986,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "NA",
-                                "sequence": 1,
-                                "handicap": 10,
-                                "modalFormattedHandicap": "10.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.54,
-                                        "decimalOdds": 2.54,
-                                        "displayOdds": 2.54,
-                                        "availableAmount": 59,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.599Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220937,
-                                "referenceId": 480768974,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "NA",
-                                "sequence": 2,
-                                "handicap": 10,
-                                "modalFormattedHandicap": "10.0",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.5,
-                                        "decimalOdds": 1.5,
-                                        "displayOdds": 1.5,
-                                        "availableAmount": 184,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.561Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 14,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "CORRECT_SCORE",
-                "marketName": "Correct Score",
-                "markets": [
-                    {
-                        "id": 113006405,
-                        "name": "Correct Score",
-                        "type": "CORRECT_SCORE",
-                        "marketInternalType": "CORRECT_SCORE",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220979,
-                                "referenceId": 480769013,
-                                "name": "1 - 0 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 56,
-                                        "decimalOdds": 56,
-                                        "displayOdds": 56,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.750Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220988,
-                                "referenceId": 480769022,
-                                "name": "2 - 0 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 58,
-                                        "decimalOdds": 58,
-                                        "displayOdds": 58,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.810Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221009,
-                                "referenceId": 480769043,
-                                "name": "2 - 1 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 32,
-                                        "decimalOdds": 32,
-                                        "displayOdds": 32,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.882Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221033,
-                                "referenceId": 480769067,
-                                "name": "3 - 0 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 60,
-                                        "decimalOdds": 60,
-                                        "displayOdds": 60,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.955Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221063,
-                                "referenceId": 480769094,
-                                "name": "3 - 1 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 39,
-                                        "decimalOdds": 39,
-                                        "displayOdds": 39,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.030Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221084,
-                                "referenceId": 480769118,
-                                "name": "3 - 2 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 25,
-                                        "decimalOdds": 25,
-                                        "displayOdds": 25,
-                                        "availableAmount": 3,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.096Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221111,
-                                "referenceId": 480769145,
-                                "name": "4 - 0 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 65,
-                                        "decimalOdds": 65,
-                                        "displayOdds": 65,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.157Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221126,
-                                "referenceId": 480769160,
-                                "name": "4 - 1 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 47,
-                                        "decimalOdds": 47,
-                                        "displayOdds": 47,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.232Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221141,
-                                "referenceId": 480769175,
-                                "name": "4 - 2 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 35,
-                                        "decimalOdds": 35,
-                                        "displayOdds": 35,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.303Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221156,
-                                "referenceId": 480769190,
-                                "name": "4 - 3 [Kiwoom Heroes]",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 25,
-                                        "decimalOdds": 25,
-                                        "displayOdds": 25,
-                                        "availableAmount": 3,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.373Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221186,
-                                "referenceId": 480769220,
-                                "name": "Any Other Kiwoom Heroes Win",
-                                "type": "SCORE",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 3.3,
-                                        "decimalOdds": 3.3,
-                                        "displayOdds": 3.3,
-                                        "availableAmount": 39,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.452Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221210,
-                                "referenceId": 480769244,
-                                "name": "0 - 1 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 60,
-                                        "decimalOdds": 60,
-                                        "displayOdds": 60,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.533Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221240,
-                                "referenceId": 480769268,
-                                "name": "0 - 2 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 55,
-                                        "decimalOdds": 55,
-                                        "displayOdds": 55,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.627Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221258,
-                                "referenceId": 480769292,
-                                "name": "1 - 2 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 36,
-                                        "decimalOdds": 36,
-                                        "displayOdds": 36,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.729Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221297,
-                                "referenceId": 480769334,
-                                "name": "0 - 3 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 53,
-                                        "decimalOdds": 53,
-                                        "displayOdds": 53,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.808Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221510,
-                                "referenceId": 480769529,
-                                "name": "1 - 3 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 36,
-                                        "decimalOdds": 36,
-                                        "displayOdds": 36,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:02.555Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221564,
-                                "referenceId": 480769589,
-                                "name": "2 - 3 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 29,
-                                        "decimalOdds": 29,
-                                        "displayOdds": 29,
-                                        "availableAmount": 3,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:02.729Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221618,
-                                "referenceId": 480769649,
-                                "name": "0 - 4 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 54,
-                                        "decimalOdds": 54,
-                                        "displayOdds": 54,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:02.985Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221657,
-                                "referenceId": 480769688,
-                                "name": "1 - 4 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 39,
-                                        "decimalOdds": 39,
-                                        "displayOdds": 39,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:03.213Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221675,
-                                "referenceId": 480769706,
-                                "name": "2 - 4 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 32,
-                                        "decimalOdds": 32,
-                                        "displayOdds": 32,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:03.344Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221693,
-                                "referenceId": 480769724,
-                                "name": "3 - 4 [NC Dinos]",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 30,
-                                        "decimalOdds": 30,
-                                        "displayOdds": 30,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:03.506Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221711,
-                                "referenceId": 480769742,
-                                "name": "Any Other NC Dinos Win",
-                                "type": "SCORE",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.25,
-                                        "decimalOdds": 2.25,
-                                        "displayOdds": 2.25,
-                                        "availableAmount": 73,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:03.697Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 21,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "WINNING_MARGIN",
-                "marketName": "Winning Margin",
-                "markets": [
-                    {
-                        "id": 113006468,
-                        "name": "Winning Margin",
-                        "type": "WINNING_MARGIN",
-                        "marketInternalType": "WINNING_MARGIN",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327221120,
-                                "referenceId": 480769154,
-                                "name": "Kiwoom Heroes by 1",
-                                "type": "RANGE_MARGIN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 5.9,
-                                        "decimalOdds": 5.9,
-                                        "displayOdds": 5.9,
-                                        "availableAmount": 18,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.214Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221129,
-                                "referenceId": 480769169,
-                                "name": "Kiwoom Heroes by 2",
-                                "type": "RANGE_MARGIN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 8.8,
-                                        "decimalOdds": 8.8,
-                                        "displayOdds": 8.8,
-                                        "availableAmount": 11,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.266Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221147,
-                                "referenceId": 480769184,
-                                "name": "Kiwoom Heroes by 3",
-                                "type": "RANGE_MARGIN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 12,
-                                        "decimalOdds": 12,
-                                        "displayOdds": 12,
-                                        "availableAmount": 8,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.323Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221165,
-                                "referenceId": 480769199,
-                                "name": "Kiwoom Heroes by 4",
-                                "type": "RANGE_MARGIN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 17,
-                                        "decimalOdds": 17,
-                                        "displayOdds": 17,
-                                        "availableAmount": 5,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.381Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221180,
-                                "referenceId": 480769214,
-                                "name": "Kiwoom Heroes by 5",
-                                "type": "RANGE_MARGIN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 23,
-                                        "decimalOdds": 23,
-                                        "displayOdds": 23,
-                                        "availableAmount": 4,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.443Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221198,
-                                "referenceId": 480769232,
-                                "name": "Kiwoom Heroes by 6",
-                                "type": "RANGE_MARGIN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 31,
-                                        "decimalOdds": 31,
-                                        "displayOdds": 31,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.505Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221219,
-                                "referenceId": 480769256,
-                                "name": "Kiwoom Heroes by 7+",
-                                "type": "RANGE_MARGIN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 17,
-                                        "decimalOdds": 17,
-                                        "displayOdds": 17,
-                                        "availableAmount": 5,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.574Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221246,
-                                "referenceId": 480769280,
-                                "name": "NC Dinos by 1",
-                                "type": "RANGE_MARGIN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 6.8,
-                                        "decimalOdds": 6.8,
-                                        "displayOdds": 6.8,
-                                        "availableAmount": 15,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.676Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221279,
-                                "referenceId": 480769313,
-                                "name": "NC Dinos by 2",
-                                "type": "RANGE_MARGIN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 7.8,
-                                        "decimalOdds": 7.8,
-                                        "displayOdds": 7.8,
-                                        "availableAmount": 13,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.760Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221318,
-                                "referenceId": 480769343,
-                                "name": "NC Dinos by 3",
-                                "type": "RANGE_MARGIN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 9.4,
-                                        "decimalOdds": 9.4,
-                                        "displayOdds": 9.4,
-                                        "availableAmount": 11,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:01.856Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221450,
-                                "referenceId": 480769478,
-                                "name": "NC Dinos by 4",
-                                "type": "RANGE_MARGIN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 11,
-                                        "decimalOdds": 11,
-                                        "displayOdds": 11,
-                                        "availableAmount": 9,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:02.385Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221540,
-                                "referenceId": 480769559,
-                                "name": "NC Dinos by 5",
-                                "type": "RANGE_MARGIN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 14,
-                                        "decimalOdds": 14,
-                                        "displayOdds": 14,
-                                        "availableAmount": 7,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:02.653Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221594,
-                                "referenceId": 480769625,
-                                "name": "NC Dinos by 6",
-                                "type": "RANGE_MARGIN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 18,
-                                        "decimalOdds": 18,
-                                        "displayOdds": 18,
-                                        "availableAmount": 5,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:02.862Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221633,
-                                "referenceId": 480769661,
-                                "name": "NC Dinos by 7+",
-                                "type": "RANGE_MARGIN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 7.6,
-                                        "decimalOdds": 7.6,
-                                        "displayOdds": 7.6,
-                                        "availableAmount": 13,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:03.078Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221660,
-                                "referenceId": 480769694,
-                                "name": "Tie",
-                                "type": "RANGE_MARGIN",
-                                "side": "DRAW",
-                                "sequence": 15,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 31,
-                                        "decimalOdds": 31,
-                                        "displayOdds": 31,
-                                        "availableAmount": 2,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:03.237Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.383Z",
-                        "sequence": 27,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "TOTAL_ODD_EVEN",
-                "marketName": "Total Odd/Even",
-                "markets": [
-                    {
-                        "id": 113006399,
-                        "name": "Total Runs Odd/Even",
-                        "type": "TOTAL_ODD_EVEN",
-                        "marketInternalType": "TOTAL_ODD_EVEN",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220982,
-                                "referenceId": 480769016,
-                                "name": "Odd",
-                                "type": "ODD",
-                                "side": "NA",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.65,
-                                        "decimalOdds": 1.65,
-                                        "displayOdds": 1.65,
-                                        "availableAmount": 141,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.753Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220970,
-                                "referenceId": 480769004,
-                                "name": "Even",
-                                "type": "EVEN",
-                                "side": "NA",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.11,
-                                        "decimalOdds": 2.11,
-                                        "displayOdds": 2.11,
-                                        "availableAmount": 82,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.715Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 20,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "TOTAL_ODD_EVEN_HOME",
-                "marketName": "Total Odd/Even Home",
-                "markets": [
-                    {
-                        "id": 113006390,
-                        "name": "Team Runs Kiwoom Heroes Odd/Even",
-                        "type": "TOTAL_ODD_EVEN_HOME",
-                        "marketInternalType": "TOTAL_ODD_EVEN_HOME",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220961,
-                                "referenceId": 480768998,
-                                "name": "Odd",
-                                "type": "ODD",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.9,
-                                        "decimalOdds": 1.9,
-                                        "displayOdds": 1.9,
-                                        "availableAmount": 102,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.645Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220949,
-                                "referenceId": 480768980,
-                                "name": "Even",
-                                "type": "EVEN",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.81,
-                                        "decimalOdds": 1.81,
-                                        "displayOdds": 1.81,
-                                        "availableAmount": 113,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.617Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 18,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "TOTAL_ODD_EVEN_AWAY",
-                "marketName": "Total Odd/Even Away",
-                "markets": [
-                    {
-                        "id": 113006402,
-                        "name": "Team Runs NC Dinos Odd/Even",
-                        "type": "TOTAL_ODD_EVEN_AWAY",
-                        "marketInternalType": "TOTAL_ODD_EVEN_AWAY",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220985,
-                                "referenceId": 480769019,
-                                "name": "Odd",
-                                "type": "ODD",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.88,
-                                        "decimalOdds": 1.88,
-                                        "displayOdds": 1.88,
-                                        "availableAmount": 105,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.806Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220976,
-                                "referenceId": 480769010,
-                                "name": "Even",
-                                "type": "EVEN",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.82,
-                                        "decimalOdds": 1.82,
-                                        "displayOdds": 1.82,
-                                        "availableAmount": 112,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.747Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 22,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "TOTAL_HOME",
-                "marketName": "Total Home",
-                "markets": [
-                    {
-                        "id": 113006384,
-                        "name": "Team Runs Kiwoom Heroes",
-                        "type": "TOTAL_HOME",
-                        "marketInternalType": "TOTAL_HOME",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "handicap": 2.5,
-                        "formattedHandicap": "2.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220946,
-                                "referenceId": 480768989,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 2.5,
-                                "modalFormattedHandicap": "2.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.43,
-                                        "decimalOdds": 1.43,
-                                        "displayOdds": 1.43,
-                                        "availableAmount": 214,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.606Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220952,
-                                "referenceId": 480768971,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 2.5,
-                                "modalFormattedHandicap": "2.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.62,
-                                        "decimalOdds": 2.62,
-                                        "displayOdds": 2.62,
-                                        "availableAmount": 57,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.617Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 17,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006411,
-                        "name": "Team Runs Kiwoom Heroes",
-                        "type": "TOTAL_HOME",
-                        "marketInternalType": "TOTAL_HOME",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "handicap": 3.5,
-                        "formattedHandicap": "3.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327221021,
-                                "referenceId": 480769052,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 3.5,
-                                "modalFormattedHandicap": "3.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.82,
-                                        "decimalOdds": 1.82,
-                                        "displayOdds": 1.82,
-                                        "availableAmount": 112,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.924Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220994,
-                                "referenceId": 480769028,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 3.5,
-                                "modalFormattedHandicap": "3.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.89,
-                                        "decimalOdds": 1.89,
-                                        "displayOdds": 1.89,
-                                        "availableAmount": 103,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.859Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 23,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006396,
-                        "name": "Team Runs Kiwoom Heroes",
-                        "type": "TOTAL_HOME",
-                        "marketInternalType": "TOTAL_HOME",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "handicap": 4.5,
-                        "formattedHandicap": "4.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327220958,
-                                "referenceId": 480768995,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 4.5,
-                                "modalFormattedHandicap": "4.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.4,
-                                        "decimalOdds": 2.4,
-                                        "displayOdds": 2.4,
-                                        "availableAmount": 65,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.640Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220967,
-                                "referenceId": 480768983,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "HOME",
-                                "sequence": 1,
-                                "handicap": 4.5,
-                                "modalFormattedHandicap": "4.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.51,
-                                        "decimalOdds": 1.51,
-                                        "displayOdds": 1.51,
-                                        "availableAmount": 180,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.701Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 19,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            },
-            {
-                "marketType": "TOTAL_AWAY",
-                "marketName": "Total Away",
-                "markets": [
-                    {
-                        "id": 113006408,
-                        "name": "Team Runs NC Dinos",
-                        "type": "TOTAL_AWAY",
-                        "marketInternalType": "TOTAL_AWAY",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "handicap": 3.5,
-                        "formattedHandicap": "3.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327221003,
-                                "referenceId": 480769037,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": 3.5,
-                                "modalFormattedHandicap": "3.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.52,
-                                        "decimalOdds": 1.52,
-                                        "displayOdds": 1.52,
-                                        "availableAmount": 176,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.876Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327220991,
-                                "referenceId": 480769025,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": 3.5,
-                                "modalFormattedHandicap": "3.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.38,
-                                        "decimalOdds": 2.38,
-                                        "displayOdds": 2.38,
-                                        "availableAmount": 66,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.837Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.382Z",
-                        "sequence": 24,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006426,
-                        "name": "Team Runs NC Dinos",
-                        "type": "TOTAL_AWAY",
-                        "marketInternalType": "TOTAL_AWAY",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "handicap": 4.5,
-                        "formattedHandicap": "4.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327221039,
-                                "referenceId": 480769073,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": 4.5,
-                                "modalFormattedHandicap": "4.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.86,
-                                        "decimalOdds": 1.86,
-                                        "displayOdds": 1.86,
-                                        "availableAmount": 106,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.969Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221027,
-                                "referenceId": 480769061,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": 4.5,
-                                "modalFormattedHandicap": "4.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.84,
-                                        "decimalOdds": 1.84,
-                                        "displayOdds": 1.84,
-                                        "availableAmount": 109,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.929Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.383Z",
-                        "sequence": 26,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    },
-                    {
-                        "id": 113006420,
-                        "name": "Team Runs NC Dinos",
-                        "type": "TOTAL_AWAY",
-                        "marketInternalType": "TOTAL_AWAY",
-                        "gradingType": "RUNNER_OUTCOME",
-                        "handicap": 5.5,
-                        "formattedHandicap": "5.5",
-                        "period": "FULL_EVENT",
-                        "startTime": "2024-05-22T09:30:00.000Z",
-                        "inRunning": false,
-                        "allowLiveBetting": false,
-                        "status": "OPEN",
-                        "runners": [
-                            {
-                                "id": 327221015,
-                                "referenceId": 480769055,
-                                "name": "OVER",
-                                "type": "OVER",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": 5.5,
-                                "modalFormattedHandicap": "5.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 2.36,
-                                        "decimalOdds": 2.36,
-                                        "displayOdds": 2.36,
-                                        "availableAmount": 68,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.916Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            },
-                            {
-                                "id": 327221000,
-                                "referenceId": 480769040,
-                                "name": "UNDER",
-                                "type": "UNDER",
-                                "side": "AWAY",
-                                "sequence": 2,
-                                "handicap": 5.5,
-                                "modalFormattedHandicap": "5.5",
-                                "status": "OPEN",
-                                "aggregatedPrices": [
-                                    {
-                                        "odds": 1.52,
-                                        "decimalOdds": 1.52,
-                                        "displayOdds": 1.52,
-                                        "availableAmount": 176,
-                                        "oddsType": "DECIMAL"
-                                    }
-                                ],
-                                "lastUpdate": "2024-05-21T17:42:00.875Z",
-                                "brokerageEnabled": false,
-                                "inRunning": false
-                            }
-                        ],
-                        "lastUpdate": "2024-05-22T04:06:30.383Z",
-                        "sequence": 25,
-                        "scoreType": "POINTS",
-                        "tags": {}
-                    }
-                ]
-            }
-        ]
+       "marketPeriod":"FULL_EVENT",
+       "marketTypes":[
+          {
+             "marketType":"ONE_X_TWO",
+             "marketName":"1x2",
+             "markets":[
+                {
+                   "id":43794697,
+                   "name":"1x2",
+                   "type":"ONE_X_TWO",
+                   "marketInternalType":"ONE_X_TWO",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-19T17:12:56.611Z",
+                   "sequence":20,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"HANDICAP",
+             "marketName":"HDP",
+             "markets":[
+                {
+                   "id":43794868,
+                   "name":"HDP (-0.50)",
+                   "type":"HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "gradingType":"POINT_SPREAD",
+                   "handicap":-0.5,
+                   "formattedHandicap":"-0.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-22T06:30:10.777Z",
+                   "sequence":2,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794904,
+                   "name":"HDP (-0.25)",
+                   "type":"HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "gradingType":"ASIAN_HANDICAP",
+                   "handicap":-0.25,
+                   "formattedHandicap":"-0.25",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T15:13:55.434Z",
+                   "sequence":1,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794853,
+                   "name":"HDP (0.00)",
+                   "type":"HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "gradingType":"POINT_SPREAD",
+                   "handicap":0,
+                   "formattedHandicap":"0.00",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-22T06:30:10.778Z",
+                   "sequence":3,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL",
+             "marketName":"Total",
+             "markets":[
+                {
+                   "id":43794889,
+                   "name":"Total 2.00",
+                   "type":"TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "gradingType":"POINT_TOTAL",
+                   "handicap":2,
+                   "formattedHandicap":"2.0",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-22T06:30:10.777Z",
+                   "sequence":12,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794856,
+                   "name":"Total 2.25",
+                   "type":"TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "gradingType":"ASIAN_HANDICAP",
+                   "handicap":2.25,
+                   "formattedHandicap":"2 / 2.5",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T15:13:55.427Z",
+                   "sequence":11,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794865,
+                   "name":"Total 2.50",
+                   "type":"TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "gradingType":"POINT_TOTAL",
+                   "handicap":2.5,
+                   "formattedHandicap":"2.5",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-22T06:30:10.770Z",
+                   "sequence":13,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"BOTH_SCORE",
+             "marketName":"Both Score",
+             "markets":[
+                {
+                   "id":43794694,
+                   "name":"Both Score",
+                   "type":"BOTH_SCORE",
+                   "marketInternalType":"BOTH_SCORE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":42,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_GOALS_HOME",
+             "marketName":"Total Goals Home",
+             "markets":[
+                {
+                   "id":43794835,
+                   "name":"Team Goals VPS Vaasa",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":0.5,
+                   "formattedHandicap":"0.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":54,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794823,
+                   "name":"Team Goals VPS Vaasa",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":1.5,
+                   "formattedHandicap":"1.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":49,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794838,
+                   "name":"Team Goals VPS Vaasa",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":2.5,
+                   "formattedHandicap":"2.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":53,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_GOALS_AWAY",
+             "marketName":"Total Goals Away",
+             "markets":[
+                {
+                   "id":43794799,
+                   "name":"Team Goals KuPS",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":0.5,
+                   "formattedHandicap":"0.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":47,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794793,
+                   "name":"Team Goals KuPS",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":1.5,
+                   "formattedHandicap":"1.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":45,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794805,
+                   "name":"Team Goals KuPS",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":2.5,
+                   "formattedHandicap":"2.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":48,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"HALF_FULL_TIME",
+             "marketName":"Half Time / Full Time",
+             "markets":[
+                {
+                   "id":43794673,
+                   "name":"Half Time / Full Time",
+                   "type":"HALF_FULL_TIME",
+                   "marketInternalType":"HALF_FULL_TIME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":41,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"DOUBLE_CHANCE",
+             "marketName":"Double Chance",
+             "markets":[
+                {
+                   "id":43794817,
+                   "name":"Double Chance",
+                   "type":"DOUBLE_CHANCE",
+                   "marketInternalType":"DOUBLE_CHANCE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":50,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORRECT_SCORE",
+             "marketName":"Correct Score",
+             "markets":[
+                {
+                   "id":43794841,
+                   "name":"Correct Score",
+                   "type":"CORRECT_SCORE",
+                   "marketInternalType":"CORRECT_SCORE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":51,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"THREE_WAY_AND_TOTAL",
+             "marketName":"1X2 & Goals O/U",
+             "markets":[
+                {
+                   "id":43794646,
+                   "name":"1X2 & Goals O/U",
+                   "type":"THREE_WAY_AND_TOTAL",
+                   "marketInternalType":"THREE_WAY_AND_TOTAL",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":1.5,
+                   "formattedHandicap":"1.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":32,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794649,
+                   "name":"1X2 & Goals O/U",
+                   "type":"THREE_WAY_AND_TOTAL",
+                   "marketInternalType":"THREE_WAY_AND_TOTAL",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":2.5,
+                   "formattedHandicap":"2.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":34,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794658,
+                   "name":"1X2 & Goals O/U",
+                   "type":"THREE_WAY_AND_TOTAL",
+                   "marketInternalType":"THREE_WAY_AND_TOTAL",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":3.5,
+                   "formattedHandicap":"3.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":35,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"THREE_WAY_AND_BOTH_SCORE",
+             "marketName":"1X2 & Both Teams To Score",
+             "markets":[
+                {
+                   "id":43794829,
+                   "name":"1X2 & Both Teams To Score",
+                   "type":"THREE_WAY_AND_BOTH_SCORE",
+                   "marketInternalType":"THREE_WAY_AND_BOTH_SCORE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":52,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_ODD_EVEN",
+             "marketName":"Total Odd/Even",
+             "markets":[
+                {
+                   "id":43794781,
+                   "name":"Total Goals Odd/Even",
+                   "type":"TOTAL_ODD_EVEN",
+                   "marketInternalType":"TOTAL_ODD_EVEN",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":46,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_GOALS_RANGE",
+             "marketName":"Total Goals",
+             "markets":[
+                {
+                   "id":43794652,
+                   "name":"Total Goals",
+                   "type":"TOTAL_GOALS_RANGE",
+                   "marketInternalType":"TOTAL_GOALS_RANGE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":33,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"DRAW_NO_BET",
+             "marketName":"Draw no bet",
+             "markets":[
+                {
+                   "id":43794679,
+                   "name":"Draw no bet",
+                   "type":"DRAW_NO_BET",
+                   "marketInternalType":"DRAW_NO_BET",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":44,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"WIN_TO_NIL",
+             "marketName":"Win To Nil",
+             "markets":[
+                {
+                   "id":43794664,
+                   "name":"Win To Nil",
+                   "type":"WIN_TO_NIL",
+                   "marketInternalType":"WIN_TO_NIL",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":37,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CLEAN_SHEET",
+             "marketName":"Clean Sheet",
+             "markets":[
+                {
+                   "id":43794670,
+                   "name":"Clean Sheet",
+                   "type":"CLEAN_SHEET",
+                   "marketInternalType":"CLEAN_SHEET",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":39,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"WINNING_MARGIN",
+             "marketName":"Winning Margin",
+             "markets":[
+                {
+                   "id":43794682,
+                   "name":"Winning Margin",
+                   "type":"WINNING_MARGIN",
+                   "marketInternalType":"WINNING_MARGIN",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":43,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"FIRST_LAST_GOAL",
+             "marketName":"First/Last Goal",
+             "markets":[
+                {
+                   "id":43895227,
+                   "name":"First/Last Goal",
+                   "type":"FIRST_LAST_GOAL",
+                   "marketInternalType":"FIRST_LAST_GOAL",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":55,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"BOTH_SCORE_AND_TOTAL",
+             "marketName":"Both Score And Total",
+             "markets":[
+                {
+                   "id":43794661,
+                   "name":"Both Score And Total",
+                   "type":"BOTH_SCORE_AND_TOTAL",
+                   "marketInternalType":"BOTH_SCORE_AND_TOTAL",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":1.5,
+                   "formattedHandicap":"1.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":36,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794667,
+                   "name":"Both Score And Total",
+                   "type":"BOTH_SCORE_AND_TOTAL",
+                   "marketInternalType":"BOTH_SCORE_AND_TOTAL",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":2.5,
+                   "formattedHandicap":"2.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":38,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORNER_ONE_X_TWO",
+             "marketName":"1x2",
+             "markets":[
+                {
+                   "id":43958686,
+                   "name":"Corner 1x2",
+                   "type":"CORNER_ONE_X_TWO",
+                   "marketInternalType":"ONE_X_TWO",
+                   "gradingType":"SINGLE_WINNER_WINS",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.504Z",
+                   "sequence":31,
+                   "scoreType":"CORNERS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORNER_HANDICAP",
+             "marketName":"HDP",
+             "markets":[
+                {
+                   "id":43873615,
+                   "name":"Corner HDP (-0.50)",
+                   "type":"CORNER_HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "gradingType":"POINT_SPREAD",
+                   "handicap":-0.5,
+                   "formattedHandicap":"-0.50",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-20T15:13:15.822Z",
+                   "sequence":24,
+                   "scoreType":"CORNERS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORNER_TOTAL",
+             "marketName":"Total",
+             "markets":[
+                {
+                   "id":43873591,
+                   "name":"Corner Total 10.00",
+                   "type":"CORNER_TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "gradingType":"POINT_TOTAL",
+                   "handicap":10,
+                   "formattedHandicap":"10.0",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-20T15:13:15.822Z",
+                   "sequence":30,
+                   "scoreType":"CORNERS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"WINNER_INTERVAL_1_15",
+             "marketName":"Winning Team Between 1 And 15 Minutes",
+             "markets":[
+                {
+                   "id":43895224,
+                   "name":"Winning Team Between 1 And 15 Minutes",
+                   "type":"WINNER_INTERVAL_1_15",
+                   "marketInternalType":"WINNER_INTERVAL_1_15",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":56,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"HALF_MOST_GOALS",
+             "marketName":"Half With The Most Goals",
+             "markets":[
+                {
+                   "id":43794685,
+                   "name":"Half With The Most Goals",
+                   "type":"HALF_MOST_GOALS",
+                   "marketInternalType":"HALF_MOST_GOALS",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FULL_EVENT",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":40,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "marketPeriod":"FIRST_HALF",
+       "marketTypes":[
+          {
+             "marketType":"ONE_X_TWO",
+             "marketName":"1x2",
+             "markets":[
+                {
+                   "id":43794700,
+                   "name":"1x2 First Half",
+                   "type":"ONE_X_TWO",
+                   "marketInternalType":"ONE_X_TWO",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":67,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"HANDICAP",
+             "marketName":"HDP",
+             "markets":[
+                {
+                   "id":43794913,
+                   "name":"HDP (-0.25) First Half",
+                   "type":"HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "gradingType":"ASIAN_HANDICAP",
+                   "handicap":-0.25,
+                   "formattedHandicap":"-0.25",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":58,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794907,
+                   "name":"HDP (0.00) First Half",
+                   "type":"HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "gradingType":"POINT_SPREAD",
+                   "handicap":0,
+                   "formattedHandicap":"0.00",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":57,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL",
+             "marketName":"Total",
+             "markets":[
+                {
+                   "id":43794916,
+                   "name":"Total 0.75 First Half",
+                   "type":"TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "gradingType":"ASIAN_HANDICAP",
+                   "handicap":0.75,
+                   "formattedHandicap":"0.5 / 1",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":62,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794910,
+                   "name":"Total 1.00 First Half",
+                   "type":"TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "gradingType":"POINT_TOTAL",
+                   "handicap":1,
+                   "formattedHandicap":"1.0",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":63,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"BOTH_SCORE",
+             "marketName":"Both Score",
+             "markets":[
+                {
+                   "id":43794688,
+                   "name":"Both Score First Half",
+                   "type":"BOTH_SCORE",
+                   "marketInternalType":"BOTH_SCORE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":75,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_GOALS_HOME",
+             "marketName":"Total Goals Home",
+             "markets":[
+                {
+                   "id":43794790,
+                   "name":"Team Goals VPS Vaasa First Half",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":0.5,
+                   "formattedHandicap":"0.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":76,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794826,
+                   "name":"Team Goals VPS Vaasa First Half",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":1.5,
+                   "formattedHandicap":"1.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":84,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794796,
+                   "name":"Team Goals VPS Vaasa First Half",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":2.5,
+                   "formattedHandicap":"2.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":78,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794802,
+                   "name":"Team Goals VPS Vaasa First Half",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":3.5,
+                   "formattedHandicap":"3.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":80,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794784,
+                   "name":"Team Goals VPS Vaasa First Half",
+                   "type":"TOTAL_GOALS_HOME",
+                   "marketInternalType":"TOTAL_GOALS_HOME",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":4.5,
+                   "formattedHandicap":"4.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":79,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_GOALS_AWAY",
+             "marketName":"Total Goals Away",
+             "markets":[
+                {
+                   "id":43794814,
+                   "name":"Team Goals KuPS First Half",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":0.5,
+                   "formattedHandicap":"0.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":82,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794832,
+                   "name":"Team Goals KuPS First Half",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":1.5,
+                   "formattedHandicap":"1.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":85,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794787,
+                   "name":"Team Goals KuPS First Half",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":2.5,
+                   "formattedHandicap":"2.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":77,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794820,
+                   "name":"Team Goals KuPS First Half",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":3.5,
+                   "formattedHandicap":"3.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":86,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                },
+                {
+                   "id":43794808,
+                   "name":"Team Goals KuPS First Half",
+                   "type":"TOTAL_GOALS_AWAY",
+                   "marketInternalType":"TOTAL_GOALS_AWAY",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "handicap":4.5,
+                   "formattedHandicap":"4.50",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":81,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORRECT_SCORE",
+             "marketName":"Correct Score",
+             "markets":[
+                {
+                   "id":43794691,
+                   "name":"Correct Score First Half",
+                   "type":"CORRECT_SCORE",
+                   "marketInternalType":"CORRECT_SCORE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":74,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_ODD_EVEN",
+             "marketName":"Total Odd/Even",
+             "markets":[
+                {
+                   "id":43794811,
+                   "name":"Total Goals Odd/Even First Half",
+                   "type":"TOTAL_ODD_EVEN",
+                   "marketInternalType":"TOTAL_ODD_EVEN",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":83,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL_GOALS_RANGE",
+             "marketName":"Total Goals",
+             "markets":[
+                {
+                   "id":43794655,
+                   "name":"Total Goals First Half",
+                   "type":"TOTAL_GOALS_RANGE",
+                   "marketInternalType":"TOTAL_GOALS_RANGE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":73,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORNER_ONE_X_TWO",
+             "marketName":"1x2",
+             "markets":[
+                {
+                   "id":43958662,
+                   "name":"Corner 1x2 First Half",
+                   "type":"CORNER_ONE_X_TWO",
+                   "marketInternalType":"ONE_X_TWO",
+                   "gradingType":"SINGLE_WINNER_WINS",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.504Z",
+                   "sequence":72,
+                   "scoreType":"CORNERS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORNER_HANDICAP",
+             "marketName":"HDP",
+             "markets":[
+                {
+                   "id":43958656,
+                   "name":"Corner HDP (-0.25) First Half",
+                   "type":"CORNER_HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "gradingType":"ASIAN_HANDICAP",
+                   "handicap":-0.25,
+                   "formattedHandicap":"-0.25",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.504Z",
+                   "sequence":68,
+                   "scoreType":"CORNERS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          },
+          {
+             "marketType":"CORNER_TOTAL",
+             "marketName":"Total",
+             "markets":[
+                {
+                   "id":43873588,
+                   "name":"Corner Total 4.50 First Half",
+                   "type":"CORNER_TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "gradingType":"POINT_TOTAL",
+                   "handicap":4.5,
+                   "formattedHandicap":"4.5",
+                   "period":"FIRST_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "status":"OPEN",
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":69,
+                   "scoreType":"CORNERS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          }
+       ]
+    },
+    {
+       "marketPeriod":"SECOND_HALF",
+       "marketTypes":[
+          {
+             "marketType":"ONE_X_TWO",
+             "marketName":"1x2",
+             "markets":[
+                {
+                   "type":"ONE_X_TWO",
+                   "marketInternalType":"ONE_X_TWO",
+                   "period":"SECOND_HALF"
+                }
+             ]
+          },
+          {
+             "marketType":"HANDICAP",
+             "marketName":"HDP",
+             "markets":[
+                {
+                   "type":"HANDICAP",
+                   "marketInternalType":"HANDICAP",
+                   "period":"SECOND_HALF"
+                }
+             ]
+          },
+          {
+             "marketType":"TOTAL",
+             "marketName":"Total",
+             "markets":[
+                {
+                   "type":"TOTAL",
+                   "marketInternalType":"TOTAL",
+                   "period":"SECOND_HALF"
+                }
+             ]
+          },
+          {
+             "marketType":"BOTH_SCORE",
+             "marketName":"Both Score",
+             "markets":[
+                {
+                   "id":43794676,
+                   "name":"Both Score Second Half",
+                   "type":"BOTH_SCORE",
+                   "marketInternalType":"BOTH_SCORE",
+                   "gradingType":"RUNNER_OUTCOME",
+                   "period":"SECOND_HALF",
+                   "startTime":"2024-05-22T15:00:00.000Z",
+                   "inRunning":false,
+                   "allowLiveBetting":true,
+                   "lastUpdate":"2024-05-21T23:13:37.503Z",
+                   "sequence":87,
+                   "scoreType":"POINTS",
+                   "tags":{
+                      
+                   }
+                }
+             ]
+          }
+       ]
     }
-]
+ ]
