@@ -5,7 +5,8 @@
     "email": "diegsan20@gmail.com"
   },
   "dependencies": {
-    "nvm": "^0.0.4",
-    "node": "^20.12.2"
+    "axios": "^1.7.2",
+    "node": "^20.12.2",
+    "nvm": "^0.0.4"
   }
 }
