@@ -1,9 +1,7 @@
 const allBalance = require('./statement-all-usd.json');
 const statement = allBalance.statements;
 
-let sumOfCredit = 0;
-let sumOfTurnover = 0;
-let sumOfStake = 0;
+let [sumOfCredit, sumOfTurnover, sumOfStake] = [0, 0, 0];
 
 const to2Dec = (num) => {
     return num.toFixed(2)

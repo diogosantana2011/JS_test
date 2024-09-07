@@ -1,8 +1,7 @@
 const accountBalances = require('./test-balance-usd.json');
 const statements = accountBalances.statementBetsByDateList;
-let sumOfCredit = 0;
-let sumOfTurnover = 0;
-let sumOfStake = 0;
+
+let [sumOfCredit, sumOfTurnover, sumOfStake] = [0, 0 , 0];
 
 const to3Dec = (num) => {
     return num.toFixed(2)
