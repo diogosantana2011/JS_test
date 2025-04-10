@@ -1,4 +1,4 @@
-name: MongoDB Tests
+name: Jasmine CI Tests
 
 on:
   push:
