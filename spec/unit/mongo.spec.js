@@ -5,19 +5,16 @@ import { ObjectId } from "mongodb";
 describe('Mongo - queryDb', () => {
     it(`Checks queryDb fn returns correct data, based on query from ${db1.description}`, () => { 
         return queryDb(db1.database, db1.collection, db1.obj).then((data) => {
-            // Check if data is not null or undefined
-            expect(data).not.toBeNull();
-            expect(data).not.toBeUndefined();
-    
-            // Check if data contains pid and hostname
             expect(data.pid).toEqual({ '$numberLong': '10086' });
-            expect(data.hostname).toEqual('Diogos-MacBook-Air.local');
+            console.log(data.pid);
+            console.log(data);
+            expect(data.hostname).toEqual('Diogos-MacBook-Air.local')
         });
-    });    
+    });
 
     it(`Checks queryDb fn returns correct data, based on query from ${db2.description}`, () => {
         return queryDb(db2.database, db2.collection, db2.obj).then((data) => {
-            expect(data.pid).toEqual(db2.obj.pid)
+            expect(data?.pid).toEqual(db2.obj.pid)
             expect(data.manualInsert).toEqual(true)
             expect(data._id).toBeDefined();
         });
