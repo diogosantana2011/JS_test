@@ -1,4 +1,4 @@
-name: MongoDB Tests
+name: Jasmine Tests
 
 on:
   push:
@@ -25,21 +25,21 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16'
+        node-version: '18'
 
     - name: Install dependencies
       run: npm install
 
     - name: Wait for MongoDB to be ready
       run: |
-        # Use wait-for-it to wait until MongoDB is available
-        wget https://raw.githubusercontent.com/vishnubob/wait-for-it/master/wait-for-it.sh
-        chmod +x wait-for-it.sh
-        ./wait-for-it.sh localhost:27017 --timeout=30 --strict -- echo "MongoDB is ready!"
+        # Ensure MongoDB is available before proceeding
+        until nc -z localhost 27017; do
+          echo "Waiting for MongoDB to be available..."
+          sleep 1
+        done
+        echo "MongoDB is ready!"
 
-    - name: Run MongoDB tests
-      env:
-        MONGO_URI: mongodb://localhost:27017
+    - name: Run tests
       run: npm test
 
     - name: Clean up MongoDB data
