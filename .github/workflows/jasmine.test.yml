@@ -1,4 +1,4 @@
-name: MongoDB Tests CI
+name: Jasmine Tests CI
 
 on:
   push:
@@ -15,7 +15,7 @@ jobs:
     services:
       mongodb:
         image: mongo:latest
-        options: --health-cmd="nc -z localhost 27017" --health-interval=10s --health-timeout=5s --health-retries=10
+        options: --health-cmd="nc -z localhost 27017" --health-interval=10s --health-timeout=5s --health-retries=10 # Increased retries and timeout
 
     steps:
       - name: Checkout code
@@ -32,7 +32,8 @@ jobs:
       - name: Wait for MongoDB to be ready
         run: |
           echo "Waiting for MongoDB to be ready..."
-          while ! nc -z localhost 27017; do
+          until nc -z mongodb 27017; do
+            echo "MongoDB not ready, waiting 1s..."
             sleep 1
           done
 
