@@ -1,5 +1,6 @@
-# JS_test
+[![Continuous integration status](https://github.com/diogosantana2011/JS_test/actions/workflows/jasmine.test.yml/badge.svg)](https://github.com/diogosantana2011/JS_test/actions/workflows/jasmine.test.yml)
 
+# JS_test
 Repository created for some scripts and for playing around with Javascript during testing.
 
 # To Do
