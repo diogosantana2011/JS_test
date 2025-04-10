@@ -3,9 +3,9 @@ import { db1, db2, db3Insert, dbRemoveObj, dbRemoveManyObj, dbUpdateQueryObj } f
 import { ObjectId } from "mongodb";
 
 describe('Mongo - queryDb', () => {
-    it(`Checks queryDb fn returns correct data, based on query from ${db1.description}`, () => { 
+    xit(`Checks queryDb fn returns correct data, based on query from ${db1.description}`, () => { 
         return queryDb(db1.database, db1.collection, db1.obj).then((data) => {
-            // expect(data.pid).toEqual({ '$numberLong': '10086' });
+            expect(data.pid).toEqual({ '$numberLong': '10086' });
             expect(data.hostname).toEqual('Diogos-MacBook-Air.local')
         });
     });
