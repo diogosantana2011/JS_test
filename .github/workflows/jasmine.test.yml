@@ -1,5 +1,4 @@
-name: Node.js CI
-
+name: Jasmine Tests CI
 on:
   push:
     branches:
@@ -7,10 +6,14 @@ on:
   pull_request:
     branches:
       - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    services:
+      mongodb:
+        image: mongo:latest
+        options: --health-cmd="nc -z localhost 27017" --health-interval=10s --health-timeout=5s --health-retries=5
 
     steps:
       - name: Checkout code
